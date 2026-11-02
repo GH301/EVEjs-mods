@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-02T13:42:14.344Z",
+  "publishedAt": "2026-11-02T13:56:26.660Z",
   "mods": [
     {
       "author": {
@@ -652,7 +652,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 1732,
+      "downloads": 1735,
       "cdnHits": 1723
     },
     {
@@ -957,7 +957,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star/releases/download/v1.1.1/evejs-jumpdrive-to-star-1.1.1.zip"
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star/releases/download/v1.1.2/evejs-jumpdrive-to-star-1.1.2.zip"
         }
       ],
       "evejsVersions": [
@@ -973,16 +973,16 @@
       ],
       "repo": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
       "requiresRestart": true,
-      "sha256": "719194650e0f93e13a478869414e7a74220ce82f498935abe45ec9ea7d20a364",
-      "sizeBytes": 66128,
+      "sha256": "5bf1ce6fe60b9b1dd56727e29b9894b3b92a0818cde4d283c2d1f2df23299b67",
+      "sizeBytes": 65817,
       "tags": [
         "跳跃",
         "恒星",
         "HUD"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 7,
+      "downloads": 8,
       "cdnHits": 0
     },
     {
@@ -1025,7 +1025,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "injusticemaster/evejs-mod-world-ark-91900",
-      "downloads": 160,
+      "downloads": 162,
       "cdnHits": 0
     },
     {
@@ -1118,7 +1118,7 @@
       ],
       "version": "1.0.0",
       "source": "kokoandqiong/evejs-mod-evejs-sov-workforce-fix",
-      "downloads": 0,
+      "downloads": 2,
       "cdnHits": 0
     },
     {
@@ -1459,7 +1459,7 @@
       ],
       "version": "1.1.0",
       "source": "kokoandqiong/evejs-mod-evejs-slimitem-name-wstring",
-      "downloads": 16,
+      "downloads": 17,
       "cdnHits": 0
     },
     {
@@ -1850,7 +1850,7 @@
       ],
       "version": "0.1.3",
       "source": "xuenaimiao/evejs-mod-evejs-sc-station",
-      "downloads": 63,
+      "downloads": 65,
       "cdnHits": 0
     },
     {
@@ -1953,7 +1953,7 @@
       ],
       "version": "0.3.7",
       "source": "xuenaimiao/evejs-mod-evejs-sc-ships",
-      "downloads": 251,
+      "downloads": 253,
       "cdnHits": 0
     },
     {
@@ -2241,7 +2241,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "MateralCMX/evejs-mod-mobile-tractor-enhancement",
-      "downloads": 195,
+      "downloads": 196,
       "cdnHits": 0
     },
     {
@@ -2545,7 +2545,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "wj1t3q/LGfQFVrgY1FHklo5LqksTj85rxU1884/xSwjAAtlKlf7jD1wn5IivYCDH8RAbfu+txymdMGUCk/86Dg==",
-    "signedAt": "2026-11-02T13:42:14.347Z"
+    "sig": "DOLBlANYTmkaOuBXCG8HxlBbS/S5ji0sfbHmzbQ8WoFPoTqN1/WsA4ZCQopHvNzUda5tii992AS+o2OfQtgOCQ==",
+    "signedAt": "2026-11-02T13:56:26.665Z"
   }
 }

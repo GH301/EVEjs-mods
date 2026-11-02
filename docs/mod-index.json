@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-02T10:56:44.509Z",
+  "publishedAt": "2026-11-02T11:27:41.555Z",
   "mods": [
     {
       "author": {
@@ -137,7 +137,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autolockfire-cn",
-      "downloads": 245,
+      "downloads": 246,
       "cdnHits": 0
     },
     {
@@ -342,7 +342,7 @@
       "tags": [],
       "version": "1.0.17",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1035,
+      "downloads": 1037,
       "cdnHits": 1912
     },
     {
@@ -578,7 +578,7 @@
       ],
       "version": "1.0.5",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 80,
+      "downloads": 82,
       "cdnHits": 0
     },
     {
@@ -652,7 +652,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 1726,
+      "downloads": 1728,
       "cdnHits": 1723
     },
     {
@@ -702,7 +702,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-npc-hull-hp-fix",
-      "downloads": 80,
+      "downloads": 82,
       "cdnHits": 0
     },
     {
@@ -940,6 +940,50 @@
       },
       "moderatedAt": "2026-10-17T14:59:58.883Z",
       "moderatedBy": "diguo520"
+    },
+    {
+      "author": {
+        "id": "au-mvdfee9me05u",
+        "keyId": "0f5102b5a107",
+        "name": "XUAN"
+      },
+      "category": "玩法",
+      "changelog": "",
+      "conflicts": [],
+      "delisted": false,
+      "description": "配合 AutoLockFire 的 HUD 跳跃按钮：星系终点落到恒星表面上方 1000km；空间站/建筑/星门/天体/小行星带/深空书签落到目标表面外 14m 的随机位置（不检查跳跃引擎、不扣燃料）。目标源码只追加、不修改。",
+      "displayName": "一键跳跃到终点（精确落点）",
+      "downloadUrls": [
+        {
+          "mirror": "github",
+          "priority": 1,
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star/releases/download/v1.0.1/evejs-jumpdrive-to-star-1.0.1.zip"
+        }
+      ],
+      "evejsVersions": [
+        "261028.1"
+      ],
+      "featured": false,
+      "highlights": [],
+      "history": [],
+      "id": "evejs-jumpdrive-to-star",
+      "publishedAt": "2026-11-02",
+      "readme": [
+        "配合 AutoLockFire 的 HUD 跳跃按钮：星系终点落到恒星表面上方 1000km；空间站/建筑/星门/天体/小行星带/深空书签落到目标表面外 14m 的随机位置（不检查跳跃引擎、不扣燃料）。目标源码只追加、不修改。"
+      ],
+      "repo": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
+      "requiresRestart": true,
+      "sha256": "ded83aa47b2a8f09148b6bfd795cb8f1ea48496ecc569c19d14a5f03bbabd05c",
+      "sizeBytes": 22512,
+      "tags": [
+        "跳跃",
+        "恒星",
+        "HUD"
+      ],
+      "version": "1.0.1",
+      "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
+      "downloads": 1,
+      "cdnHits": 0
     },
     {
       "author": {
@@ -1271,7 +1315,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-structure-targeting-fix",
-      "downloads": 63,
+      "downloads": 64,
       "cdnHits": 0
     },
     {
@@ -1321,7 +1365,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-dungeon-pocket-anchor-fix",
-      "downloads": 72,
+      "downloads": 73,
       "cdnHits": 0
     },
     {
@@ -1421,7 +1465,7 @@
       ],
       "version": "5.2.1",
       "source": "JonnyTC/evejs-mod-evejs-colossus-capital-fit",
-      "downloads": 62,
+      "downloads": 63,
       "cdnHits": 0
     },
     {
@@ -1623,7 +1667,7 @@
       "tags": [],
       "version": "0.2.2",
       "source": "xuenaimiao/evejs-mod-evejs-perf-fix",
-      "downloads": 463,
+      "downloads": 464,
       "cdnHits": 2
     },
     {
@@ -2104,7 +2148,7 @@
       ],
       "version": "3.2.0",
       "source": "Jasper377/evejs-mod-evejs-racks16",
-      "downloads": 389,
+      "downloads": 390,
       "cdnHits": 3
     },
     {
@@ -2383,51 +2427,6 @@
     },
     {
       "author": {
-        "id": "au-mvdfee9me05u",
-        "keyId": "0f5102b5a107",
-        "name": "XUAN"
-      },
-      "category": "玩法",
-      "changelog": "",
-      "conflicts": [],
-      "delisted": false,
-      "description": "配合 AutoLockFire 的 HUD 跳跃按钮：星系终点落到恒星表面上方 1000km；空间站/建筑/星门/天体/小行星带/深空书签落到目标表面外 14m 的随机位置（不检查跳跃引擎、不扣燃料）。目标源码只追加、不修改。",
-      "displayName": "跳到终点（精确落点）",
-      "downloadUrls": [
-        {
-          "mirror": "github",
-          "priority": 1,
-          "url": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star/releases/download/v1.0.0/evejs-jumpdrive-to-star-1.0.0.zip"
-        }
-      ],
-      "evejsVersions": [
-        "0.12.9",
-        "261018.x",
-        "261028.x"
-      ],
-      "featured": false,
-      "highlights": [],
-      "history": [],
-      "id": "evejs-jumpdrive-to-star",
-      "publishedAt": "2026-11-02",
-      "readme": [],
-      "repo": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "requiresRestart": true,
-      "sha256": "f47161cd3b3039fc20ac5be871dddf92106043500902eac465a1f8808d6016bb",
-      "sizeBytes": 21425,
-      "tags": [
-        "跳跃",
-        "货舰",
-        "恒星",
-        "HUD"
-      ],
-      "version": "1.0.0",
-      "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 0,
-      "cdnHits": 0
-    },
-    {
-      "author": {
         "id": "au-mvtppqproasa",
         "keyId": "5bb57b91ba6c",
         "name": "珊瑚中的吃虎鱼"
@@ -2501,7 +2500,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "yy+jWKnjeNfEUdTpHI0Yjw473Ed7fmC5SsN//tAAMy39VkVIGHPCeFl4aAxKQmGTYoeuvJOt3ODDj9xMM2TGDw==",
-    "signedAt": "2026-11-02T10:56:44.513Z"
+    "sig": "myvLdtx+pZc6IQexkq0TijQJs98SR6tpTHmCriUz6qocbUWamoemlGitS7vVnbkyksj9eNyhqf+kWE2F2/DcDA==",
+    "signedAt": "2026-11-02T11:27:41.559Z"
   }
 }

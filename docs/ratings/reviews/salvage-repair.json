@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1793595808760,
+  "modId": "salvage-repair",
+  "reviews": [],
+  "stars": {
+    "count": 1,
+    "keys": [
+      "6958c518e606"
+    ]
+  },
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "evejs-ratings-2026-10-01",
+    "sig": "73rh5Etd3do3Mf3zsD//X1LeTDN7mMMHMWtFnodsQxyUbIu5LUXjysabcevR0bTzXsYIer9hkMmJb/SCupa6AQ=="
+  }
+}

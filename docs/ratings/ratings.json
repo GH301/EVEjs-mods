@@ -1,7 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793494114426,
+  "generatedAt": 1793600909369,
   "mods": {
+    "bug-fixes": {
+      "stars": 0,
+      "comments": 1,
+      "average": 0,
+      "count": 0,
+      "withText": 1,
+      "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
     "evejs-acspecialbattleship": {
       "stars": 1,
       "comments": 0,
@@ -46,10 +60,10 @@
     },
     "evejs-automining": {
       "stars": 5,
-      "comments": 2,
+      "comments": 3,
       "average": 5,
       "count": 5,
-      "withText": 2,
+      "withText": 3,
       "histogram": [
         0,
         0,
@@ -128,6 +142,20 @@
         1
       ]
     },
+    "evejs-sc-ships-pack-aegis-anvil": {
+      "stars": 0,
+      "comments": 1,
+      "average": 0,
+      "count": 0,
+      "withText": 1,
+      "histogram": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
     "evejs-sleeper-drifters": {
       "stars": 4,
       "comments": 1,
@@ -170,6 +198,20 @@
         1
       ]
     },
+    "salvage-repair": {
+      "stars": 1,
+      "comments": 0,
+      "average": 5,
+      "count": 1,
+      "withText": 0,
+      "histogram": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
     "world-ark-91900": {
       "stars": 1,
       "comments": 0,
@@ -188,6 +230,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "wgYnNKrpJctGuxxqa3EdigxUcFk3s80OXy5xa+SRKjQoc5UtPCvZC4jGMGKv/B3UGKweVM+DDDMdKbtTTnOcDQ=="
+    "sig": "MCmLHTd2H1/8kv0ptiIwk2QyJdqWUndH6/1Wz0lEF7EYs6bJDh9rYj8aLOJQCDPV/KtYQi+PIcnfwJG+U90ACA=="
   }
 }

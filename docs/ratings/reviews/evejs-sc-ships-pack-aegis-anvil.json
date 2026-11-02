@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1793594094680,
+  "modId": "evejs-sc-ships-pack-aegis-anvil",
+  "reviews": [
+    {
+      "id": "rv-1793594092138-18180",
+      "keyId": "bc816da2a7bc",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "0.1.0",
+      "date": "2026-11-02",
+      "body": "作者不升级了吗",
+      "edited": false
+    }
+  ],
+  "stars": {
+    "count": 0,
+    "keys": []
+  },
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "evejs-ratings-2026-10-01",
+    "sig": "vBgNranUiGlZt1xLzhbDqUXoQ4CAywDPX1nqamRm4pRRbQEJHxktpWRO+aJ29erZy9rgszJ/KJcaR5Wrtto3AQ=="
+  }
+}

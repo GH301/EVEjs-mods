@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-02T14:08:10.486Z",
+  "publishedAt": "2026-11-02T15:20:12.654Z",
   "mods": [
     {
       "author": {
@@ -45,7 +45,7 @@
       ],
       "version": "1.2.3",
       "source": "jealous123456789/evejs-mod-evejs-air-career-payout",
-      "downloads": 81,
+      "downloads": 82,
       "cdnHits": 0
     },
     {
@@ -92,7 +92,7 @@
       ],
       "version": "1.1.0",
       "source": "jealous123456789/evejs-mod-evejs-air-crate-loot",
-      "downloads": 90,
+      "downloads": 91,
       "cdnHits": 0
     },
     {
@@ -282,7 +282,7 @@
       ],
       "version": "1.1.5",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1227,
+      "downloads": 1229,
       "cdnHits": 0
     },
     {
@@ -342,7 +342,7 @@
       "tags": [],
       "version": "1.0.17",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1038,
+      "downloads": 1039,
       "cdnHits": 1912
     },
     {
@@ -479,7 +479,7 @@
       "tags": [],
       "version": "0.2.3",
       "source": "MateralCMX/evejs-mod-ship-blueprints",
-      "downloads": 214,
+      "downloads": 215,
       "cdnHits": 8
     },
     {
@@ -524,7 +524,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 387,
+      "downloads": 388,
       "cdnHits": 0
     },
     {
@@ -578,7 +578,7 @@
       ],
       "version": "1.0.5",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 85,
+      "downloads": 86,
       "cdnHits": 0
     },
     {
@@ -652,7 +652,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 1737,
+      "downloads": 1751,
       "cdnHits": 1723
     },
     {
@@ -742,7 +742,7 @@
       "tags": [],
       "version": "0.6.0",
       "source": "Jasper377/evejs-mod-evejs-npc-console",
-      "downloads": 226,
+      "downloads": 227,
       "cdnHits": 2
     },
     {
@@ -982,7 +982,7 @@
       ],
       "version": "1.1.2",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 8,
+      "downloads": 10,
       "cdnHits": 0
     },
     {
@@ -1073,7 +1073,7 @@
       ],
       "version": "1.0.9",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 918,
+      "downloads": 919,
       "cdnHits": 0
     },
     {
@@ -1118,7 +1118,7 @@
       ],
       "version": "1.0.0",
       "source": "kokoandqiong/evejs-mod-evejs-sov-workforce-fix",
-      "downloads": 2,
+      "downloads": 5,
       "cdnHits": 0
     },
     {
@@ -1459,7 +1459,7 @@
       ],
       "version": "1.1.0",
       "source": "kokoandqiong/evejs-mod-evejs-slimitem-name-wstring",
-      "downloads": 17,
+      "downloads": 20,
       "cdnHits": 0
     },
     {
@@ -1850,7 +1850,7 @@
       ],
       "version": "0.1.3",
       "source": "xuenaimiao/evejs-mod-evejs-sc-station",
-      "downloads": 65,
+      "downloads": 68,
       "cdnHits": 0
     },
     {
@@ -1905,7 +1905,7 @@
       ],
       "version": "0.1.1",
       "source": "xuenaimiao/evejs-mod-evejs-sc-body",
-      "downloads": 18,
+      "downloads": 19,
       "cdnHits": 0
     },
     {
@@ -1953,7 +1953,7 @@
       ],
       "version": "0.3.7",
       "source": "xuenaimiao/evejs-mod-evejs-sc-ships",
-      "downloads": 253,
+      "downloads": 263,
       "cdnHits": 0
     },
     {
@@ -2212,11 +2212,11 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/MateralCMX/evejs-mod-mobile-tractor-enhancement/releases/download/v0.1.0/mobile-tractor-enhancement-0.1.0.zip"
+          "url": "https://github.com/MateralCMX/evejs-mod-mobile-tractor-enhancement/releases/download/v0.1.3/mobile-tractor-enhancement-0.1.3.zip"
         }
       ],
       "evejsVersions": [
-        "0.12.9"
+        "261028.1"
       ],
       "featured": false,
       "highlights": [
@@ -2228,18 +2228,17 @@
       ],
       "history": [],
       "id": "mobile-tractor-enhancement",
-      "publishedAt": "2026-10-16",
+      "publishedAt": "2026-11-02",
       "readme": [
-        "支持移动牵引装置同时牵引多个目标，强化财团装置的牵引速度，并在拾取后自动打捞残骸。",
         "启用后重启游戏服务端，再按通常方式部署牵引装置。自动打捞仅适用于财团型号；物品权限和货仓容量限制仍然有效。客户端属性面板可能仍显示原有数值。",
         "停用前请先回收正在工作的牵引装置，再重启游戏服务端。"
       ],
       "repo": "https://github.com/MateralCMX/evejs-mod-mobile-tractor-enhancement",
       "requiresRestart": true,
-      "sha256": "bed65c1dc8484d234ac7639dafbb3b20a5330b02fe8a2de5f617a9804593411b",
-      "sizeBytes": 23618,
+      "sha256": "b24ee5dfe11f28fb4bdc575dbf8ec888d9b60b8f561a030a3bb7c09776c42d8e",
+      "sizeBytes": 29214,
       "tags": [],
-      "version": "0.1.0",
+      "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-mobile-tractor-enhancement",
       "downloads": 196,
       "cdnHits": 0
@@ -2285,7 +2284,7 @@
       ],
       "version": "1.4.9",
       "source": "weiqichang744-alt/evejs-mod-evejs-te-gong-jian-chuan-bao",
-      "downloads": 443,
+      "downloads": 444,
       "cdnHits": 0
     },
     {
@@ -2325,7 +2324,7 @@
       "tags": [],
       "version": "1.6.0",
       "source": "Jasper377/evejs-mod-evejs-acspecialbattleship",
-      "downloads": 442,
+      "downloads": 443,
       "cdnHits": 3
     },
     {
@@ -2424,7 +2423,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "MateralCMX/evejs-mod-planetary-industry-enhancement",
-      "downloads": 110,
+      "downloads": 111,
       "cdnHits": 0
     },
     {
@@ -2467,7 +2466,7 @@
       ],
       "version": "1.0.0",
       "source": "Arasaka-vip/evejs-mod-evejs-pi-colony-limit",
-      "downloads": 24,
+      "downloads": 27,
       "cdnHits": 0
     },
     {
@@ -2512,7 +2511,7 @@
       ],
       "version": "1.0.4",
       "source": "kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
-      "downloads": 101,
+      "downloads": 102,
       "cdnHits": 0
     }
   ],
@@ -2545,7 +2544,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "UXsZFZqMzhFrQnZoGueldXUCMKqq/7mJTWlySjqC4MS9M+TLxygbVQ/0Sg+nmQ20uUrQEVrmI9Z4WO+OXMu1Bg==",
-    "signedAt": "2026-11-02T14:08:10.491Z"
+    "sig": "fP0xxFmjW6pvHks/K3ntFtB4KRaOJ1OdqaU3pBsKsvW4aFFJ1OufL14knWsgpp84D9fXIOHzb839U7yveaxYBg==",
+    "signedAt": "2026-11-02T15:20:12.659Z"
   }
 }

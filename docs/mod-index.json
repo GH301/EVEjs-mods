@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-02T13:56:26.660Z",
+  "publishedAt": "2026-11-02T14:08:10.486Z",
   "mods": [
     {
       "author": {
@@ -652,7 +652,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 1735,
+      "downloads": 1737,
       "cdnHits": 1723
     },
     {
@@ -2375,7 +2375,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autopilot-jump-stargate-0km",
-      "downloads": 251,
+      "downloads": 253,
       "cdnHits": 3
     },
     {
@@ -2424,7 +2424,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "MateralCMX/evejs-mod-planetary-industry-enhancement",
-      "downloads": 109,
+      "downloads": 110,
       "cdnHits": 0
     },
     {
@@ -2467,7 +2467,7 @@
       ],
       "version": "1.0.0",
       "source": "Arasaka-vip/evejs-mod-evejs-pi-colony-limit",
-      "downloads": 23,
+      "downloads": 24,
       "cdnHits": 0
     },
     {
@@ -2512,7 +2512,7 @@
       ],
       "version": "1.0.4",
       "source": "kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
-      "downloads": 100,
+      "downloads": 101,
       "cdnHits": 0
     }
   ],
@@ -2545,7 +2545,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "DOLBlANYTmkaOuBXCG8HxlBbS/S5ji0sfbHmzbQ8WoFPoTqN1/WsA4ZCQopHvNzUda5tii992AS+o2OfQtgOCQ==",
-    "signedAt": "2026-11-02T13:56:26.665Z"
+    "sig": "UXsZFZqMzhFrQnZoGueldXUCMKqq/7mJTWlySjqC4MS9M+TLxygbVQ/0Sg+nmQ20uUrQEVrmI9Z4WO+OXMu1Bg==",
+    "signedAt": "2026-11-02T14:08:10.491Z"
   }
 }

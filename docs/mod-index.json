@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-02T11:27:41.555Z",
+  "publishedAt": "2026-11-02T13:10:53.606Z",
   "mods": [
     {
       "author": {
@@ -137,7 +137,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autolockfire-cn",
-      "downloads": 246,
+      "downloads": 247,
       "cdnHits": 0
     },
     {
@@ -235,7 +235,7 @@
       "tags": [],
       "version": "0.17.5",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 486,
+      "downloads": 487,
       "cdnHits": 0
     },
     {
@@ -479,7 +479,7 @@
       "tags": [],
       "version": "0.2.3",
       "source": "MateralCMX/evejs-mod-ship-blueprints",
-      "downloads": 212,
+      "downloads": 213,
       "cdnHits": 8
     },
     {
@@ -524,7 +524,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 385,
+      "downloads": 386,
       "cdnHits": 0
     },
     {
@@ -578,7 +578,7 @@
       ],
       "version": "1.0.5",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 82,
+      "downloads": 84,
       "cdnHits": 0
     },
     {
@@ -652,7 +652,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 1728,
+      "downloads": 1731,
       "cdnHits": 1723
     },
     {
@@ -702,7 +702,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-npc-hull-hp-fix",
-      "downloads": 82,
+      "downloads": 83,
       "cdnHits": 0
     },
     {
@@ -839,7 +839,7 @@
       "tags": [],
       "version": "0.2.3",
       "source": "MateralCMX/evejs-mod-npc-extension-core",
-      "downloads": 177,
+      "downloads": 178,
       "cdnHits": 0
     },
     {
@@ -886,7 +886,7 @@
       "tags": [],
       "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-npc-loot-rules",
-      "downloads": 268,
+      "downloads": 269,
       "cdnHits": 0
     },
     {
@@ -951,13 +951,13 @@
       "changelog": "",
       "conflicts": [],
       "delisted": false,
-      "description": "配合 AutoLockFire 的 HUD 跳跃按钮：星系终点落到恒星表面上方 1000km；空间站/建筑/星门/天体/小行星带/深空书签落到目标表面外 14m 的随机位置（不检查跳跃引擎、不扣燃料）。目标源码只追加、不修改。",
+      "description": "自包含的 HUD 跳跃按钮：登录载荷由本模组自己下发（不依赖 AutoLockFire，同时启用时只显示一个按钮）。星系终点落到恒星表面上方 1000km；空间站/建筑/星门/天体/小行星带/深空书签落到目标表面外 14m 的随机位置（不检查跳跃引擎、不扣燃料）。目标源码只追加、不修改。",
       "displayName": "一键跳跃到终点（精确落点）",
       "downloadUrls": [
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star/releases/download/v1.0.1/evejs-jumpdrive-to-star-1.0.1.zip"
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star/releases/download/v1.1.1/evejs-jumpdrive-to-star-1.1.1.zip"
         }
       ],
       "evejsVersions": [
@@ -973,16 +973,16 @@
       ],
       "repo": "https://github.com/xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
       "requiresRestart": true,
-      "sha256": "ded83aa47b2a8f09148b6bfd795cb8f1ea48496ecc569c19d14a5f03bbabd05c",
-      "sizeBytes": 22512,
+      "sha256": "719194650e0f93e13a478869414e7a74220ce82f498935abe45ec9ea7d20a364",
+      "sizeBytes": 66128,
       "tags": [
         "跳跃",
         "恒星",
         "HUD"
       ],
-      "version": "1.0.1",
+      "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 1,
+      "downloads": 5,
       "cdnHits": 0
     },
     {
@@ -1220,7 +1220,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "MateralCMX/evejs-mod-clone-convenience",
-      "downloads": 114,
+      "downloads": 115,
       "cdnHits": 0
     },
     {
@@ -1267,7 +1267,7 @@
       ],
       "version": "1.6.4",
       "source": "JUZIMandarin/evejs-mod-evejs-sleeper-drifters",
-      "downloads": 610,
+      "downloads": 613,
       "cdnHits": 2
     },
     {
@@ -1315,7 +1315,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-structure-targeting-fix",
-      "downloads": 64,
+      "downloads": 65,
       "cdnHits": 0
     },
     {
@@ -1365,7 +1365,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-dungeon-pocket-anchor-fix",
-      "downloads": 73,
+      "downloads": 74,
       "cdnHits": 0
     },
     {
@@ -1414,7 +1414,7 @@
       ],
       "version": "1.1.0",
       "source": "kokoandqiong/evejs-mod-evejs-slimitem-name-wstring",
-      "downloads": 12,
+      "downloads": 15,
       "cdnHits": 0
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "version": "0.3.6",
       "source": "xuenaimiao/evejs-mod-evejs-sc-ships",
-      "downloads": 250,
+      "downloads": 251,
       "cdnHits": 0
     },
     {
@@ -2088,7 +2088,7 @@
       ],
       "version": "0.1.2",
       "source": "xuenaimiao/evejs-mod-evejs-sc-quarters",
-      "downloads": 105,
+      "downloads": 106,
       "cdnHits": 0
     },
     {
@@ -2148,7 +2148,7 @@
       ],
       "version": "3.2.0",
       "source": "Jasper377/evejs-mod-evejs-racks16",
-      "downloads": 390,
+      "downloads": 391,
       "cdnHits": 3
     },
     {
@@ -2240,7 +2240,7 @@
       ],
       "version": "1.4.9",
       "source": "weiqichang744-alt/evejs-mod-evejs-te-gong-jian-chuan-bao",
-      "downloads": 440,
+      "downloads": 442,
       "cdnHits": 0
     },
     {
@@ -2422,7 +2422,7 @@
       ],
       "version": "1.0.0",
       "source": "Arasaka-vip/evejs-mod-evejs-pi-colony-limit",
-      "downloads": 22,
+      "downloads": 23,
       "cdnHits": 0
     },
     {
@@ -2500,7 +2500,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "myvLdtx+pZc6IQexkq0TijQJs98SR6tpTHmCriUz6qocbUWamoemlGitS7vVnbkyksj9eNyhqf+kWE2F2/DcDA==",
-    "signedAt": "2026-11-02T11:27:41.559Z"
+    "sig": "adqpy/9A3MV9wj04ev8044RmFIZMxNpPulibKo9/9SKtxJ8TeZ0L9c301chVrpY0j0lsXkNVYr4EXANGK1nODw==",
+    "signedAt": "2026-11-02T13:10:53.609Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-02T13:29:10.739Z",
+  "publishedAt": "2026-11-02T13:31:42.179Z",
   "mods": [
     {
       "author": {
@@ -137,7 +137,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autolockfire-cn",
-      "downloads": 247,
+      "downloads": 250,
       "cdnHits": 0
     },
     {
@@ -982,7 +982,7 @@
       ],
       "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 6,
+      "downloads": 7,
       "cdnHits": 0
     },
     {
@@ -1168,7 +1168,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-mission-repair",
-      "downloads": 363,
+      "downloads": 364,
       "cdnHits": 0
     },
     {
@@ -1265,7 +1265,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "MateralCMX/evejs-mod-clone-convenience",
-      "downloads": 115,
+      "downloads": 116,
       "cdnHits": 0
     },
     {
@@ -1360,7 +1360,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-structure-targeting-fix",
-      "downloads": 65,
+      "downloads": 66,
       "cdnHits": 0
     },
     {
@@ -1410,7 +1410,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-dungeon-pocket-anchor-fix",
-      "downloads": 74,
+      "downloads": 75,
       "cdnHits": 0
     },
     {
@@ -1459,7 +1459,7 @@
       ],
       "version": "1.1.0",
       "source": "kokoandqiong/evejs-mod-evejs-slimitem-name-wstring",
-      "downloads": 15,
+      "downloads": 16,
       "cdnHits": 0
     },
     {
@@ -1510,7 +1510,7 @@
       ],
       "version": "5.2.1",
       "source": "JonnyTC/evejs-mod-evejs-colossus-capital-fit",
-      "downloads": 63,
+      "downloads": 64,
       "cdnHits": 0
     },
     {
@@ -1569,7 +1569,7 @@
       ],
       "version": "2.0.0",
       "source": "JonnyTC/evejs-mod-evejs-colossus-audio-fix",
-      "downloads": 34,
+      "downloads": 35,
       "cdnHits": 0
     },
     {
@@ -2545,7 +2545,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "KV2kANkatJc34kI3wJt3rkOWjk+p7lv9QuT+F0zzxE/A3EBgBbYJ964XXiHIISJ28lHFSlP0Jvurz1t36CQPBw==",
-    "signedAt": "2026-11-02T13:29:10.743Z"
+    "sig": "LTjTxoRLoETAa2uUjnl3252qIkJnOyst0sYzCOt9XB+M095EYSa0Qc69Oz9+10R9462kgoWuRi8RB5UT9MSABg==",
+    "signedAt": "2026-11-02T13:31:42.182Z"
   }
 }

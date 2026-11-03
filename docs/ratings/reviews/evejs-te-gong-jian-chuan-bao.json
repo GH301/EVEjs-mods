@@ -1,8 +1,33 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793494114426,
+  "generatedAt": 1793685647297,
   "modId": "evejs-te-gong-jian-chuan-bao",
-  "reviews": [],
+  "reviews": [
+    {
+      "id": "rv-1793685599527-28936",
+      "keyId": "d266c58f17bc",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "1.5.1",
+      "date": "2026-11-03",
+      "body": "感谢大佬!  另外 舰船 → 特别版舰船  比如 崩坏   沉寂  好些都是没有模型  右边没有船体加成属性。",
+      "edited": false
+    },
+    {
+      "id": "rv-1793685645762-23652",
+      "keyId": "778120a72cef",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "1.5.1",
+      "date": "2026-11-03",
+      "body": "大佬，技能买的到吸收不了。。。。",
+      "edited": false
+    }
+  ],
   "stars": {
     "count": 1,
     "keys": [
@@ -12,6 +37,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "zbXSuYRPwFXJiNQ6pXugiRWxsL72xW8nJyV6H2pr4jWTLovdRvvT9+2QM/P29HXoJ0b6vZpM8ZHzUojLhSycAA=="
+    "sig": "h7pZ/taRO9ZplHaq6suwooPNhU05BkCbAKYlxs7CVegP3lGsB9Kuha61QsOX+XbXSeqg9YMuiYx2wbNpx4hnAw=="
   }
 }

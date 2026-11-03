@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793685647297,
+  "generatedAt": 1793725214904,
   "modId": "evejs-te-gong-jian-chuan-bao",
   "reviews": [
     {
@@ -25,7 +25,12 @@
       "version": "1.5.1",
       "date": "2026-11-03",
       "body": "大佬，技能买的到吸收不了。。。。",
-      "edited": false
+      "edited": false,
+      "reply": {
+        "date": "2026-11-03",
+        "body": "我这边试了重装游戏都没事，不知道你那边是什么地方出问题了，你可能装了冲突的模组吧",
+        "edited": false
+      }
     }
   ],
   "stars": {
@@ -37,6 +42,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "h7pZ/taRO9ZplHaq6suwooPNhU05BkCbAKYlxs7CVegP3lGsB9Kuha61QsOX+XbXSeqg9YMuiYx2wbNpx4hnAw=="
+    "sig": "z9Z1RPzWhdBqffv8LYt+ikfuY6MDDvB0il6yngiNDi6bofIpTQUcO55H0Def0Hfu1LRK9nhIL8wWjEZHtRlgDQ=="
   }
 }

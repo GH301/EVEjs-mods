@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793689362422,
+  "generatedAt": 1793760270365,
   "mods": {
     "bug-fixes": {
       "stars": 0,
@@ -17,6 +17,20 @@
       ]
     },
     "evejs-acspecialbattleship": {
+      "stars": 1,
+      "comments": 0,
+      "average": 5,
+      "count": 1,
+      "withText": 0,
+      "histogram": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "evejs-air-career-payout": {
       "stars": 1,
       "comments": 0,
       "average": 5,
@@ -244,6 +258,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "F5ZNz/GOzGzlaQ0qhiGPkVVFHeMQoP36WhS+t4KOm5bQGfArSR/Vx2rUflZYKDwjd5HocdNH4If/emh9gl/VBA=="
+    "sig": "QikVyXAa4NSlUB0VI4UwVg7Bfkpi8uWsQLbS9TpWtN5DI/foS2llR+o/EKPrNt3FwvHaQvQhBz8MdgPwYt5bBQ=="
   }
 }

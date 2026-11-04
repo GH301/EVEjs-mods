@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1793760270365,
+  "modId": "evejs-air-career-payout",
+  "reviews": [],
+  "stars": {
+    "count": 1,
+    "keys": [
+      "bb3e24aac1c9"
+    ]
+  },
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "evejs-ratings-2026-10-01",
+    "sig": "kDN1lDOSd73kMPsvAWF9YcceKgXLhCNa6nwy74woUV13ODd6nK/HI42RztECzHaoIt5mjnNd25S/HgQ/L+9JDg=="
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793760270365,
+  "generatedAt": 1793810166917,
   "mods": {
     "bug-fixes": {
       "stars": 0,
@@ -87,17 +87,17 @@
       ]
     },
     "evejs-faction-sim": {
-      "stars": 3,
+      "stars": 4,
       "comments": 2,
       "average": 5,
-      "count": 3,
+      "count": 4,
       "withText": 2,
       "histogram": [
         0,
         0,
         0,
         0,
-        3
+        4
       ]
     },
     "evejs-hyperion-ship": {
@@ -186,10 +186,10 @@
     },
     "evejs-te-gong-jian-chuan-bao": {
       "stars": 1,
-      "comments": 2,
+      "comments": 3,
       "average": 5,
       "count": 1,
-      "withText": 2,
+      "withText": 3,
       "histogram": [
         0,
         0,
@@ -258,6 +258,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "QikVyXAa4NSlUB0VI4UwVg7Bfkpi8uWsQLbS9TpWtN5DI/foS2llR+o/EKPrNt3FwvHaQvQhBz8MdgPwYt5bBQ=="
+    "sig": "kL95EgCsKmKe3bExRLszu3v/iqkcRJjsEa7r2gxbZl7W/8DG4AsQ1n2+95DMbvgWVK1W88tmmmUXbToeXZL3BQ=="
   }
 }

@@ -1,8 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793725214904,
+  "generatedAt": 1793807799723,
   "modId": "evejs-te-gong-jian-chuan-bao",
   "reviews": [
+    {
+      "id": "rv-1793807794925-31048",
+      "keyId": "550bac54bd41",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "1.5.1",
+      "date": "2026-11-04",
+      "body": "市场里找不到QAQ",
+      "edited": false
+    },
     {
       "id": "rv-1793685599527-28936",
       "keyId": "d266c58f17bc",
@@ -42,6 +54,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "z9Z1RPzWhdBqffv8LYt+ikfuY6MDDvB0il6yngiNDi6bofIpTQUcO55H0Def0Hfu1LRK9nhIL8wWjEZHtRlgDQ=="
+    "sig": "sDtZICDaG6MjfQtiIRkrnbz0516OHqIud/QPvx3feOkM8W8gsO4gVWmw09Ef09xO1FXQhVt5HUjCu3rxGz5nAA=="
   }
 }

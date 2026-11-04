@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-04T12:34:23.952Z",
+  "publishedAt": "2026-11-04T13:27:57.017Z",
   "mods": [
     {
       "author": {
@@ -137,7 +137,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autolockfire-cn",
-      "downloads": 260,
+      "downloads": 261,
       "cdnHits": 0
     },
     {
@@ -799,7 +799,7 @@
       "tags": [],
       "version": "0.2.0",
       "source": "xuenaimiao/evejs-mod-evejs-npc-fleet",
-      "downloads": 359,
+      "downloads": 360,
       "cdnHits": 0
     },
     {
@@ -1366,7 +1366,7 @@
       ],
       "version": "1.0.0",
       "source": "xxxuan42/evejs-mod-evejs-moonscan-all",
-      "downloads": 0,
+      "downloads": 2,
       "cdnHits": 0
     },
     {
@@ -1725,7 +1725,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "MateralCMX/evejs-mod-structure-timers",
-      "downloads": 142,
+      "downloads": 143,
       "cdnHits": 0
     },
     {
@@ -1946,7 +1946,7 @@
       ],
       "version": "0.1.3",
       "source": "xuenaimiao/evejs-mod-evejs-sc-station",
-      "downloads": 125,
+      "downloads": 126,
       "cdnHits": 0
     },
     {
@@ -2289,7 +2289,7 @@
       ],
       "version": "3.2.0",
       "source": "Jasper377/evejs-mod-evejs-racks16",
-      "downloads": 413,
+      "downloads": 414,
       "cdnHits": 3
     },
     {
@@ -2380,7 +2380,7 @@
       ],
       "version": "1.5.1",
       "source": "weiqichang744-alt/evejs-mod-evejs-te-gong-jian-chuan-bao",
-      "downloads": 763,
+      "downloads": 766,
       "cdnHits": 0
     },
     {
@@ -2470,7 +2470,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autopilot-jump-stargate-0km",
-      "downloads": 263,
+      "downloads": 264,
       "cdnHits": 3
     },
     {
@@ -2733,7 +2733,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "0N8SySTDtkSGNC557QP7fN2aXZ8mJlwZe6DrrOn4MlGqsLaQKp7uUIMaI0cq5dBJ/Iav5Sks2i7fT9MJ6jDQBg==",
-    "signedAt": "2026-11-04T12:34:23.956Z"
+    "sig": "o5bcRjrEdf+tFsYDBPoGNEqDL1QzLIYdr3I9sczGKijXff19ES8NK0gIyiGPr15ypGZ1xMPmHylqbY9iL0qeCg==",
+    "signedAt": "2026-11-04T13:27:57.023Z"
   }
 }

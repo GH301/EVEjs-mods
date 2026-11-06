@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-06T10:51:28.568Z",
+  "publishedAt": "2026-11-06T13:26:14.281Z",
   "mods": [
     {
       "author": {
@@ -45,7 +45,7 @@
       ],
       "version": "1.2.3",
       "source": "jealous123456789/evejs-mod-evejs-air-career-payout",
-      "downloads": 125,
+      "downloads": 127,
       "cdnHits": 0
     },
     {
@@ -92,7 +92,7 @@
       ],
       "version": "1.1.0",
       "source": "jealous123456789/evejs-mod-evejs-air-crate-loot",
-      "downloads": 131,
+      "downloads": 132,
       "cdnHits": 0
     },
     {
@@ -137,7 +137,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autolockfire-cn",
-      "downloads": 270,
+      "downloads": 271,
       "cdnHits": 0
     },
     {
@@ -239,7 +239,7 @@
       "tags": [],
       "version": "0.18.2",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 608,
+      "downloads": 614,
       "cdnHits": 0
     },
     {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.5",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1286,
+      "downloads": 1290,
       "cdnHits": 0
     },
     {
@@ -346,7 +346,7 @@
       "tags": [],
       "version": "1.0.17",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1110,
+      "downloads": 1112,
       "cdnHits": 2244
     },
     {
@@ -390,7 +390,7 @@
       "tags": [],
       "version": "1.0.3",
       "source": "guihaitianyi-cmd/evejs-mod-evejs-evejs-hacking-suite-1-0-3",
-      "downloads": 274,
+      "downloads": 277,
       "cdnHits": 0
     },
     {
@@ -528,7 +528,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 421,
+      "downloads": 423,
       "cdnHits": 0
     },
     {
@@ -583,7 +583,7 @@
       ],
       "version": "1.1.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 205,
+      "downloads": 210,
       "cdnHits": 0
     },
     {
@@ -657,7 +657,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 1970,
+      "downloads": 1985,
       "cdnHits": 2207
     },
     {
@@ -707,7 +707,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-npc-hull-hp-fix",
-      "downloads": 105,
+      "downloads": 106,
       "cdnHits": 0
     },
     {
@@ -844,7 +844,7 @@
       "tags": [],
       "version": "0.2.3",
       "source": "MateralCMX/evejs-mod-npc-extension-core",
-      "downloads": 186,
+      "downloads": 187,
       "cdnHits": 0
     },
     {
@@ -891,7 +891,7 @@
       "tags": [],
       "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-npc-loot-rules",
-      "downloads": 290,
+      "downloads": 291,
       "cdnHits": 0
     },
     {
@@ -1034,7 +1034,7 @@
       ],
       "version": "1.0.9",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 978,
+      "downloads": 982,
       "cdnHits": 0
     },
     {
@@ -1079,7 +1079,7 @@
       ],
       "version": "1.0.0",
       "source": "kokoandqiong/evejs-mod-evejs-sov-workforce-fix",
-      "downloads": 52,
+      "downloads": 54,
       "cdnHits": 0
     },
     {
@@ -1125,7 +1125,7 @@
       ],
       "version": "1.2.0",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 40,
+      "downloads": 45,
       "cdnHits": 0
     },
     {
@@ -1174,7 +1174,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-agent-portraits",
-      "downloads": 38,
+      "downloads": 40,
       "cdnHits": 0
     },
     {
@@ -1224,7 +1224,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-mission-repair",
-      "downloads": 392,
+      "downloads": 393,
       "cdnHits": 0
     },
     {
@@ -1278,7 +1278,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 63,
+      "downloads": 72,
       "cdnHits": 0
     },
     {
@@ -1375,7 +1375,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "MateralCMX/evejs-mod-clone-convenience",
-      "downloads": 128,
+      "downloads": 129,
       "cdnHits": 0
     },
     {
@@ -1422,7 +1422,7 @@
       ],
       "version": "1.6.4",
       "source": "JUZIMandarin/evejs-mod-evejs-sleeper-drifters",
-      "downloads": 626,
+      "downloads": 628,
       "cdnHits": 2
     },
     {
@@ -1466,7 +1466,7 @@
       ],
       "version": "1.0.0",
       "source": "xxxuan42/evejs-mod-evejs-moonscan-all",
-      "downloads": 30,
+      "downloads": 32,
       "cdnHits": 0
     },
     {
@@ -1514,7 +1514,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-structure-targeting-fix",
-      "downloads": 87,
+      "downloads": 88,
       "cdnHits": 0
     },
     {
@@ -1613,7 +1613,7 @@
       ],
       "version": "1.1.0",
       "source": "kokoandqiong/evejs-mod-evejs-slimitem-name-wstring",
-      "downloads": 74,
+      "downloads": 78,
       "cdnHits": 0
     },
     {
@@ -1664,7 +1664,7 @@
       ],
       "version": "5.2.1",
       "source": "JonnyTC/evejs-mod-evejs-colossus-capital-fit",
-      "downloads": 80,
+      "downloads": 82,
       "cdnHits": 0
     },
     {
@@ -1723,7 +1723,7 @@
       ],
       "version": "2.0.0",
       "source": "JonnyTC/evejs-mod-evejs-colossus-audio-fix",
-      "downloads": 45,
+      "downloads": 47,
       "cdnHits": 0
     },
     {
@@ -1733,7 +1733,7 @@
         "name": "余情岂是为他人"
       },
       "category": "经济",
-      "changelog": "- 变更（核心）：默认改为**直写市场数据库**（`lib/marketSqlite.js` + `lib/directSync.js`）——用服务端自带的 better-sqlite3 直接对 `market.sqlite` 做分块事务批量调价，并重建 `region_summaries` / `system_seed_summaries`（聚合语义与守护进程 state.rs 逐字一致）。首轮全量同步从 HTTP 逐条 adjust 的约两小时降到一两分钟（实测 46.5 万条写入 + 重建约 107 秒），增量秒级\n- 新增：**买单同步**（`syncSeedBuyOrders`，默认 true）——种子买单价同步到 `ESI目标价 × buyPriceMultiplier`（默认 0.85，取自原始种子 bid/ask 实测均值 0.8492）。HTTP 接口没有买单调价能力，这是直写独有；同时消除历史遗留的 2493 行 bid>ask 倒挂（已验证归零）\n- 新增配置：`directWrite`（默认 true）/ `directWriteFallbackToHttp`（默认 true，直写不可用时回退旧 HTTP 路径）/ `marketDatabasePath`（留空自动探测守护进程配置）/ `writeChunkSize`（默认 2000，分块大小，块间让出事件循环，服务端只有每块几十毫秒停顿）/ `directWriteMaxPerCycle`（默认 500000；`maxAdjustmentsPerCycle` 改为只约束 HTTP 回退路径）/ `callDaemonCacheRebuild`（默认 true，守护进程在线时直写完成后重建其内存缓存）\n- 兼容：守护进程未运行也能同步（它下次启动从库里读到新价）；数据库文件缺失/驱动加载失败/表结构锚点不符时记日志并回退 HTTP；`price_version` 只在价格真变化时 +1（幂等），`quantity` 不被调价改动\n- 内部：候选判定抽到 `lib/candidates.js`（HTTP 与直写共用）；守护进程客户端新增 `POST /v1/admin/cache/rebuild` 封装\n- 注意：`loader.js` 顶部注释仍描述旧行为（该文件在签名哈希内、已冻结），以本文件与 README 为准",
+      "changelog": "",
       "conflicts": [],
       "delisted": false,
       "description": "从官方接口获取官方市场价格信息并进行同步，取代原种子中的模拟市场价格（直写数据库，首轮全量约一两分钟）",
@@ -1758,8 +1758,8 @@
       ],
       "repo": "https://github.com/kuroneko-lice/evejs-mod-evejs-shi-chang-jia-ge-xin-xi-tong-bu",
       "requiresRestart": true,
-      "sha256": "c75b534f47c20395e95e4497f900dcb5aa8bb3d173420b59874992c68937f9d2",
-      "sizeBytes": 45618,
+      "sha256": "743ab507db080b51f78af29ecd5289c84c8eb0ceab8c63888206d39c5b283c21",
+      "sizeBytes": 47086,
       "tags": [
         "市场",
         "经济"
@@ -1909,7 +1909,7 @@
       "tags": [],
       "version": "0.2.2",
       "source": "xuenaimiao/evejs-mod-evejs-perf-fix",
-      "downloads": 476,
+      "downloads": 477,
       "cdnHits": 2
     },
     {
@@ -1997,7 +1997,7 @@
       ],
       "version": "1.0.0",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 49,
+      "downloads": 51,
       "cdnHits": 0
     },
     {
@@ -2432,7 +2432,7 @@
       ],
       "version": "3.2.0",
       "source": "Jasper377/evejs-mod-evejs-racks16",
-      "downloads": 422,
+      "downloads": 423,
       "cdnHits": 3
     },
     {
@@ -2479,7 +2479,7 @@
       "tags": [],
       "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-mobile-tractor-enhancement",
-      "downloads": 280,
+      "downloads": 284,
       "cdnHits": 0
     },
     {
@@ -2523,7 +2523,7 @@
       ],
       "version": "1.5.1",
       "source": "weiqichang744-alt/evejs-mod-evejs-te-gong-jian-chuan-bao",
-      "downloads": 1004,
+      "downloads": 1031,
       "cdnHits": 0
     },
     {
@@ -2712,7 +2712,7 @@
       "tags": [],
       "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-planetary-industry-enhancement",
-      "downloads": 162,
+      "downloads": 163,
       "cdnHits": 0
     },
     {
@@ -2755,7 +2755,7 @@
       ],
       "version": "1.0.0",
       "source": "Arasaka-vip/evejs-mod-evejs-pi-colony-limit",
-      "downloads": 54,
+      "downloads": 56,
       "cdnHits": 0
     },
     {
@@ -2798,7 +2798,7 @@
       ],
       "version": "1.2.1",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 74,
+      "downloads": 79,
       "cdnHits": 0
     },
     {
@@ -2843,7 +2843,7 @@
       ],
       "version": "1.0.4",
       "source": "kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
-      "downloads": 157,
+      "downloads": 160,
       "cdnHits": 0
     }
   ],
@@ -2876,7 +2876,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "deuhnzyE78FfsYB6YCIwAeuWaTZBSME8z7VyQLbC3frPbYjtfDIk2ZmKxln5bJ9rigadXnKIkigTyOWTCowZBw==",
-    "signedAt": "2026-11-06T10:51:28.572Z"
+    "sig": "7V70rc8PpfNLlZnIwKA4MRWwjXJK8cbCUd1/IeVzqmQZ0gxx0qnAwxasKpOnL6iZ/3/ltMCxeeQPE9kbWILRDg==",
+    "signedAt": "2026-11-06T13:26:14.286Z"
   }
 }

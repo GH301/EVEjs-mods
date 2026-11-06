@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793943380187,
+  "generatedAt": 1793974528709,
   "mods": {
     "bug-fixes": {
       "stars": 0,
@@ -45,17 +45,17 @@
       ]
     },
     "evejs-autolockfire": {
-      "stars": 2,
+      "stars": 3,
       "comments": 1,
       "average": 5,
-      "count": 2,
+      "count": 3,
       "withText": 1,
       "histogram": [
         0,
         0,
         0,
         0,
-        2
+        3
       ]
     },
     "evejs-autolockfire-cn": {
@@ -157,20 +157,6 @@
       ]
     },
     "evejs-sc-ships-pack-aegis-anvil": {
-      "stars": 0,
-      "comments": 1,
-      "average": 0,
-      "count": 0,
-      "withText": 1,
-      "histogram": [
-        0,
-        0,
-        0,
-        0,
-        0
-      ]
-    },
-    "evejs-shi-chang-jia-ge-xin-xi-tong-bu": {
       "stars": 0,
       "comments": 1,
       "average": 0,
@@ -286,6 +272,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "j/Rjm6uaox1SSjl4URNrx/4OUkB00b8ggy7V6ToNIpYMH8X8A3FS88BkNltACWHR3bqrIJFYZIzh9QzKYv3vBw=="
+    "sig": "2yn5Lmgf1XL8DKKQpKC+xirgeOvl6w1fLASjPYpYlJN04t0ljmoq3R0HWeuGskaPmmF1rmN02yjMiM6rYJ4JCg=="
   }
 }

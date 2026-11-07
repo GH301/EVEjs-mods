@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793943380187,
+  "generatedAt": 1794035264394,
   "modId": "evejs-te-gong-jian-chuan-bao",
   "reviews": [
     {
@@ -58,14 +58,15 @@
     }
   ],
   "stars": {
-    "count": 1,
+    "count": 2,
     "keys": [
-      "879502c1310f"
+      "879502c1310f",
+      "3ed52e0bcc8c"
     ]
   },
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "qf2hB9aAaXqhvgC1UesZzPMaVE5P9kmLYamaZt4zSyuSZQ7kHP0BNtSSwamrH8tuHK34DCw7rbyrVqFJ8bvxDw=="
+    "sig": "3aH2i0JvYdaJltQUUspjJeBqoJ0Pe8SfKbIvEjivw4zRTd+zPFtEUSI3CmAlxkPF7Z1TKXzQW64qFfHmRN41Dg=="
   }
 }

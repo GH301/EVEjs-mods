@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1794035264394,
+  "generatedAt": 1794131423036,
   "mods": {
     "bug-fixes": {
       "stars": 0,
@@ -87,17 +87,17 @@
       ]
     },
     "evejs-faction-sim": {
-      "stars": 4,
+      "stars": 5,
       "comments": 2,
       "average": 5,
-      "count": 4,
+      "count": 5,
       "withText": 2,
       "histogram": [
         0,
         0,
         0,
         0,
-        4
+        5
       ]
     },
     "evejs-hyperion-ship": {
@@ -171,17 +171,17 @@
       ]
     },
     "evejs-sleeper-drifters": {
-      "stars": 4,
+      "stars": 5,
       "comments": 1,
       "average": 5,
-      "count": 4,
+      "count": 5,
       "withText": 1,
       "histogram": [
         0,
         0,
         0,
         0,
-        4
+        5
       ]
     },
     "evejs-slimitem-name-wstring": {
@@ -272,6 +272,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "HshSBcI3nwrH01Uy1fhmG4HAb6eMn/KDDIVcWHKgKyxRmS7rAPoxfVjyckSqI6+ba61Ceyj5mBB5TiVkcINOCw=="
+    "sig": "XC1z1Bo0jPBXTnTsVcyucKFTE8I2zYGCpyQiBsseAG0L5+4+8KExyp1fIdpjYJ5F7NfskI2ZMOQaVoO2w4VdCw=="
   }
 }

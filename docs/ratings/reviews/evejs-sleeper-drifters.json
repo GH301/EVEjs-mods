@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1792819274369,
+  "generatedAt": 1794131423036,
   "modId": "evejs-sleeper-drifters",
   "reviews": [
     {
@@ -22,17 +22,18 @@
     }
   ],
   "stars": {
-    "count": 4,
+    "count": 5,
     "keys": [
       "1382094598d9",
       "bad8165273ee",
       "bc816da2a7bc",
-      "c64b74aa5e7c"
+      "c64b74aa5e7c",
+      "338bcd3a06a4"
     ]
   },
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "5FK4RDk2SBeIZp0eYh02hNt2kUbWgcVkkk+stjiOK+w55fYnu1Qe5/Fek7tVVBGoquOmti2GfpnXgHyzh99xBA=="
+    "sig": "4SzEtdFSbm4/Ka1uNHJw1qnMA+T27fOct7igcpXTg11nGoGNRWlO/NBAoJW4/xC/ovjIKBv3uKkM4UbSRqnzBA=="
   }
 }

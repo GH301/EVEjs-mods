@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1794131423036,
+  "generatedAt": 1794157269913,
   "mods": {
     "bug-fixes": {
       "stars": 0,
@@ -240,6 +240,20 @@
         1
       ]
     },
+    "npc-loot-mutation": {
+      "stars": 1,
+      "comments": 0,
+      "average": 5,
+      "count": 1,
+      "withText": 0,
+      "histogram": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
     "salvage-repair": {
       "stars": 1,
       "comments": 0,
@@ -272,6 +286,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "XC1z1Bo0jPBXTnTsVcyucKFTE8I2zYGCpyQiBsseAG0L5+4+8KExyp1fIdpjYJ5F7NfskI2ZMOQaVoO2w4VdCw=="
+    "sig": "hpv2faLxjRpzAUJmFRVU81YCa6hilHjOcUxXIqlKHHkOG2yiX77fYoprAIJC/2ZTKkNV1oFYz240M9m0jrsPBg=="
   }
 }

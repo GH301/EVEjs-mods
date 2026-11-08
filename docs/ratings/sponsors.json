@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793557298876,
+  "generatedAt": 1794164415482,
   "sponsors": [
     {
       "id": "sponsor-01",
@@ -271,11 +271,23 @@
       "name": "火星的鲸鱼",
       "amount": 20,
       "currency": "CNY"
+    },
+    {
+      "id": "sponsor-46",
+      "name": "A*1",
+      "amount": 9.99,
+      "currency": "CNY"
+    },
+    {
+      "id": "sponsor-47",
+      "name": "语文大鹅",
+      "amount": 50,
+      "currency": "CNY"
     }
   ],
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "B205K0fZUQ/35vKIvJ5tGfPJLLECKsuz1nAedfBLz9qvWvQ8qYZqbWEZF1FnMLW96aO0Jn4nUqbh0C4HX8zRCA=="
+    "sig": "JDA11W7cCXwNb1GIe6VNm4sBH3KNJ78A6CM7hSqxz+zT2mxyl/9DLpaOKR2cumVwZssIU4rpbJaqVmd7XZstCQ=="
   }
 }

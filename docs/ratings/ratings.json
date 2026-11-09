@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1794157269913,
+  "generatedAt": 1794209466524,
   "mods": {
     "bug-fixes": {
       "stars": 0,
@@ -45,17 +45,17 @@
       ]
     },
     "evejs-autolockfire": {
-      "stars": 3,
+      "stars": 4,
       "comments": 1,
       "average": 5,
-      "count": 3,
+      "count": 4,
       "withText": 1,
       "histogram": [
         0,
         0,
         0,
         0,
-        3
+        4
       ]
     },
     "evejs-autolockfire-cn": {
@@ -286,6 +286,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "hpv2faLxjRpzAUJmFRVU81YCa6hilHjOcUxXIqlKHHkOG2yiX77fYoprAIJC/2ZTKkNV1oFYz240M9m0jrsPBg=="
+    "sig": "5YM+/x8M76rJ2HaWKJH4XOClzwafUEl/Fi467roUSpXeVRg6agO+OUNwVF+kJKY/p5YiiWQP4VVtq1W8WnRVBQ=="
   }
 }

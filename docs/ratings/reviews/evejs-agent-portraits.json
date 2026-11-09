@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1794241857598,
+  "modId": "evejs-agent-portraits",
+  "reviews": [],
+  "stars": {
+    "count": 1,
+    "keys": [
+      "bc816da2a7bc"
+    ]
+  },
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "evejs-ratings-2026-10-01",
+    "sig": "3UT2BLWmO/uxsjp/MKjfDPX4r8H4VB5/ChZ0mRQVJB2ml79iN3BslWWxilGf93BwSzVBETyOP6rhK5FMZfk4BA=="
+  }
+}

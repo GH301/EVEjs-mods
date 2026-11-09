@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1794222402108,
+  "modId": "mission-content-repair",
+  "reviews": [
+    {
+      "id": "rv-1794222405502-13108",
+      "keyId": "c2ddd45d0f0b",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "1.1.2",
+      "date": "2026-11-09",
+      "body": "试了两个，5级。一个在哈克农，跳进去有怪，然后打死怪残骸是空的（我没有装掉落MOD），然后是轨道不能激活（也没有完成任务），这个任务怪的种类我忘记看了。\n一个在欧塔萨塞，这个任务出的怪是G的战列，应该是对的吧，任务描述说的是击杀盖伦特舰船。然后打死怪残骸也是空的（我没有装掉落MOD），然后是轨道不能激活（也没有完成任务）。",
+      "edited": false
+    }
+  ],
+  "stars": {
+    "count": 0,
+    "keys": []
+  },
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "evejs-ratings-2026-10-01",
+    "sig": "XcOhjq1T0FAFTXte4vzfXDySjce9aqfKrZWrVxYRJO23qYBLEpSy4AKxWXd+UTqzoIsAp82EkuL6xlFlBp36DA=="
+  }
+}

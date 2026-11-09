@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1794241836714,
+  "modId": "evejs-wa-kuang",
+  "reviews": [],
+  "stars": {
+    "count": 1,
+    "keys": [
+      "bc816da2a7bc"
+    ]
+  },
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "evejs-ratings-2026-10-01",
+    "sig": "ews0+0G/0p084JbbRDwZT/O3IirkyTssxfNcIlmh0Cd6vTknR1R4PGcQyIX6CxZERfZptwzTggaeds4tyPDXAg=="
+  }
+}

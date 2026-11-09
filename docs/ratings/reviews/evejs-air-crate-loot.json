@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1794241890579,
+  "modId": "evejs-air-crate-loot",
+  "reviews": [],
+  "stars": {
+    "count": 1,
+    "keys": [
+      "bc816da2a7bc"
+    ]
+  },
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "evejs-ratings-2026-10-01",
+    "sig": "yXyNnJcjr3sToOtkwhl58MQZPDSgHgXbC5TsXIj2E2xEe1Pt4HXXje99gjL/lMmbuyTqB18RlqtcK6dd0cF4BQ=="
+  }
+}

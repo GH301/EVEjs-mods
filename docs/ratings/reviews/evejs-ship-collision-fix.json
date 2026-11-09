@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1794241744436,
+  "modId": "evejs-ship-collision-fix",
+  "reviews": [
+    {
+      "id": "rv-1794241744013-18120",
+      "keyId": "bc816da2a7bc",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "1.41.0",
+      "date": "2026-11-09",
+      "body": "作者发布新版本了更新一下子呀",
+      "edited": false
+    }
+  ],
+  "stars": {
+    "count": 0,
+    "keys": []
+  },
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "evejs-ratings-2026-10-01",
+    "sig": "fb5/74SCdtrfinEsf5lPAq0DPxphhw9dNetLy7Br4x6R1DlOqxoDQZtIiaZB7sXPr2ZteBsMwjcidpe4u/X6CA=="
+  }
+}

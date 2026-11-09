@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1794241826320,
+  "modId": "evejs-jumpdrive-to-star",
+  "reviews": [
+    {
+      "id": "rv-1794241788373-18120",
+      "keyId": "bc816da2a7bc",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "1.2.2",
+      "date": "2026-11-09",
+      "body": "发布新版了更新一下子呀",
+      "edited": false
+    }
+  ],
+  "stars": {
+    "count": 1,
+    "keys": [
+      "bc816da2a7bc"
+    ]
+  },
+  "signature": {
+    "alg": "ed25519",
+    "keyId": "evejs-ratings-2026-10-01",
+    "sig": "tyaFM7LkHh4wlRb12j7Wsvt0iyjxb1MEQbt6ZMtH7Q81Mdy5phn840UGY4QHarkXvdh8ExI6LR5UprXXh10nAg=="
+  }
+}

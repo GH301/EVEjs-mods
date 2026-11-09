@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-09T04:36:58.362Z",
+  "publishedAt": "2026-11-09T04:39:08.646Z",
   "mods": [
     {
       "author": {
@@ -239,7 +239,7 @@
       "tags": [],
       "version": "0.18.2",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 678,
+      "downloads": 679,
       "cdnHits": 0
     },
     {
@@ -528,7 +528,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 450,
+      "downloads": 451,
       "cdnHits": 0
     },
     {
@@ -949,7 +949,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation-ext/releases/download/v0.2.0/npc-loot-mutation-ext-0.2.0.zip"
+          "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation-ext/releases/download/v0.2.1/npc-loot-mutation-ext-0.2.1.zip"
         }
       ],
       "evejsVersions": [
@@ -966,16 +966,16 @@
       ],
       "history": [],
       "id": "npc-loot-mutation-ext",
-      "publishedAt": "2026-11-08",
+      "publishedAt": "2026-11-09",
       "readme": [
         "把 NPC 掉落里的**炮台 / 导弹发射器 / 抗性装备**突变为深渊（Abyssal）产物。\n掉落逻辑与突变率由基础模组 [`npc-loot-mutation`](../npc-loot-mutation) 负责，本模组只做「扩展家族 + 客户端数据 + 导弹伤害」。"
       ],
       "repo": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation-ext",
       "requiresRestart": true,
-      "sha256": "a4d3dff81b60d4f8725753cef26683aba9f67283754d6643de3a97647b2af60c",
-      "sizeBytes": 1334771,
+      "sha256": "488350f4f1cbef687b81ae5aae990d171667f9c3d8f524726586f688d80f7b2e",
+      "sizeBytes": 1334774,
       "tags": [],
-      "version": "0.2.0",
+      "version": "0.2.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation-ext",
       "downloads": 15,
       "cdnHits": 0
@@ -1254,7 +1254,7 @@
       ],
       "version": "1.0.0",
       "source": "kokoandqiong/evejs-mod-evejs-sov-workforce-fix",
-      "downloads": 87,
+      "downloads": 88,
       "cdnHits": 0
     },
     {
@@ -1349,7 +1349,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-agent-portraits",
-      "downloads": 61,
+      "downloads": 62,
       "cdnHits": 0
     },
     {
@@ -1453,7 +1453,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 129,
+      "downloads": 130,
       "cdnHits": 0
     },
     {
@@ -3159,7 +3159,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "z2wWr5Z/qzZXTft2FDVvJW9WTM55NE/CUaFOXW1Bu+CYYP+IQEk9kA4G4s9ii8ee5tEAaSuf+K9lcP44hkq4Cw==",
-    "signedAt": "2026-11-09T04:36:58.367Z"
+    "sig": "A56k1XCMpS+JGCG3zHh5Tj/IyXYRw443EZVoCGiDIBi4T0dLyo/EvfHk7MkuEHsTB2ihWWen69TVs6mu1KsQBQ==",
+    "signedAt": "2026-11-09T04:39:08.651Z"
   }
 }

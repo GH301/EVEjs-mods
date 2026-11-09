@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-09T09:42:10.770Z",
+  "publishedAt": "2026-11-09T10:13:27.713Z",
   "mods": [
     {
       "author": {
@@ -45,7 +45,7 @@
       ],
       "version": "1.2.3",
       "source": "jealous123456789/evejs-mod-evejs-air-career-payout",
-      "downloads": 171,
+      "downloads": 172,
       "cdnHits": 0
     },
     {
@@ -92,7 +92,7 @@
       ],
       "version": "1.1.0",
       "source": "jealous123456789/evejs-mod-evejs-air-crate-loot",
-      "downloads": 174,
+      "downloads": 175,
       "cdnHits": 0
     },
     {
@@ -346,7 +346,7 @@
       "tags": [],
       "version": "1.0.17",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1151,
+      "downloads": 1155,
       "cdnHits": 2449
     },
     {
@@ -528,7 +528,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 453,
+      "downloads": 454,
       "cdnHits": 0
     },
     {
@@ -579,7 +579,7 @@
       ],
       "version": "1.2.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 357,
+      "downloads": 358,
       "cdnHits": 0
     },
     {
@@ -653,7 +653,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2121,
+      "downloads": 2122,
       "cdnHits": 2562
     },
     {
@@ -841,7 +841,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "huihuangdi/evejs-mod-npc-bounty-tuning",
-      "downloads": 18,
+      "downloads": 19,
       "cdnHits": 0
     },
     {
@@ -1066,7 +1066,7 @@
       "tags": [],
       "version": "0.2.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
-      "downloads": 32,
+      "downloads": 34,
       "cdnHits": 0
     },
     {
@@ -1209,7 +1209,7 @@
       ],
       "version": "1.0.9",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1035,
+      "downloads": 1036,
       "cdnHits": 0
     },
     {
@@ -1409,7 +1409,7 @@
         "name": "普罗旺斯煎饼果子"
       },
       "category": "玩法",
-      "changelog": "L3/L4/L5安全代理人任务怪物类型、势力、波次匹配",
+      "changelog": "L1/L2任务怪类型、数量、势力匹配",
       "conflicts": [
         "mission-repair",
         "evejs-mission-data-pack"
@@ -1421,7 +1421,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.1.1/mission-content-repair-1.1.1.zip"
+          "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.1.2/mission-content-repair-1.1.2.zip"
         }
       ],
       "evejsVersions": [
@@ -1442,8 +1442,8 @@
       ],
       "repo": "https://github.com/jealous123456789/evejs-mod-mission-content-repair",
       "requiresRestart": true,
-      "sha256": "7db1fb1ae482676cd1ee163e3abb508a06648d2e4c2739d3ed352ce7d7e1ee09",
-      "sizeBytes": 2711316,
+      "sha256": "533f6b931413afb36549e59a6241921b5ad6f10a2e07ac5ace11f09f0dcbc645",
+      "sizeBytes": 2719361,
       "tags": [
         "任务",
         "修复",
@@ -1451,9 +1451,9 @@
         "安全代理人",
         "史诗线"
       ],
-      "version": "1.1.1",
+      "version": "1.1.2",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 155,
+      "downloads": 166,
       "cdnHits": 0
     },
     {
@@ -1739,7 +1739,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-dungeon-pocket-anchor-fix",
-      "downloads": 110,
+      "downloads": 111,
       "cdnHits": 0
     },
     {
@@ -2552,7 +2552,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "xuenaimiao/evejs-mod-evejs-sc-ships-pack-origin-drake-misc",
-      "downloads": 270,
+      "downloads": 271,
       "cdnHits": 0
     },
     {
@@ -2846,7 +2846,7 @@
       ],
       "version": "1.0.0",
       "source": "xfeiyu4008/evejs-mod-evejs-perfect-mutation-261028",
-      "downloads": 14,
+      "downloads": 15,
       "cdnHits": 0
     },
     {
@@ -2904,7 +2904,7 @@
       ],
       "version": "1.0.2",
       "source": "jealous123456789/evejs-mod-evejs-logo-manager",
-      "downloads": 6,
+      "downloads": 8,
       "cdnHits": 0
     },
     {
@@ -3217,7 +3217,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "O7Ge0+xKC5zwXRWbqz3W5cEMUs4WKcoGKZdQoD5HMZOWHyVjkjLL9+r4CPhACwr1b57I6CClhHZEfClGpi/KDA==",
-    "signedAt": "2026-11-09T09:42:10.775Z"
+    "sig": "6h7lJKLbrCxKMIRDmgl+EhtOmhFJC7kYSDiw3IbQhVW5KpeC+gu3SsvT9zcmGJVVr+ldKsq+nFF9aV1Ozcm8AQ==",
+    "signedAt": "2026-11-09T10:13:27.717Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-09T04:39:08.646Z",
+  "publishedAt": "2026-11-09T06:41:50.648Z",
   "mods": [
     {
       "author": {
@@ -45,7 +45,7 @@
       ],
       "version": "1.2.3",
       "source": "jealous123456789/evejs-mod-evejs-air-career-payout",
-      "downloads": 166,
+      "downloads": 167,
       "cdnHits": 0
     },
     {
@@ -92,7 +92,7 @@
       ],
       "version": "1.1.0",
       "source": "jealous123456789/evejs-mod-evejs-air-crate-loot",
-      "downloads": 170,
+      "downloads": 171,
       "cdnHits": 0
     },
     {
@@ -239,7 +239,7 @@
       "tags": [],
       "version": "0.18.2",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 679,
+      "downloads": 680,
       "cdnHits": 0
     },
     {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.5",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1345,
+      "downloads": 1347,
       "cdnHits": 0
     },
     {
@@ -346,7 +346,7 @@
       "tags": [],
       "version": "1.0.17",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1148,
+      "downloads": 1149,
       "cdnHits": 2449
     },
     {
@@ -579,7 +579,7 @@
       ],
       "version": "1.2.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 352,
+      "downloads": 355,
       "cdnHits": 0
     },
     {
@@ -653,7 +653,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2117,
+      "downloads": 2118,
       "cdnHits": 2562
     },
     {
@@ -795,7 +795,7 @@
       "tags": [],
       "version": "0.2.0",
       "source": "xuenaimiao/evejs-mod-evejs-npc-fleet",
-      "downloads": 372,
+      "downloads": 373,
       "cdnHits": 0
     },
     {
@@ -841,7 +841,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "huihuangdi/evejs-mod-npc-bounty-tuning",
-      "downloads": 13,
+      "downloads": 16,
       "cdnHits": 0
     },
     {
@@ -896,7 +896,7 @@
         "name": "辉煌帝"
       },
       "category": "玩法",
-      "changelog": "第一次发布",
+      "changelog": "刷新签名",
       "conflicts": [],
       "delisted": false,
       "description": "NPC掉落突变：可突变的模块/无人机在掉落时按 NPC 档位随机突变为 Abyssal 产物，属性区间与服务端突变一致。",
@@ -930,7 +930,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation",
-      "downloads": 16,
+      "downloads": 20,
       "cdnHits": 0
     },
     {
@@ -940,7 +940,7 @@
         "name": "辉煌帝"
       },
       "category": "玩法",
-      "changelog": "第一次发布",
+      "changelog": "刷新签名",
       "conflicts": [],
       "delisted": false,
       "description": "把 NPC 掉落的炮台/导弹发射器/抗性装备突变为 102 个深渊产物（含 6 个突变催化器）；属性范围由 data/ranges.json 可调，客户端数据需先用 tools/client-sync.js 部署。",
@@ -977,7 +977,7 @@
       "tags": [],
       "version": "0.2.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation-ext",
-      "downloads": 15,
+      "downloads": 18,
       "cdnHits": 0
     },
     {
@@ -1066,7 +1066,7 @@
       "tags": [],
       "version": "0.2.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
-      "downloads": 19,
+      "downloads": 23,
       "cdnHits": 0
     },
     {
@@ -1209,7 +1209,7 @@
       ],
       "version": "1.0.9",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1023,
+      "downloads": 1024,
       "cdnHits": 0
     },
     {
@@ -1349,7 +1349,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-agent-portraits",
-      "downloads": 62,
+      "downloads": 64,
       "cdnHits": 0
     },
     {
@@ -1409,7 +1409,7 @@
         "name": "普罗旺斯煎饼果子"
       },
       "category": "玩法",
-      "changelog": "本次为初步试跑版，内容仍存在很多问题，请不要着急，按说明反馈，一点点修复。",
+      "changelog": "1.执法代理人任务还原程度90%，后续基本不再更新；\n2.物流/采矿/可研任务修复",
       "conflicts": [
         "mission-repair",
         "evejs-mission-data-pack"
@@ -1421,7 +1421,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.0.0/mission-content-repair-1.0.0.zip"
+          "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.1.0/mission-content-repair-1.1.0.zip"
         }
       ],
       "evejsVersions": [
@@ -1436,14 +1436,14 @@
       ],
       "history": [],
       "id": "mission-content-repair",
-      "publishedAt": "2026-11-05",
+      "publishedAt": "2026-11-09",
       "readme": [
         "目前为暂时试行版，已实现职业代理人四族四职业按任务描述修复；L1-L5级安全代理人任务基本可玩，故事线16个任务后触发，史诗线可接可玩。仍存在问题：L1-L5级任务，故事线，史诗线任务内容存在不正确（无法按任务描述完成，这个需要大量的内容修复工作，后续缓慢进行）；部分任务难度，怪类型等不匹配；部分任务可能会卡住；L1-L5物流/矿物/安全任务还未修复。希望大家试玩后及时反馈，然后根据反馈缓慢修复（任务内容修复量太大，试跑耗费大量时间。反馈方式为留言：说明几级什么类型的任务，碰到的问题，应该的玩法，怪物的类型（血袭者，古斯塔斯，自由无人机等，越详细越好）。数据来源：materal大佬的任务修复mod；一闪一闪亮晶大佬提供的0.12.9的任务修复文件；柯南大佬提供的任务数据CSV文件。感谢各位大佬的支援"
       ],
       "repo": "https://github.com/jealous123456789/evejs-mod-mission-content-repair",
       "requiresRestart": true,
-      "sha256": "7cf76e29b3f60d6b2b51d4fe213776876ff8f9801a75aef21be5d92e95efb775",
-      "sizeBytes": 2164803,
+      "sha256": "649c31d2e453a7ec0b9f1be8def05e9c808d8f7a9f0498a9946e7a2e7768b483",
+      "sizeBytes": 2521673,
       "tags": [
         "任务",
         "修复",
@@ -1451,9 +1451,9 @@
         "安全代理人",
         "史诗线"
       ],
-      "version": "1.0.0",
+      "version": "1.1.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 130,
+      "downloads": 131,
       "cdnHits": 0
     },
     {
@@ -1788,7 +1788,7 @@
       ],
       "version": "1.1.0",
       "source": "kokoandqiong/evejs-mod-evejs-slimitem-name-wstring",
-      "downloads": 112,
+      "downloads": 115,
       "cdnHits": 0
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "version": "1.0.1",
       "source": "huihuangdi/evejs-mod-evejs-attribute-editor",
-      "downloads": 43,
+      "downloads": 44,
       "cdnHits": 0
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "version": "1.1.1",
       "source": "kuroneko-lice/evejs-mod-evejs-shi-chang-jia-ge-xin-xi-tong-bu",
-      "downloads": 107,
+      "downloads": 110,
       "cdnHits": 0
     },
     {
@@ -2223,7 +2223,7 @@
       ],
       "version": "1.0.0",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 80,
+      "downloads": 81,
       "cdnHits": 0
     },
     {
@@ -2315,7 +2315,7 @@
       ],
       "version": "1.0.0",
       "source": "kokoandqiong/evejs-mod-evejs-patrol-rats",
-      "downloads": 58,
+      "downloads": 60,
       "cdnHits": 0
     },
     {
@@ -2363,7 +2363,7 @@
       ],
       "version": "0.1.3",
       "source": "xuenaimiao/evejs-mod-evejs-sc-station",
-      "downloads": 207,
+      "downloads": 209,
       "cdnHits": 0
     },
     {
@@ -2418,7 +2418,7 @@
       ],
       "version": "0.1.1",
       "source": "xuenaimiao/evejs-mod-evejs-sc-body",
-      "downloads": 60,
+      "downloads": 61,
       "cdnHits": 0
     },
     {
@@ -2466,7 +2466,7 @@
       ],
       "version": "0.3.7",
       "source": "xuenaimiao/evejs-mod-evejs-sc-ships",
-      "downloads": 317,
+      "downloads": 318,
       "cdnHits": 0
     },
     {
@@ -2646,7 +2646,7 @@
       ],
       "version": "0.1.2",
       "source": "xuenaimiao/evejs-mod-evejs-sc-quarters",
-      "downloads": 130,
+      "downloads": 131,
       "cdnHits": 0
     },
     {
@@ -2846,7 +2846,7 @@
       ],
       "version": "1.0.0",
       "source": "xfeiyu4008/evejs-mod-evejs-perfect-mutation-261028",
-      "downloads": 2,
+      "downloads": 7,
       "cdnHits": 0
     },
     {
@@ -2995,7 +2995,7 @@
       "tags": [],
       "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-planetary-industry-enhancement",
-      "downloads": 189,
+      "downloads": 196,
       "cdnHits": 0
     },
     {
@@ -3159,7 +3159,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "A56k1XCMpS+JGCG3zHh5Tj/IyXYRw443EZVoCGiDIBi4T0dLyo/EvfHk7MkuEHsTB2ihWWen69TVs6mu1KsQBQ==",
-    "signedAt": "2026-11-09T04:39:08.651Z"
+    "sig": "MdvLEXvCbitMxJf/pYjbEj7HITTVxZL/WFCCDRtNnJSa7bZflBSkS0EbL6iKMypZhz4i+/baUx6eo8TGNRsECA==",
+    "signedAt": "2026-11-09T06:41:50.652Z"
   }
 }

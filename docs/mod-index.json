@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-09T04:35:23.468Z",
+  "publishedAt": "2026-11-09T04:36:58.362Z",
   "mods": [
     {
       "author": {
@@ -905,7 +905,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation/releases/download/v0.3.0/npc-loot-mutation-0.3.0.zip"
+          "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation/releases/download/v0.3.1/npc-loot-mutation-0.3.1.zip"
         }
       ],
       "evejsVersions": [
@@ -919,16 +919,16 @@
       ],
       "history": [],
       "id": "npc-loot-mutation",
-      "publishedAt": "2026-11-08",
+      "publishedAt": "2026-11-09",
       "readme": [
         "在 NPC 残骸掉落生成时，把**可突变的模块 / 无人机**按 NPC 档位随机突变成对应的 **Abyssal** 产物（属性区间与游戏内突变质体一致）。"
       ],
       "repo": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation",
       "requiresRestart": true,
-      "sha256": "71c02fcf9a7bd0dc12974d0b7e8205cc8c983f914751c43eca6ed5f45b57abf1",
-      "sizeBytes": 30024,
+      "sha256": "89dc84018f31cc73cc632c4a6fd0d946347a3dce151253d86f729f0897a7782f",
+      "sizeBytes": 30018,
       "tags": [],
-      "version": "0.3.0",
+      "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation",
       "downloads": 16,
       "cdnHits": 0
@@ -1992,7 +1992,7 @@
       ],
       "version": "1.1.1",
       "source": "kuroneko-lice/evejs-mod-evejs-shi-chang-jia-ge-xin-xi-tong-bu",
-      "downloads": 106,
+      "downloads": 107,
       "cdnHits": 0
     },
     {
@@ -3159,7 +3159,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "BKW9xyjgEIHzxOrz4W2BA80flLvVv5ig6rIPdAO94TZbpiNWpOV1TSi6PDWqkgG8xWMvbvxNI/iZxa3So3d7Dg==",
-    "signedAt": "2026-11-09T04:35:23.473Z"
+    "sig": "z2wWr5Z/qzZXTft2FDVvJW9WTM55NE/CUaFOXW1Bu+CYYP+IQEk9kA4G4s9ii8ee5tEAaSuf+K9lcP44hkq4Cw==",
+    "signedAt": "2026-11-09T04:36:58.367Z"
   }
 }

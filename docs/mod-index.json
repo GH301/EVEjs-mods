@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-09T07:56:25.480Z",
+  "publishedAt": "2026-11-09T09:03:23.429Z",
   "mods": [
     {
       "author": {
@@ -45,7 +45,7 @@
       ],
       "version": "1.2.3",
       "source": "jealous123456789/evejs-mod-evejs-air-career-payout",
-      "downloads": 167,
+      "downloads": 171,
       "cdnHits": 0
     },
     {
@@ -92,7 +92,7 @@
       ],
       "version": "1.1.0",
       "source": "jealous123456789/evejs-mod-evejs-air-crate-loot",
-      "downloads": 171,
+      "downloads": 174,
       "cdnHits": 0
     },
     {
@@ -137,7 +137,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autolockfire-cn",
-      "downloads": 290,
+      "downloads": 293,
       "cdnHits": 0
     },
     {
@@ -180,7 +180,7 @@
       "tags": [],
       "version": "1.1.0",
       "source": "rzwm/evejs-mod-evejs-beijing-time",
-      "downloads": 315,
+      "downloads": 317,
       "cdnHits": 3
     },
     {
@@ -239,7 +239,7 @@
       "tags": [],
       "version": "0.18.2",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 686,
+      "downloads": 690,
       "cdnHits": 0
     },
     {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.5",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1348,
+      "downloads": 1349,
       "cdnHits": 0
     },
     {
@@ -346,7 +346,7 @@
       "tags": [],
       "version": "1.0.17",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1149,
+      "downloads": 1151,
       "cdnHits": 2449
     },
     {
@@ -390,7 +390,7 @@
       "tags": [],
       "version": "1.0.3",
       "source": "guihaitianyi-cmd/evejs-mod-evejs-evejs-hacking-suite-1-0-3",
-      "downloads": 288,
+      "downloads": 289,
       "cdnHits": 0
     },
     {
@@ -436,7 +436,7 @@
       ],
       "version": "1.0.0",
       "source": "ffiijkbaby/evejs-mod-evejs-evejs-nf-crew",
-      "downloads": 7,
+      "downloads": 8,
       "cdnHits": 0,
       "delistReason": {
         "zh": "案例模板MOD不要网上传。整改后冲i性能上传。",
@@ -528,49 +528,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 451,
-      "cdnHits": 0
-    },
-    {
-      "author": {
-        "id": "au-mvgf59rqpaue",
-        "keyId": "6d218baa968e",
-        "name": "普罗旺斯煎饼果子"
-      },
-      "category": "工具",
-      "changelog": "",
-      "conflicts": [],
-      "delisted": false,
-      "description": "",
-      "displayName": "logo-manager",
-      "downloadUrls": [
-        {
-          "mirror": "github",
-          "priority": 1,
-          "url": "https://github.com/jealous123456789/evejs-mod-evejs-logo-manager/releases/download/v1.0.0/evejs-logo-manager-1.0.0.zip"
-        }
-      ],
-      "evejsVersions": [
-        "261028.x"
-      ],
-      "featured": false,
-      "highlights": [
-        "保留全部 loader 加载要点（身份校验 / require.cache 等待 / unref）",
-        "业务钩子集中在 loader.js 的 start() 里，改这一处即可",
-        "改服务端源码用 SOURCE_PATCH（走注入总线），不自己 hook _compile"
-      ],
-      "history": [],
-      "id": "evejs-logo-manager",
-      "publishedAt": "2026-11-09",
-      "readme": [],
-      "repo": "https://github.com/jealous123456789/evejs-mod-evejs-logo-manager",
-      "requiresRestart": true,
-      "sha256": "01bc55b54bd3f00a3a614bf7c7f382ae214c439f5b04784d690f89494e21bc43",
-      "sizeBytes": 14935,
-      "tags": [],
-      "version": "1.0.0",
-      "source": "jealous123456789/evejs-mod-evejs-logo-manager",
-      "downloads": 0,
+      "downloads": 452,
       "cdnHits": 0
     },
     {
@@ -621,7 +579,7 @@
       ],
       "version": "1.2.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 355,
+      "downloads": 356,
       "cdnHits": 0
     },
     {
@@ -695,7 +653,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2118,
+      "downloads": 2120,
       "cdnHits": 2562
     },
     {
@@ -785,7 +743,7 @@
       "tags": [],
       "version": "0.6.0",
       "source": "Jasper377/evejs-mod-evejs-npc-console",
-      "downloads": 244,
+      "downloads": 245,
       "cdnHits": 2
     },
     {
@@ -883,7 +841,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "huihuangdi/evejs-mod-npc-bounty-tuning",
-      "downloads": 16,
+      "downloads": 17,
       "cdnHits": 0
     },
     {
@@ -928,7 +886,7 @@
       "tags": [],
       "version": "0.2.3",
       "source": "MateralCMX/evejs-mod-npc-extension-core",
-      "downloads": 205,
+      "downloads": 206,
       "cdnHits": 0
     },
     {
@@ -972,7 +930,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation",
-      "downloads": 22,
+      "downloads": 24,
       "cdnHits": 0
     },
     {
@@ -1019,7 +977,7 @@
       "tags": [],
       "version": "0.2.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation-ext",
-      "downloads": 20,
+      "downloads": 23,
       "cdnHits": 0
     },
     {
@@ -1066,7 +1024,7 @@
       "tags": [],
       "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-npc-loot-rules",
-      "downloads": 306,
+      "downloads": 307,
       "cdnHits": 0
     },
     {
@@ -1108,7 +1066,7 @@
       "tags": [],
       "version": "0.2.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
-      "downloads": 26,
+      "downloads": 31,
       "cdnHits": 0
     },
     {
@@ -1203,7 +1161,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "injusticemaster/evejs-mod-world-ark-91900",
-      "downloads": 194,
+      "downloads": 196,
       "cdnHits": 0
     },
     {
@@ -1251,7 +1209,7 @@
       ],
       "version": "1.0.9",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1028,
+      "downloads": 1035,
       "cdnHits": 0
     },
     {
@@ -1391,7 +1349,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-agent-portraits",
-      "downloads": 65,
+      "downloads": 66,
       "cdnHits": 0
     },
     {
@@ -1495,7 +1453,7 @@
       ],
       "version": "1.1.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 144,
+      "downloads": 152,
       "cdnHits": 0
     },
     {
@@ -1592,7 +1550,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "MateralCMX/evejs-mod-clone-convenience",
-      "downloads": 135,
+      "downloads": 137,
       "cdnHits": 0
     },
     {
@@ -1639,7 +1597,7 @@
       ],
       "version": "1.6.4",
       "source": "JUZIMandarin/evejs-mod-evejs-sleeper-drifters",
-      "downloads": 651,
+      "downloads": 652,
       "cdnHits": 2
     },
     {
@@ -1781,7 +1739,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-dungeon-pocket-anchor-fix",
-      "downloads": 109,
+      "downloads": 110,
       "cdnHits": 0
     },
     {
@@ -1830,7 +1788,7 @@
       ],
       "version": "1.1.0",
       "source": "kokoandqiong/evejs-mod-evejs-slimitem-name-wstring",
-      "downloads": 115,
+      "downloads": 118,
       "cdnHits": 0
     },
     {
@@ -1881,7 +1839,7 @@
       ],
       "version": "1.0.1",
       "source": "huihuangdi/evejs-mod-evejs-attribute-editor",
-      "downloads": 45,
+      "downloads": 46,
       "cdnHits": 0
     },
     {
@@ -1932,7 +1890,7 @@
       ],
       "version": "5.2.1",
       "source": "JonnyTC/evejs-mod-evejs-colossus-capital-fit",
-      "downloads": 102,
+      "downloads": 103,
       "cdnHits": 0
     },
     {
@@ -1991,7 +1949,7 @@
       ],
       "version": "2.0.0",
       "source": "JonnyTC/evejs-mod-evejs-colossus-audio-fix",
-      "downloads": 64,
+      "downloads": 65,
       "cdnHits": 0
     },
     {
@@ -2265,7 +2223,7 @@
       ],
       "version": "1.0.0",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 81,
+      "downloads": 82,
       "cdnHits": 0
     },
     {
@@ -2309,7 +2267,7 @@
       ],
       "version": "1.1.0",
       "source": "jealous123456789/evejs-mod-evejs-air-career-fix",
-      "downloads": 62,
+      "downloads": 64,
       "cdnHits": 0
     },
     {
@@ -2405,7 +2363,7 @@
       ],
       "version": "0.1.3",
       "source": "xuenaimiao/evejs-mod-evejs-sc-station",
-      "downloads": 209,
+      "downloads": 210,
       "cdnHits": 0
     },
     {
@@ -2835,7 +2793,7 @@
       "tags": [],
       "version": "1.6.0",
       "source": "Jasper377/evejs-mod-evejs-acspecialbattleship",
-      "downloads": 473,
+      "downloads": 475,
       "cdnHits": 3
     },
     {
@@ -2888,7 +2846,65 @@
       ],
       "version": "1.0.0",
       "source": "xfeiyu4008/evejs-mod-evejs-perfect-mutation-261028",
-      "downloads": 10,
+      "downloads": 13,
+      "cdnHits": 0
+    },
+    {
+      "author": {
+        "id": "au-mvgf59rqpaue",
+        "keyId": "6d218baa968e",
+        "name": "普罗旺斯煎饼果子"
+      },
+      "category": "工具",
+      "changelog": "发布正式版本",
+      "conflicts": [],
+      "delisted": false,
+      "description": "在本地网页里上传图片，替换 EVE 联盟图标；支持拖拽/缩放裁剪、预览、恢复默认、备份和客户端缓存清理。当前版本仅联盟图标。",
+      "displayName": "联盟图标管理器",
+      "downloadUrls": [
+        {
+          "mirror": "github",
+          "priority": 1,
+          "url": "https://github.com/jealous123456789/evejs-mod-evejs-logo-manager/releases/download/v1.0.2/evejs-logo-manager-1.0.2.zip"
+        }
+      ],
+      "evejsVersions": [
+        "261028.x"
+      ],
+      "featured": false,
+      "highlights": [
+        "本机网页管理界面，浏览器上传，不改服务端源码",
+        "联盟列表、搜索、手动输入联盟 ID",
+        "PNG / JPG / WebP / GIF 自动转 PNG，支持透明背景",
+        "拖拽平移 + 滚轮/滑块缩放裁剪",
+        "输出 1024×1024，自动写入 32/64/128/256/512/1024 全尺寸",
+        "当前图标预览、恢复默认、恢复上一版备份",
+        "一键清当前联盟缓存 / 清空整个 Pictures / 清空 Texture，处理舰船贴花不刷新",
+        "只监听 `127.0.0.1`，仅本机访问，无运行时依赖",
+        "当前版本仅支持联盟图标；军团图标后续版本加入"
+      ],
+      "history": [],
+      "id": "evejs-logo-manager",
+      "publishedAt": "2026-11-09",
+      "readme": [
+        "联盟图标管理器是一个运行在游戏服务端进程里的本机网页工具。启用模组、重启服务器后，用浏览器打开 `http://127.0.0.1:26009/` 就能管理联盟图标，不需要手动复制文件，也不修改服务端源码。",
+        "上传图片后，网页会自动裁剪成正方形并转成 PNG，写入图床使用的 32 / 64 / 128 / 256 / 512 / 1024 六个尺寸。建筑和主权标志通常很快刷新；舰船上的联盟标志是客户端 SOF 贴花，需要清除客户端缓存并完全重启客户端后才会更新，网页里提供了对应的一键清理按钮。",
+        "- 网页只绑定 `127.0.0.1`，默认不带登录。\n- 会校验 `Origin`，只允许本机页面调用写接口。\n- 实体 ID 必须是正整数；类型只允许联盟。\n- 只接受 PNG（网页端已转 PNG）；校验 PNG 头和正方形尺寸。\n- 保存前会先把旧图标备份到 `logo-manager/backups/`。\n- “清当前联盟缓存”只删除 `Pictures/Alliances` 下该联盟 ID 的缓存文件。\n- “清空整个 Pictures / Texture”会删除当前客户端 profile 的整个对应缓存目录，客户端会重新下载；请先完全退出客户端。"
+      ],
+      "repo": "https://github.com/jealous123456789/evejs-mod-evejs-logo-manager",
+      "requiresRestart": true,
+      "sha256": "f32ebe5970172bd28b33e701cb1938bafea16433a0d593ea5d6e145cf6b7f5f2",
+      "sizeBytes": 48418,
+      "tags": [
+        "自定义图标",
+        "logo",
+        "联盟",
+        "网页",
+        "图标"
+      ],
+      "version": "1.0.2",
+      "source": "jealous123456789/evejs-mod-evejs-logo-manager",
+      "downloads": 3,
       "cdnHits": 0
     },
     {
@@ -2938,7 +2954,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autopilot-jump-stargate-0km",
-      "downloads": 290,
+      "downloads": 291,
       "cdnHits": 3
     },
     {
@@ -3168,7 +3184,7 @@
       ],
       "version": "1.0.4",
       "source": "kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
-      "downloads": 196,
+      "downloads": 197,
       "cdnHits": 0
     }
   ],
@@ -3201,7 +3217,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "V6iWJurTT0UmfL5JlWIYv91lH4aEkAe6Mk2clJKFTrM+BnwHv3XT5w0WG+9jQMUog3Yz1dO3zlHjIYqnsDCQDg==",
-    "signedAt": "2026-11-09T07:56:25.485Z"
+    "sig": "tUHSy9k9VZdKQCggRts4PJpamsMXIZPmh3fwXxsXrz3/adp9BCWMgQavq/6qOIj64ufQTKt71QAufJvXmrhRDQ==",
+    "signedAt": "2026-11-09T09:03:23.434Z"
   }
 }

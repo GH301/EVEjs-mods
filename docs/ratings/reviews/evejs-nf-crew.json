@@ -1,18 +1,19 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793481994731,
+  "generatedAt": 1794309055172,
   "modId": "evejs-nf-crew",
   "reviews": [],
   "stars": {
-    "count": 2,
+    "count": 3,
     "keys": [
       "ef7c96efb913",
-      "5602d218b1ae"
+      "5602d218b1ae",
+      "538cf5081788"
     ]
   },
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "J0KQ/wh0+3u8BJxY0mpr4b2q6ybVpFMFo07K3dkqHgh992B1KPFt1h6p5A0YhskxUDGGDOXTdWxlHMmSeP/4DQ=="
+    "sig": "2KAfJzx/2ITL20HwAH4aTQrdLrj4fovUyIJP7UHEoEpIeUVoxwNziAvb0+Z5N0gduvCH56GCBAxLcIs9B6G8CQ=="
   }
 }

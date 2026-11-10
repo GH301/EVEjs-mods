@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-10T09:58:05.435Z",
+  "publishedAt": "2026-11-10T10:22:17.984Z",
   "mods": [
     {
       "author": {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.6",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1388,
+      "downloads": 1390,
       "cdnHits": 0
     },
     {
@@ -348,7 +348,7 @@
       ],
       "version": "1.0.18",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1181,
+      "downloads": 1182,
       "cdnHits": 2557
     },
     {
@@ -1211,7 +1211,7 @@
       ],
       "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1066,
+      "downloads": 1069,
       "cdnHits": 0
     },
     {
@@ -1456,7 +1456,7 @@
       ],
       "version": "1.2.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 235,
+      "downloads": 239,
       "cdnHits": 0
     },
     {
@@ -2197,40 +2197,36 @@
       "changelog": "",
       "conflicts": [],
       "delisted": false,
-      "description": "自动创建矿队",
+      "description": "自动创建矿队：随机召唤 30-100 名矿工加入你的舰队，在你周围选矿、锁定并采矿，货舱装满后压缩并交付到舰队机库，跟着你跃迁和过星门。",
       "displayName": "挖矿",
       "downloadUrls": [
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/lxm970112-hub/evejs-mod-evejs-wa-kuang/releases/download/v1.0.0/evejs-wa-kuang-1.0.0.zip"
+          "url": "https://github.com/lxm970112-hub/evejs-mod-evejs-wa-kuang/releases/download/v1.2.1/evejs-wa-kuang-1.2.1.zip"
         }
       ],
       "evejsVersions": [
         "261028.x"
       ],
       "featured": false,
-      "highlights": [
-        "玩家上线后在其本地聊天频道发送欢迎消息",
-        "只改运行内存，不修改 server/ 下任何文件",
-        "由启动器的注入总线加载，不会提前拉起大依赖",
-        "要改服务端源码时，填上 loader.js 里的 SOURCE_PATCH 即走总线"
-      ],
+      "highlights": [],
       "history": [],
       "id": "evejs-wa-kuang",
-      "publishedAt": "2026-11-09",
-      "readme": [
-        "自动创建矿队"
-      ],
+      "publishedAt": "2026-11-10",
+      "readme": [],
       "repo": "https://github.com/lxm970112-hub/evejs-mod-evejs-wa-kuang",
       "requiresRestart": true,
-      "sha256": "8869d5189a8499acdef533eb3aa3ef35c67cf04db34415f86598034843ba0b8b",
-      "sizeBytes": 19991,
+      "sha256": "eef510f24a8a32315c8c78028e5cab2af92930f29437a21ccb5e20a6629a30de",
+      "sizeBytes": 62436,
       "tags": [
-        "聊天",
-        "新手"
+        "采矿",
+        "矿队",
+        "舰队",
+        "NPC",
+        "自动"
       ],
-      "version": "1.0.0",
+      "version": "1.2.1",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
       "downloads": 11,
       "cdnHits": 0
@@ -2560,7 +2556,7 @@
       "tags": [],
       "version": "0.1.0",
       "source": "xuenaimiao/evejs-mod-evejs-sc-ships-pack-rsi-crusader",
-      "downloads": 254,
+      "downloads": 255,
       "cdnHits": 0
     },
     {
@@ -2804,7 +2800,7 @@
       "tags": [],
       "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-mobile-tractor-enhancement",
-      "downloads": 339,
+      "downloads": 340,
       "cdnHits": 0
     },
     {
@@ -2956,7 +2952,7 @@
       ],
       "version": "1.0.3",
       "source": "jealous123456789/evejs-mod-evejs-logo-manager",
-      "downloads": 44,
+      "downloads": 45,
       "cdnHits": 0
     },
     {
@@ -3191,7 +3187,7 @@
       ],
       "version": "1.2.2",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 145,
+      "downloads": 146,
       "cdnHits": 0
     },
     {
@@ -3269,7 +3265,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "Ii9S6TNxEZA34tedhPN1R/rFrub/TapzCFxpcOFMscfIcKXVDlI932ZpNCg5yyGryxe9+JjmYI88mLcDyQgeAA==",
-    "signedAt": "2026-11-10T09:58:05.440Z"
+    "sig": "Y1BC3WQA48ea5NH1y3DE6ssZfQgkkcJOK7CRv78ugPxiweARcuAhsnchnOzZQ5wqQkr95841A1rN7YxIMi1iAA==",
+    "signedAt": "2026-11-10T10:22:17.990Z"
   }
 }

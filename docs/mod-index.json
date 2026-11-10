@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-10T14:59:53.097Z",
+  "publishedAt": "2026-11-10T15:23:29.071Z",
   "mods": [
     {
       "author": {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.6",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1410,
+      "downloads": 1412,
       "cdnHits": 0
     },
     {
@@ -655,7 +655,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2148,
+      "downloads": 2149,
       "cdnHits": 2740
     },
     {
@@ -843,7 +843,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "huihuangdi/evejs-mod-npc-bounty-tuning",
-      "downloads": 39,
+      "downloads": 40,
       "cdnHits": 0
     },
     {
@@ -932,7 +932,7 @@
       "tags": [],
       "version": "0.4.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation",
-      "downloads": 50,
+      "downloads": 54,
       "cdnHits": 0
     },
     {
@@ -980,7 +980,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation-ext",
-      "downloads": 53,
+      "downloads": 57,
       "cdnHits": 0
     },
     {
@@ -1069,7 +1069,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
-      "downloads": 71,
+      "downloads": 76,
       "cdnHits": 0
     },
     {
@@ -1457,7 +1457,7 @@
       ],
       "version": "1.2.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 268,
+      "downloads": 270,
       "cdnHits": 0
     },
     {
@@ -1843,7 +1843,7 @@
       ],
       "version": "1.1.1",
       "source": "huihuangdi/evejs-mod-evejs-attribute-editor",
-      "downloads": 63,
+      "downloads": 64,
       "cdnHits": 0
     },
     {
@@ -2231,7 +2231,7 @@
       ],
       "version": "1.5.3",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
-      "downloads": 27,
+      "downloads": 28,
       "cdnHits": 0
     },
     {
@@ -2250,28 +2250,29 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/xxxuan42/evejs-mod-evejs-auto-mining-compression/releases/download/v1.0.0/evejs-auto-mining-compression-1.0.0.zip"
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-auto-mining-compression/releases/download/v1.1.1/evejs-auto-mining-compression-1.1.1.zip"
         }
       ],
       "evejsVersions": [
-        "261028.1"
+        "261028.1",
+        "261108.1"
       ],
       "featured": false,
       "highlights": [],
       "history": [],
       "id": "evejs-auto-mining-compression",
-      "publishedAt": "2026-11-04",
+      "publishedAt": "2026-11-10",
       "readme": [],
       "repo": "https://github.com/xxxuan42/evejs-mod-evejs-auto-mining-compression",
       "requiresRestart": true,
-      "sha256": "b8932306ba745a25c30268508d84dcbc1bd2eaede53eb7e5f18ef2dc35e2a71f",
-      "sizeBytes": 13774,
+      "sha256": "a94ef3bd0cd4db0e2162703ea7b09dfd0249e2c30e97fc84a7d79f5c7ace409b",
+      "sizeBytes": 15678,
       "tags": [
         "无人机",
         "采矿",
         "压缩"
       ],
-      "version": "1.0.0",
+      "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
       "downloads": 92,
       "cdnHits": 0
@@ -3236,7 +3237,7 @@
       ],
       "version": "1.3.1",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 154,
+      "downloads": 158,
       "cdnHits": 0
     },
     {
@@ -3314,7 +3315,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "q1rkT2pyZP3Pi0fjJLKLH8YH89bPleN9VQSdiSnZ+w9zBapBkR8Yw0LtKZUYqf3o5ZivmMyz24tPT20fNzMUAA==",
-    "signedAt": "2026-11-10T14:59:53.101Z"
+    "sig": "384Aj8FGcasL6B5CJGStssLh4U7DiEKKveX6K+/j8RvL5JMSvLUcc7PVltQxaJTLf0X0gjbAprTLOHQrQyxiAw==",
+    "signedAt": "2026-11-10T15:23:29.076Z"
   }
 }

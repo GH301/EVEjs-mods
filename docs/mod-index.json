@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-10T05:34:37.007Z",
+  "publishedAt": "2026-11-10T05:37:59.867Z",
   "mods": [
     {
       "author": {
@@ -295,8 +295,8 @@
         "keyId": "bc816da2a7bc",
         "name": "波坤太叔"
       },
-      "category": "玩法",
-      "changelog": "根据新机制做更新",
+      "category": "工具",
+      "changelog": "更新至261108.1版本",
       "conflicts": [],
       "delisted": false,
       "description": "这是一个在游戏内自动采矿,自动压缩的工具",
@@ -305,13 +305,11 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/diguo520/evejs-mod-evejs-automining/releases/download/v1.0.17/evejs-automining-1.0.17.zip"
+          "url": "https://github.com/diguo520/evejs-mod-evejs-automining/releases/download/v1.0.18/evejs-automining-1.0.18.zip"
         }
       ],
       "evejsVersions": [
-        "0.12.8",
-        "0.12.9",
-        "261018.x"
+        "261108.1"
       ],
       "featured": false,
       "highlights": [
@@ -323,14 +321,14 @@
       ],
       "history": [],
       "id": "evejs-automining",
-      "publishedAt": "2026-10-23",
+      "publishedAt": "2026-11-10",
       "readme": [
         "这是一个在游戏内自动采矿,自动压缩的工具。\n-将本MOD放在所有MOD之后进行加载。\n- 进入游戏后，左侧工具栏（Neocom）会固定一个 ⛏ 采矿按钮，单击即可打开设置窗口。\n- 该按钮属于工具栏的「固定按钮区」，显示在左侧工具栏**底部**（时钟上方），不\n  在顶部的主图标列表里；鼠标悬停会显示「自动采矿」。\n- 也可以使用聊天命令：/AutoMining（不分大小写）打开工具。\n- 界面、状态与矿名会跟随客户端语言自动翻译；矿名使用客户端官方中文名称。",
         "> 若看不到左侧 ⛏ 按钮：请先彻底关闭游戏客户端与服务器进程，再通过启动器重新启动（服务器与客户端都要重启，客户端更新内容在登录握手中下发）。"
       ],
       "repo": "https://github.com/diguo520/evejs-mod-evejs-automining",
       "requiresRestart": true,
-      "sha256": "f589b1c620673c4155d4c07f3f2458bafcfe746ecdb5a3e318fa2a71f431c92e",
+      "sha256": "9458c258cbe27b094c965d34d3e58e8e4e4972b6d80a66efdc2e05449d6c05c9",
       "shots": [
         "shots/20261014040854757.png",
         "shots/20261014040923577.png",
@@ -342,9 +340,13 @@
         "shots/20261014041009889.png",
         "shots/20261014041016641.png"
       ],
-      "sizeBytes": 12100017,
-      "tags": [],
-      "version": "1.0.17",
+      "sizeBytes": 12100694,
+      "tags": [
+        "自动",
+        "采矿",
+        "压缩"
+      ],
+      "version": "1.0.18",
       "source": "diguo520/evejs-mod-evejs-automining",
       "downloads": 1158,
       "cdnHits": 2557
@@ -1180,7 +1182,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/diguo520/evejs-mod-evejs-cntext-fix/releases/download/v1.0.9/evejs-cntext-fix-1.0.9.zip"
+          "url": "https://github.com/diguo520/evejs-mod-evejs-cntext-fix/releases/download/v1.0.10/evejs-cntext-fix-1.0.10.zip"
         }
       ],
       "evejsVersions": [
@@ -1192,7 +1194,7 @@
       ],
       "history": [],
       "id": "evejs-cntext-fix",
-      "publishedAt": "2026-10-29",
+      "publishedAt": "2026-11-10",
       "readme": [
         "角色，建筑，舰船起名可使用中文",
         "插件分两层，都是把该打的代码插进内存里（不落盘）：",
@@ -1202,12 +1204,12 @@
       ],
       "repo": "https://github.com/diguo520/evejs-mod-evejs-cntext-fix",
       "requiresRestart": true,
-      "sha256": "75a07942d82d0a709f36886c586f54f422131ad90e87106760572a07be907e2c",
-      "sizeBytes": 20217,
+      "sha256": "2fafe993fa2416f559d6bb993936cf788217b5412cb5d2ee8f458e37d3406960",
+      "sizeBytes": 20240,
       "tags": [
         "语言"
       ],
-      "version": "1.0.9",
+      "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
       "downloads": 1047,
       "cdnHits": 0
@@ -3266,7 +3268,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "nGA+cf6bDEKMUdYmehMGbF7VpKU/d0gjgmnh80/u412U8yQpoW8qSlVA0QU2MfPhEYnI8Stv5ok1QYI4mnr1BA==",
-    "signedAt": "2026-11-10T05:34:37.010Z"
+    "sig": "wqHw+Kkh6esjhZ+kl50EcKn2Pk7snhU6MAZR1pkuaN/7B+H0OGynBkk1wYnTO6GFqPsaIV8WNdfVANCZ6YM4AQ==",
+    "signedAt": "2026-11-10T05:37:59.871Z"
   }
 }

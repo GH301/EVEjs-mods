@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-10T00:59:08.489Z",
+  "publishedAt": "2026-11-10T01:49:01.571Z",
   "mods": [
     {
       "author": {
@@ -579,7 +579,7 @@
       ],
       "version": "1.2.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 378,
+      "downloads": 379,
       "cdnHits": 0
     },
     {
@@ -653,7 +653,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2141,
+      "downloads": 2142,
       "cdnHits": 2740
     },
     {
@@ -795,7 +795,7 @@
       "tags": [],
       "version": "0.2.0",
       "source": "xuenaimiao/evejs-mod-evejs-npc-fleet",
-      "downloads": 378,
+      "downloads": 379,
       "cdnHits": 0
     },
     {
@@ -1066,7 +1066,7 @@
       "tags": [],
       "version": "0.2.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
-      "downloads": 53,
+      "downloads": 55,
       "cdnHits": 0
     },
     {
@@ -1254,7 +1254,7 @@
       ],
       "version": "1.0.0",
       "source": "kokoandqiong/evejs-mod-evejs-sov-workforce-fix",
-      "downloads": 96,
+      "downloads": 97,
       "cdnHits": 0
     },
     {
@@ -1300,7 +1300,7 @@
       ],
       "version": "1.3.10",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 112,
+      "downloads": 115,
       "cdnHits": 0
     },
     {
@@ -1453,7 +1453,7 @@
       ],
       "version": "1.1.2",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 218,
+      "downloads": 220,
       "cdnHits": 0
     },
     {
@@ -2135,7 +2135,7 @@
       "tags": [],
       "version": "0.2.2",
       "source": "xuenaimiao/evejs-mod-evejs-perf-fix",
-      "downloads": 495,
+      "downloads": 496,
       "cdnHits": 2
     },
     {
@@ -2229,7 +2229,7 @@
       ],
       "version": "1.0.0",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
-      "downloads": 3,
+      "downloads": 4,
       "cdnHits": 0
     },
     {
@@ -2754,7 +2754,7 @@
       ],
       "version": "3.2.0",
       "source": "Jasper377/evejs-mod-evejs-racks16",
-      "downloads": 442,
+      "downloads": 443,
       "cdnHits": 3
     },
     {
@@ -2841,7 +2841,7 @@
       "tags": [],
       "version": "1.6.0",
       "source": "Jasper377/evejs-mod-evejs-acspecialbattleship",
-      "downloads": 477,
+      "downloads": 478,
       "cdnHits": 3
     },
     {
@@ -2904,7 +2904,7 @@
         "name": "普罗旺斯煎饼果子"
       },
       "category": "工具",
-      "changelog": "发布正式版本",
+      "changelog": "补充适配261108.1服务端",
       "conflicts": [],
       "delisted": false,
       "description": "在本地网页里上传图片，替换 EVE 联盟图标；支持拖拽/缩放裁剪、预览、恢复默认、备份和客户端缓存清理。当前版本仅联盟图标。",
@@ -2913,11 +2913,12 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/jealous123456789/evejs-mod-evejs-logo-manager/releases/download/v1.0.2/evejs-logo-manager-1.0.2.zip"
+          "url": "https://github.com/jealous123456789/evejs-mod-evejs-logo-manager/releases/download/v1.0.3/evejs-logo-manager-1.0.3.zip"
         }
       ],
       "evejsVersions": [
-        "261028.x"
+        "261028.x",
+        "261108.x"
       ],
       "featured": false,
       "highlights": [
@@ -2933,7 +2934,7 @@
       ],
       "history": [],
       "id": "evejs-logo-manager",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "readme": [
         "联盟图标管理器是一个运行在游戏服务端进程里的本机网页工具。启用模组、重启服务器后，用浏览器打开 `http://127.0.0.1:26009/` 就能管理联盟图标，不需要手动复制文件，也不修改服务端源码。",
         "上传图片后，网页会自动裁剪成正方形并转成 PNG，写入图床使用的 32 / 64 / 128 / 256 / 512 / 1024 六个尺寸。建筑和主权标志通常很快刷新；舰船上的联盟标志是客户端 SOF 贴花，需要清除客户端缓存并完全重启客户端后才会更新，网页里提供了对应的一键清理按钮。",
@@ -2941,8 +2942,8 @@
       ],
       "repo": "https://github.com/jealous123456789/evejs-mod-evejs-logo-manager",
       "requiresRestart": true,
-      "sha256": "f32ebe5970172bd28b33e701cb1938bafea16433a0d593ea5d6e145cf6b7f5f2",
-      "sizeBytes": 48418,
+      "sha256": "f2aa65f9169cb02cb950df400c072869b557551d20f3f887ed5785d7cf225539",
+      "sizeBytes": 53715,
       "tags": [
         "自定义图标",
         "logo",
@@ -2950,7 +2951,7 @@
         "网页",
         "图标"
       ],
-      "version": "1.0.2",
+      "version": "1.0.3",
       "source": "jealous123456789/evejs-mod-evejs-logo-manager",
       "downloads": 27,
       "cdnHits": 0
@@ -3101,7 +3102,7 @@
       "tags": [],
       "version": "0.1.6",
       "source": "MateralCMX/evejs-mod-planetary-industry-enhancement",
-      "downloads": 219,
+      "downloads": 220,
       "cdnHits": 0
     },
     {
@@ -3187,7 +3188,7 @@
       ],
       "version": "1.2.2",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 134,
+      "downloads": 136,
       "cdnHits": 0
     },
     {
@@ -3265,7 +3266,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "y+f9WuLke5THR4LA2/jPHsAdcRL65R3DPu+LYkIFG+9Po6tWxoyQQjGygvg9qdhRmcvd1zKirFwnMSDULosABw==",
-    "signedAt": "2026-11-10T00:59:08.494Z"
+    "sig": "plHgJT2pGEo2OX7u47lLiwVVrP9EDwTEDNl3ymyheIGWYbhFhIpMoKFiSFARhBIrCWVHoqzO+OObRUbPAEqXAw==",
+    "signedAt": "2026-11-10T01:49:01.576Z"
   }
 }

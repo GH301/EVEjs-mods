@@ -1,8 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1792814199765,
+  "generatedAt": 1794273347981,
   "modId": "evejs-acspecialbattleship",
-  "reviews": [],
+  "reviews": [
+    {
+      "id": "rv-1794273346744-13084",
+      "keyId": "c6ee65a8b958",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "1.6.0",
+      "date": "2026-11-10",
+      "body": "找不到船在哪里",
+      "edited": false
+    }
+  ],
   "stars": {
     "count": 1,
     "keys": [
@@ -12,6 +25,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "gNmwkWRg9IKlMUnVJMhWIGOhvTii8GwUg2Qz4qhq1z+dXaCqD6Dy+Wx+20gtkL08PGArrOlUcBKhCxSVmFkEDg=="
+    "sig": "k82VClu49mMuWAKu4oiYImHWXonLuyIhVRVlcWfJQEfy+jpwd/qZoMTVWokf+rMMAsNUZOMe79lhNY8Wiuu8DQ=="
   }
 }

@@ -1,8 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1794119614328,
+  "generatedAt": 1794272677301,
   "modId": "evejs-faction-sim",
   "reviews": [
+    {
+      "id": "rv-1794272676048-13084",
+      "keyId": "c6ee65a8b958",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "0.5.2",
+      "date": "2026-11-10",
+      "body": "继续更新  本人NPC名字乱码",
+      "edited": false
+    },
     {
       "id": "rv-1791651459343-38516",
       "keyId": "1574beaf5442",
@@ -41,6 +53,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "gFcOPk8yxV2q812p+nUJs6rVpCURVTaIVyrxKStl4idT1a8modZU4f2dYCX0ptxxTs0Q5qTuvuO/6vBzOOrKDQ=="
+    "sig": "sfDl4YDcVysspfFoSD6TX8UtObsblOt88ElQUU4DfD1wrkoI1EhZmtn05G4yzlOtyDzDU0PcBajfP3+fJHuRDw=="
   }
 }

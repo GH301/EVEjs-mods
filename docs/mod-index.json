@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-10T13:06:13.199Z",
+  "publishedAt": "2026-11-10T13:49:18.625Z",
   "mods": [
     {
       "author": {
@@ -239,7 +239,7 @@
       "tags": [],
       "version": "0.18.2",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 711,
+      "downloads": 712,
       "cdnHits": 0
     },
     {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.6",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1399,
+      "downloads": 1405,
       "cdnHits": 0
     },
     {
@@ -348,7 +348,7 @@
       ],
       "version": "1.0.18",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1184,
+      "downloads": 1186,
       "cdnHits": 2557
     },
     {
@@ -581,7 +581,7 @@
       ],
       "version": "1.2.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 386,
+      "downloads": 387,
       "cdnHits": 0
     },
     {
@@ -655,7 +655,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2145,
+      "downloads": 2146,
       "cdnHits": 2740
     },
     {
@@ -843,7 +843,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "huihuangdi/evejs-mod-npc-bounty-tuning",
-      "downloads": 37,
+      "downloads": 38,
       "cdnHits": 0
     },
     {
@@ -898,7 +898,7 @@
         "name": "辉煌帝"
       },
       "category": "玩法",
-      "changelog": "刷新签名",
+      "changelog": "迁移到新版服务端。",
       "conflicts": [],
       "delisted": false,
       "description": "NPC掉落突变：可突变的模块/无人机在掉落时按 NPC 档位随机突变为 Abyssal 产物，属性区间与服务端突变一致。",
@@ -907,32 +907,32 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation/releases/download/v0.3.1/npc-loot-mutation-0.3.1.zip"
+          "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation/releases/download/v0.4.1/npc-loot-mutation-0.4.1.zip"
         }
       ],
       "evejsVersions": [
-        "261028.x"
+        "261108.x"
       ],
       "featured": false,
       "highlights": [
-        "兼容：EveJS `261028.x`",
+        "兼容：EveJS `261108.x`",
         "与 [`npc-loot-rules`](../npc-loot-rules) 可同时启用：本模组注入 `nativeNpcWreckService.js`，它注入 `npcLoot.js` / 其它 3 个文件，互不干扰。",
         "交付为 `loader.js.disabled`，需要你在启动器里启用。"
       ],
       "history": [],
       "id": "npc-loot-mutation",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "readme": [
         "在 NPC 残骸掉落生成时，把**可突变的模块 / 无人机**按 NPC 档位随机突变成对应的 **Abyssal** 产物（属性区间与游戏内突变质体一致）。"
       ],
       "repo": "https://github.com/huihuangdi/evejs-mod-npc-loot-mutation",
       "requiresRestart": true,
-      "sha256": "89dc84018f31cc73cc632c4a6fd0d946347a3dce151253d86f729f0897a7782f",
-      "sizeBytes": 30018,
+      "sha256": "e577cef031468a71af33734c5e7930675e78483c4d9674686bdde3bbd15e0a56",
+      "sizeBytes": 31146,
       "tags": [],
-      "version": "0.3.1",
+      "version": "0.4.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation",
-      "downloads": 44,
+      "downloads": 45,
       "cdnHits": 0
     },
     {
@@ -979,7 +979,7 @@
       "tags": [],
       "version": "0.2.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation-ext",
-      "downloads": 47,
+      "downloads": 48,
       "cdnHits": 0
     },
     {
@@ -1036,37 +1036,37 @@
         "name": "辉煌帝"
       },
       "category": "玩法",
-      "changelog": "重置签名",
+      "changelog": "兼容新版本",
       "conflicts": [
         "npc-loot-rules"
       ],
       "delisted": false,
-      "description": "NPC掉落规则（261028 移植版）：按敌人类别/势力/舰船尺寸分配装备掉落，含指挥官、官员、监察官、旗舰、NET 共振器与蓝图掉落。",
+      "description": "NPC掉落规则（261028 移植版，适配 EveJS 261108.1）：按敌人类别/势力/舰船尺寸分配装备掉落，含指挥官、官员、监察官、旗舰、NET 共振器与蓝图掉落。",
       "displayName": "NPC掉落规则（261028 移植版）",
       "downloadUrls": [
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-rules-261028/releases/download/v0.2.1/npc-loot-rules-261028-0.2.1.zip"
+          "url": "https://github.com/huihuangdi/evejs-mod-npc-loot-rules-261028/releases/download/v0.3.1/npc-loot-rules-261028-0.3.1.zip"
         }
       ],
       "evejsVersions": [
-        "261028.x"
+        "261108.x"
       ],
       "featured": false,
       "highlights": [],
       "history": [],
       "id": "npc-loot-rules-261028",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-10",
       "readme": [
-        "移植自市场版 `npc-loot-rules` 0.1.3（作者 Materal，AGPL-3.0-only），适配 EveJS 261028.1。`data/` 沿用原版数据，完整规则见 [DROP-RULES.zh-CN.md](DROP-RULES.zh-CN.md)。包内有详细文档。可让AI直接上手修。"
+        "移植自市场版 `npc-loot-rules` 0.1.3（作者 Materal，AGPL-3.0-only）。0.2.x 适配 EveJS 261028.1；**0.3.0 起适配 EveJS 261108.1**（基线换新版，incursion 死亡残骸掉落路径已适配）。`data/` 沿用原版数据，完整规则见 [DROP-RULES.zh-CN.md](DROP-RULES.zh-CN.md)。包内有详细文档。可让AI直接上手修。"
       ],
       "repo": "https://github.com/huihuangdi/evejs-mod-npc-loot-rules-261028",
       "requiresRestart": true,
-      "sha256": "bba4da4c0f665eb04bb532ee3de82793dfdfac48ee2012dc1763a877e9ff23f1",
-      "sizeBytes": 148609,
+      "sha256": "c2b9ed8511e74a2fe4b5fbf64fd2c7f2d12dc796db959c8d984655b5ddd9566d",
+      "sizeBytes": 155025,
       "tags": [],
-      "version": "0.2.1",
+      "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
       "downloads": 64,
       "cdnHits": 0
@@ -1211,7 +1211,7 @@
       ],
       "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1081,
+      "downloads": 1086,
       "cdnHits": 0
     },
     {
@@ -1302,7 +1302,7 @@
       ],
       "version": "1.3.10",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 125,
+      "downloads": 126,
       "cdnHits": 0
     },
     {
@@ -1456,7 +1456,7 @@
       ],
       "version": "1.2.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 260,
+      "downloads": 262,
       "cdnHits": 0
     },
     {
@@ -1644,7 +1644,7 @@
       ],
       "version": "1.0.0",
       "source": "xxxuan42/evejs-mod-evejs-moonscan-all",
-      "downloads": 69,
+      "downloads": 70,
       "cdnHits": 0
     },
     {
@@ -1995,7 +1995,7 @@
       ],
       "version": "1.1.1",
       "source": "kuroneko-lice/evejs-mod-evejs-shi-chang-jia-ge-xin-xi-tong-bu",
-      "downloads": 124,
+      "downloads": 125,
       "cdnHits": 0
     },
     {
@@ -2230,7 +2230,7 @@
       ],
       "version": "1.5.3",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
-      "downloads": 21,
+      "downloads": 24,
       "cdnHits": 0
     },
     {
@@ -2802,7 +2802,7 @@
       "tags": [],
       "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-mobile-tractor-enhancement",
-      "downloads": 340,
+      "downloads": 342,
       "cdnHits": 0
     },
     {
@@ -2895,7 +2895,7 @@
       ],
       "version": "1.0.0",
       "source": "xfeiyu4008/evejs-mod-evejs-perfect-mutation-261028",
-      "downloads": 46,
+      "downloads": 47,
       "cdnHits": 0
     },
     {
@@ -2954,7 +2954,7 @@
       ],
       "version": "1.0.3",
       "source": "jealous123456789/evejs-mod-evejs-logo-manager",
-      "downloads": 48,
+      "downloads": 49,
       "cdnHits": 0
     },
     {
@@ -3103,7 +3103,7 @@
       "tags": [],
       "version": "0.1.6",
       "source": "MateralCMX/evejs-mod-planetary-industry-enhancement",
-      "downloads": 230,
+      "downloads": 232,
       "cdnHits": 0
     },
     {
@@ -3189,7 +3189,7 @@
       ],
       "version": "1.0.0",
       "source": "lxm970112-hub/evejs-mod-evejs-fitting-ship-slots",
-      "downloads": 3,
+      "downloads": 4,
       "cdnHits": 0
     },
     {
@@ -3232,7 +3232,7 @@
       ],
       "version": "1.2.2",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 152,
+      "downloads": 154,
       "cdnHits": 0
     },
     {
@@ -3310,7 +3310,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "osrTxzm3w1C5XevcFPawGkn8+utlXELb21nReWUkIBCiiDj0lGZV1TN8inqgPG0j9yL0FDFCzWYtZTwPRh9cDA==",
-    "signedAt": "2026-11-10T13:06:13.204Z"
+    "sig": "T7k+6id2EeHe8a+XDKyr5W8m58mECD5siRXCGXH/5d0qhRFZPzGlJkivJg6Y+6DFfkuTcWJp1QZNdmcMIRnuAg==",
+    "signedAt": "2026-11-10T13:49:18.630Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-11T13:10:24.435Z",
+  "publishedAt": "2026-11-11T14:10:19.246Z",
   "mods": [
     {
       "author": {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.6",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1452,
+      "downloads": 1457,
       "cdnHits": 0
     },
     {
@@ -348,7 +348,7 @@
       ],
       "version": "1.0.18",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1210,
+      "downloads": 1213,
       "cdnHits": 2627
     },
     {
@@ -530,7 +530,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 473,
+      "downloads": 474,
       "cdnHits": 0
     },
     {
@@ -581,7 +581,7 @@
       ],
       "version": "1.2.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 400,
+      "downloads": 402,
       "cdnHits": 0
     },
     {
@@ -932,7 +932,7 @@
       "tags": [],
       "version": "0.4.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation",
-      "downloads": 69,
+      "downloads": 71,
       "cdnHits": 0
     },
     {
@@ -980,7 +980,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation-ext",
-      "downloads": 73,
+      "downloads": 75,
       "cdnHits": 0
     },
     {
@@ -1069,7 +1069,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
-      "downloads": 102,
+      "downloads": 105,
       "cdnHits": 0
     },
     {
@@ -1212,7 +1212,7 @@
       ],
       "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1111,
+      "downloads": 1116,
       "cdnHits": 0
     },
     {
@@ -1276,24 +1276,25 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/xxxuan42/evejs-mod-evejs-skyhook-reagent-boost/releases/download/v1.3.10/evejs-skyhook-reagent-boost-1.3.10.zip"
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-skyhook-reagent-boost/releases/download/v1.3.11/evejs-skyhook-reagent-boost-1.3.11.zip"
         }
       ],
       "evejsVersions": [
-        "261028.1"
+        "261028.1",
+        "261108.1"
       ],
       "featured": false,
       "highlights": [],
       "history": [],
       "id": "evejs-skyhook-reagent-boost",
-      "publishedAt": "2026-11-09",
+      "publishedAt": "2026-11-11",
       "readme": [
         "- 容量在服务端以「单位」存储，客户端按试剂体积（如岩浆气 0.01 m³/单位）换算成 m³ 显示。\n- 能量 / 劳动力按行星定义原值 ×10（若服务端自身还有资源倍率，会与它叠加）。\n- 战略指数以星系被占领的时间（`claimTime`）为起点；通过 GM 工具把 `claimTime` 设为 0 的星系不会自动加速（仍可用 GM 指令直接设置天数）。\n- 卫星钻探燃料按周期折算并向上取整：每个 10 分钟周期扣 1 个燃料块 + 34 岩浆气，不留余数，折算每小时约 **6 个燃料块 + 204 岩浆气**；服务从离线转在线时一次性扣的 1,000 块燃料保持原版。\n- 结构权限补丁只影响 `OWNER_ACCESS` 类设置（17、36）；停靠、税率等 `DOCK_ACCESS` / `ALWAYS` 类设置仍按 Profile 规则判定。\n- 月矿时间轴只影响**新建**的开采计划；已存在的开采记录不回填，压缩比与碎裂延迟变化在下次开始开采时生效。\n- 兼容 EveJS `261028.1`；需要启动器提供注入总线（`globalThis.__evejsMods`）。\n- 加载前置检查：`lib/launcherGuard.js`（清单 `binding.enforce = observe`，只记日志）。"
       ],
       "repo": "https://github.com/xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
       "requiresRestart": true,
-      "sha256": "cd1817592360c11fd5e053025dbdfb403ea41a49dccd2621f6c6fa7edbf0e75a",
-      "sizeBytes": 39558,
+      "sha256": "673cb955b2a634a0737a29f4ab483207ae2a30423b39ed92a25bd5cfed459c70",
+      "sizeBytes": 39562,
       "tags": [
         "主权",
         "行星开发",
@@ -1301,9 +1302,9 @@
         "战略指数",
         "卫星钻探"
       ],
-      "version": "1.3.10",
+      "version": "1.3.11",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 137,
+      "downloads": 139,
       "cdnHits": 0
     },
     {
@@ -1402,7 +1403,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-mission-repair",
-      "downloads": 424,
+      "downloads": 425,
       "cdnHits": 0
     },
     {
@@ -1457,7 +1458,7 @@
       ],
       "version": "1.2.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 308,
+      "downloads": 318,
       "cdnHits": 0
     },
     {
@@ -1508,7 +1509,7 @@
       ],
       "version": "1.0.4",
       "source": "starcraft110/evejs-mod-evejs-hyperion-ship",
-      "downloads": 223,
+      "downloads": 224,
       "cdnHits": 0
     },
     {
@@ -1601,7 +1602,7 @@
       ],
       "version": "1.6.4",
       "source": "JUZIMandarin/evejs-mod-evejs-sleeper-drifters",
-      "downloads": 660,
+      "downloads": 661,
       "cdnHits": 2
     },
     {
@@ -1843,7 +1844,7 @@
       ],
       "version": "1.1.1",
       "source": "huihuangdi/evejs-mod-evejs-attribute-editor",
-      "downloads": 81,
+      "downloads": 87,
       "cdnHits": 0
     },
     {
@@ -1996,7 +1997,7 @@
       ],
       "version": "1.1.1",
       "source": "kuroneko-lice/evejs-mod-evejs-shi-chang-jia-ge-xin-xi-tong-bu",
-      "downloads": 131,
+      "downloads": 132,
       "cdnHits": 0
     },
     {
@@ -2231,7 +2232,7 @@
       ],
       "version": "1.5.3",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
-      "downloads": 39,
+      "downloads": 40,
       "cdnHits": 0
     },
     {
@@ -2274,7 +2275,7 @@
       ],
       "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 119,
+      "downloads": 125,
       "cdnHits": 0
     },
     {
@@ -2757,7 +2758,7 @@
       ],
       "version": "3.2.0",
       "source": "Jasper377/evejs-mod-evejs-racks16",
-      "downloads": 446,
+      "downloads": 447,
       "cdnHits": 3
     },
     {
@@ -3006,7 +3007,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autopilot-jump-stargate-0km",
-      "downloads": 302,
+      "downloads": 303,
       "cdnHits": 3
     },
     {
@@ -3061,6 +3062,50 @@
     },
     {
       "author": {
+        "id": "au-mw7jbtnpunkx",
+        "keyId": "c9a95855e5dc",
+        "name": "雪风"
+      },
+      "category": "玩法",
+      "changelog": "自用，还是修复",
+      "conflicts": [],
+      "delisted": false,
+      "description": "一键召集虚拟舰队：火力进中队1、后勤进中队2；聊天命令或舰队广播指挥集火/跟随/跃迁/摇修。虚拟船已归入玩家公司并标记舰队角色，总览不再显示为红怪。",
+      "displayName": "舰队指挥",
+      "downloadUrls": [
+        {
+          "mirror": "github",
+          "priority": 1,
+          "url": "https://github.com/lxm970112-hub/evejs-mod-evejs-jian-dui-zhi-hui/releases/download/v1.0.12/evejs-jian-dui-zhi-hui-1.0.12.zip"
+        }
+      ],
+      "evejsVersions": [
+        "261028.x"
+      ],
+      "featured": false,
+      "highlights": [],
+      "history": [],
+      "id": "evejs-jian-dui-zhi-hui",
+      "publishedAt": "2026-11-11",
+      "readme": [],
+      "repo": "https://github.com/lxm970112-hub/evejs-mod-evejs-jian-dui-zhi-hui",
+      "requiresRestart": true,
+      "sha256": "3489652f5b3bfdfbd221cfb5cc9b866fe823f651c1fee017ab62c7d6a35a686e",
+      "sizeBytes": 78762,
+      "tags": [
+        "舰队",
+        "NPC",
+        "集火",
+        "遥修",
+        "命令"
+      ],
+      "version": "1.0.12",
+      "source": "lxm970112-hub/evejs-mod-evejs-jian-dui-zhi-hui",
+      "downloads": 0,
+      "cdnHits": 0
+    },
+    {
+      "author": {
         "id": "au-muxt6kcyxsf4",
         "keyId": "54c1f8afabfe",
         "name": "Materal"
@@ -3105,7 +3150,7 @@
       "tags": [],
       "version": "0.1.6",
       "source": "MateralCMX/evejs-mod-planetary-industry-enhancement",
-      "downloads": 237,
+      "downloads": 238,
       "cdnHits": 0
     },
     {
@@ -3237,7 +3282,7 @@
       ],
       "version": "1.3.1",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 185,
+      "downloads": 187,
       "cdnHits": 0
     },
     {
@@ -3282,7 +3327,7 @@
       ],
       "version": "1.0.4",
       "source": "kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
-      "downloads": 213,
+      "downloads": 214,
       "cdnHits": 0
     }
   ],
@@ -3315,7 +3360,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "3ZVf3dxNX/FLn+V8nbmhqSgEX+McCJoGq+lci73WCrr/kXcvJ2xcEwv9mOCawMrKJpQ+yAO2eq0hEgitSd8kDw==",
-    "signedAt": "2026-11-11T13:10:24.441Z"
+    "sig": "AUiFGNJ5cFrEAMc6DNyeNbZ+eRIpQ52kYbIkyhi2ehrNk3lhAX+SGT7A2Xo85vbra6WViAM9lLVugQsVw2mvDw==",
+    "signedAt": "2026-11-11T14:10:19.251Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-12T15:02:04.599Z",
+  "publishedAt": "2026-11-12T15:06:41.051Z",
   "mods": [
     {
       "author": {
@@ -348,7 +348,7 @@
       ],
       "version": "1.0.18",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1232,
+      "downloads": 1234,
       "cdnHits": 2755
     },
     {
@@ -1164,7 +1164,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "injusticemaster/evejs-mod-world-ark-91900",
-      "downloads": 222,
+      "downloads": 223,
       "cdnHits": 0
     },
     {
@@ -1458,7 +1458,7 @@
       ],
       "version": "1.2.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 347,
+      "downloads": 348,
       "cdnHits": 0
     },
     {
@@ -2237,7 +2237,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-overview-display-fix",
-      "downloads": 39,
+      "downloads": 40,
       "cdnHits": 0
     },
     {
@@ -3731,7 +3731,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "4GFV6Qc1thBK9JBIUFnzuJbgbA+Tz9l4Nwii9pBVa28k+fgp/XX3SB7OaW/cxDL0Qt8tP6rnpBaFHONHm8H+CA==",
-    "signedAt": "2026-11-12T15:02:04.604Z"
+    "sig": "+vP7V2dp0H1ql8JNxMkjVeW8gYw/tZ8orWAEjHAb/jYYyiLjLzLkYD543hIg5VlZHOQd8pQHJ0m58agJGMfABQ==",
+    "signedAt": "2026-11-12T15:06:41.057Z"
   }
 }

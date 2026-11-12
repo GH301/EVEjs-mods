@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1794328648935,
+  "generatedAt": 1794484770552,
   "mods": {
     "bug-fixes": {
-      "stars": 0,
+      "stars": 1,
       "comments": 1,
-      "average": 0,
-      "count": 0,
+      "average": 5,
+      "count": 1,
       "withText": 1,
       "histogram": [
         0,
         0,
         0,
         0,
-        0
+        1
       ]
     },
     "evejs-acspecialbattleship": {
@@ -370,6 +370,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "DrHRlytNLuEdTEZO6hxj1oLrfw5R0YBE3Y+tDtwAYkjFFv2jUZYY8eJMQ1veiew+jhTEh1cBocpM/WXAjcW8AA=="
+    "sig": "nt9PgDAIiG1wb5fmMEaMJNtw0phQapFxGcnSZwASzXgbSymay64Jx8cvLXfadTanL6TgyJX0bFuqf1xeKVCXDg=="
   }
 }

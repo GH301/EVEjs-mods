@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1794164415482,
+  "generatedAt": 1794466420499,
   "sponsors": [
     {
       "id": "sponsor-01",
@@ -283,11 +283,17 @@
       "name": "语文大鹅",
       "amount": 50,
       "currency": "CNY"
+    },
+    {
+      "id": "sponsor-48",
+      "name": "愿为",
+      "amount": 50,
+      "currency": "CNY"
     }
   ],
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "JDA11W7cCXwNb1GIe6VNm4sBH3KNJ78A6CM7hSqxz+zT2mxyl/9DLpaOKR2cumVwZssIU4rpbJaqVmd7XZstCQ=="
+    "sig": "h+Xx+Tjf6t4MeJnD5bIiooDk6XSutTsqw0ctEb3/kMCjbKMFfBvdN1agcoFIo5jIFUxDmnYpyWMk+y78eavJDA=="
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793884746920,
+  "generatedAt": 1794473903300,
   "modId": "evejs-automining",
   "reviews": [
     {
@@ -13,7 +13,12 @@
       "version": "1.0.17",
       "date": "2026-11-02",
       "body": "不能锁定，无人机没反应，按键为游戏默认",
-      "edited": false
+      "edited": false,
+      "reply": {
+        "date": "2026-11-12",
+        "body": "晚上我看看 会修复的",
+        "edited": false
+      }
     },
     {
       "id": "rv-1791652767845-11808",
@@ -64,6 +69,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "8kX/JOGlcOZZYuTm2LsAt4jOzguHAtvSxFbuUEdSS8nv1hl4YEkLC3TRu5jppFPUgMLvcFt5u1lLMfG9FTelBg=="
+    "sig": "5sdiWlfL769YewWz1OgrYtmQEDf2kPkrHko+ftMKz+qMUAzuyXoZ9oDfGJyaBe+YGmaZxufoAvuKHNp2OE1lDQ=="
   }
 }

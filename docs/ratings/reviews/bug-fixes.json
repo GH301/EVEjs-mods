@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1793600909369,
+  "generatedAt": 1794484770552,
   "modId": "bug-fixes",
   "reviews": [
     {
@@ -17,12 +17,14 @@
     }
   ],
   "stars": {
-    "count": 0,
-    "keys": []
+    "count": 1,
+    "keys": [
+      "ef007c17aa45"
+    ]
   },
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "xj9yaGA9jmyQfKsp3YmeuPGgPfotgdZaAN9VZgX7NEWa79etKRYwBQgL6aF8XiNqo0vOxYS79ryfAOrulFK/Cg=="
+    "sig": "qYoSZJVqZ2SOmpF4WJ/5AxYYInIVtRa2k2KdlBQGJdAUw7i8sjW3yLjMPNtjjIecj+orvjtmlUu2xfF1Zso8Cg=="
   }
 }

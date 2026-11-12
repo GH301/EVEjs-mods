@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-12T04:49:26.367Z",
+  "publishedAt": "2026-11-12T05:23:35.099Z",
   "mods": [
     {
       "author": {
@@ -581,7 +581,7 @@
       ],
       "version": "1.2.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 407,
+      "downloads": 408,
       "cdnHits": 0
     },
     {
@@ -655,7 +655,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2177,
+      "downloads": 2178,
       "cdnHits": 2947
     },
     {
@@ -980,7 +980,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation-ext",
-      "downloads": 78,
+      "downloads": 79,
       "cdnHits": 0
     },
     {
@@ -1069,7 +1069,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
-      "downloads": 111,
+      "downloads": 112,
       "cdnHits": 0
     },
     {
@@ -1212,7 +1212,7 @@
       ],
       "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1126,
+      "downloads": 1127,
       "cdnHits": 0
     },
     {
@@ -1304,7 +1304,7 @@
       ],
       "version": "1.3.11",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 159,
+      "downloads": 160,
       "cdnHits": 0
     },
     {
@@ -1353,7 +1353,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-agent-portraits",
-      "downloads": 85,
+      "downloads": 86,
       "cdnHits": 0
     },
     {
@@ -1458,7 +1458,7 @@
       ],
       "version": "1.2.0",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 332,
+      "downloads": 333,
       "cdnHits": 0
     },
     {
@@ -1694,7 +1694,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-structure-targeting-fix",
-      "downloads": 106,
+      "downloads": 107,
       "cdnHits": 0
     },
     {
@@ -1744,7 +1744,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-dungeon-pocket-anchor-fix",
-      "downloads": 125,
+      "downloads": 126,
       "cdnHits": 0
     },
     {
@@ -1793,7 +1793,7 @@
       ],
       "version": "1.1.0",
       "source": "kokoandqiong/evejs-mod-evejs-slimitem-name-wstring",
-      "downloads": 134,
+      "downloads": 135,
       "cdnHits": 0
     },
     {
@@ -2190,7 +2190,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-overview-display-fix",
-      "downloads": 13,
+      "downloads": 15,
       "cdnHits": 0
     },
     {
@@ -2325,7 +2325,7 @@
       ],
       "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 130,
+      "downloads": 131,
       "cdnHits": 0
     },
     {
@@ -2758,7 +2758,7 @@
         "name": "普罗旺斯煎饼果子"
       },
       "category": "玩法",
-      "changelog": "",
+      "changelog": "新增 365 艘派系战争、入侵、特殊遭遇、叛乱、漫游、残余敌人，按势力掉普通装备。\n新增 450 艘不规则实体，按舰体掉普通装备；其中 81 艘按势力掉。\n补正 280 艘护卫舰的掉落绑定，修正护卫舰被误判为建筑的问题。\n新增三张不规则实体掉落表。\n59 艘旗舰、工业、无人机、采矿护卫舰暂不处理。",
       "conflicts": [
         "npc-loot-rules-261028",
         "npc-loot-rules"
@@ -2770,7 +2770,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/jealous123456789/evejs-mod-better-loot/releases/download/v1.0.0/better-loot-1.0.0.zip"
+          "url": "https://github.com/jealous123456789/evejs-mod-better-loot/releases/download/v1.0.1/better-loot-1.0.1.zip"
         }
       ],
       "evejsVersions": [
@@ -2783,28 +2783,30 @@
         "官员掉势力装备、官员装备、狗牌与势力弹药，结构完整。",
         "监察官按舰体掉对应尺寸的死亡空间装备，数量收敛到少量。",
         "无人机指挥官与官员不再大量重复同一件装备。",
+        "派系战争、入侵、特殊遭遇、叛乱、漫游、残余等 258 艘战斗敌人按势力掉普通装备。",
+        "不规则实体 277 艘按舰体掉普通装备；其中 35 艘能识别势力的按势力掉。",
         "运输船、旗舰与蓝图的产出维持原有水平。"
       ],
       "history": [],
       "id": "better-loot",
       "publishedAt": "2026-11-12",
       "readme": [
-        "版本：1.0.0",
+        "版本：1.1.0",
         "重新整理敌人掉落，让每一类敌人的产出更接近正式服：",
         "本模组与旧版掉落规则模组互斥，启用前请先关闭旧模组。"
       ],
       "repo": "https://github.com/jealous123456789/evejs-mod-better-loot",
       "requiresRestart": true,
-      "sha256": "e107dbca7333010f8694021912e48c9834bf8ee4a6b2cd365ca220498bb7f440",
-      "sizeBytes": 107597,
+      "sha256": "9269dc96b82b032c7be6be4eaf4b963588a23214d3075d2b77891fcdda6ed6e3",
+      "sizeBytes": 119651,
       "tags": [
         "掉落",
         "平衡",
         "修复"
       ],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": "jealous123456789/evejs-mod-better-loot",
-      "downloads": 0,
+      "downloads": 2,
       "cdnHits": 0
     },
     {
@@ -3163,7 +3165,7 @@
       ],
       "version": "1.41.0",
       "source": "JonnyTC/evejs-mod-evejs-ship-collision-fix",
-      "downloads": 48,
+      "downloads": 49,
       "cdnHits": 0
     },
     {
@@ -3433,7 +3435,7 @@
       ],
       "version": "1.0.4",
       "source": "kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
-      "downloads": 216,
+      "downloads": 217,
       "cdnHits": 0
     }
   ],
@@ -3466,7 +3468,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "fJppT7dLlCVHs/aX+m6InU36pOZrKHVc+j3XZJS8BwoK/Uz97BVlV3pIxdDzWi42TCwkQjr6X2V/pZY0+Ow6DQ==",
-    "signedAt": "2026-11-12T04:49:26.372Z"
+    "sig": "JGP31Vdkh2SFDtBxPq9zDKzGtaZxgAeh20LLGCG93htoZNSIIS3vdH4TK6Ge9OCEt7RoZfo60VpkRCPhdY3+Dg==",
+    "signedAt": "2026-11-12T05:23:35.103Z"
   }
 }

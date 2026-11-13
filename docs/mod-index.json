@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-13T01:34:40.029Z",
+  "publishedAt": "2026-11-13T01:36:15.346Z",
   "mods": [
     {
       "author": {
@@ -3123,7 +3123,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/jealous123456789/evejs-mod-belt-respawn-cooldown/releases/download/v1.0.0/belt-respawn-cooldown-1.0.0.zip"
+          "url": "https://github.com/jealous123456789/evejs-mod-belt-respawn-cooldown/releases/download/v1.0.1/belt-respawn-cooldown-1.0.1.zip"
         }
       ],
       "evejsVersions": [
@@ -3133,18 +3133,18 @@
       "highlights": [],
       "history": [],
       "id": "belt-respawn-cooldown",
-      "publishedAt": "2026-11-12",
+      "publishedAt": "2026-11-13",
       "readme": [],
       "repo": "https://github.com/jealous123456789/evejs-mod-belt-respawn-cooldown",
       "requiresRestart": true,
-      "sha256": "3eaf78af7adab6ed388bcc5404d50c90912ebb208986f8dfd14eeb9f59188a0c",
-      "sizeBytes": 21027,
+      "sha256": "35349c288274a38263e319ac60fc5884d33d19527f1df3326cdaa43e38735051",
+      "sizeBytes": 28440,
       "tags": [
         "矿带",
         "刷新",
         "重刷"
       ],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "source": "jealous123456789/evejs-mod-belt-respawn-cooldown",
       "downloads": 17,
       "cdnHits": 0
@@ -3715,7 +3715,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "//SA58bWrafi3YCVzHPpGpbB4TIaiUoWaCKVdQcDg8eBDzjzN3BfORXDTLQmXVyxrUpFICH4jKMNmZOoEkDICg==",
-    "signedAt": "2026-11-13T01:34:40.034Z"
+    "sig": "E0GVPbzelIeuoIBJLNiqanfx24aujbZVOcYiTqRb8VM2CW6RP3N3w6V0IFD4qAv3s73KabEO7N2bFjMp50AuDg==",
+    "signedAt": "2026-11-13T01:36:15.350Z"
   }
 }

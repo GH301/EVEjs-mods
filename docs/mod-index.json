@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-13T14:11:44.696Z",
+  "publishedAt": "2026-11-13T14:45:54.673Z",
   "mods": [
     {
       "author": {
@@ -239,7 +239,7 @@
       "tags": [],
       "version": "0.18.2",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 744,
+      "downloads": 746,
       "cdnHits": 0
     },
     {
@@ -258,7 +258,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/diguo520/evejs-mod-evejs-autolockfire/releases/download/v1.1.6/evejs-autolockfire-1.1.6.zip"
+          "url": "https://github.com/diguo520/evejs-mod-evejs-autolockfire/releases/download/v1.1.7/evejs-autolockfire-1.1.7.zip"
         }
       ],
       "evejsVersions": [
@@ -271,22 +271,22 @@
       ],
       "history": [],
       "id": "evejs-autolockfire",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-13",
       "readme": [
         "从国服客户端移植过来的舰船 HUD 按钮组：在飞行界面右侧加一排按钮，用来一键锁定、集火、停止锁定与停止开火。"
       ],
       "repo": "https://github.com/diguo520/evejs-mod-evejs-autolockfire",
       "requiresRestart": true,
-      "sha256": "abcf54aac76b98499b45529299b4bb75775b4b3e8f6939608add28fc51b867ef",
-      "sizeBytes": 68276,
+      "sha256": "b8ca79e866f38ccea3ef7eb6c770e75d043362ce16c5ac26ef8ad00032f85b79",
+      "sizeBytes": 114992,
       "tags": [
         "锁定",
         "集火",
         "自动"
       ],
-      "version": "1.1.6",
+      "version": "1.1.7",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1506,
+      "downloads": 1509,
       "cdnHits": 0
     },
     {
@@ -296,7 +296,7 @@
         "name": "波坤太叔"
       },
       "category": "工具",
-      "changelog": "更新至261108.1版本",
+      "changelog": "修复空间站无法选择的问题。",
       "conflicts": [],
       "delisted": false,
       "description": "这是一个在游戏内自动采矿,自动压缩的工具",
@@ -305,7 +305,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/diguo520/evejs-mod-evejs-automining/releases/download/v1.0.18/evejs-automining-1.0.18.zip"
+          "url": "https://github.com/diguo520/evejs-mod-evejs-automining/releases/download/v1.0.19/evejs-automining-1.0.19.zip"
         }
       ],
       "evejsVersions": [
@@ -321,14 +321,14 @@
       ],
       "history": [],
       "id": "evejs-automining",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-13",
       "readme": [
         "这是一个在游戏内自动采矿,自动压缩的工具。\n-将本MOD放在所有MOD之后进行加载。\n- 进入游戏后，左侧工具栏（Neocom）会固定一个 ⛏ 采矿按钮，单击即可打开设置窗口。\n- 该按钮属于工具栏的「固定按钮区」，显示在左侧工具栏**底部**（时钟上方），不\n  在顶部的主图标列表里；鼠标悬停会显示「自动采矿」。\n- 也可以使用聊天命令：/AutoMining（不分大小写）打开工具。\n- 界面、状态与矿名会跟随客户端语言自动翻译；矿名使用客户端官方中文名称。",
         "> 若看不到左侧 ⛏ 按钮：请先彻底关闭游戏客户端与服务器进程，再通过启动器重新启动（服务器与客户端都要重启，客户端更新内容在登录握手中下发）。"
       ],
       "repo": "https://github.com/diguo520/evejs-mod-evejs-automining",
       "requiresRestart": true,
-      "sha256": "9458c258cbe27b094c965d34d3e58e8e4e4972b6d80a66efdc2e05449d6c05c9",
+      "sha256": "0406c41264b38f6aaade90ed9ef007de9ece70cb6a205001fa7a116bddaaaf96",
       "shots": [
         "shots/20261014040854757.png",
         "shots/20261014040923577.png",
@@ -340,15 +340,15 @@
         "shots/20261014041009889.png",
         "shots/20261014041016641.png"
       ],
-      "sizeBytes": 12100694,
+      "sizeBytes": 12314183,
       "tags": [
         "自动",
         "采矿",
         "压缩"
       ],
-      "version": "1.0.18",
+      "version": "1.0.19",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1256,
+      "downloads": 1261,
       "cdnHits": 2791
     },
     {
@@ -530,7 +530,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 487,
+      "downloads": 488,
       "cdnHits": 0
     },
     {
@@ -581,7 +581,7 @@
       ],
       "version": "1.2.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
-      "downloads": 427,
+      "downloads": 429,
       "cdnHits": 0
     },
     {
@@ -655,7 +655,7 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2216,
+      "downloads": 2217,
       "cdnHits": 3070
     },
     {
@@ -932,7 +932,7 @@
       "tags": [],
       "version": "0.4.1",
       "source": "huihuangdi/evejs-mod-npc-loot-mutation",
-      "downloads": 81,
+      "downloads": 82,
       "cdnHits": 0
     },
     {
@@ -1069,7 +1069,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
-      "downloads": 124,
+      "downloads": 126,
       "cdnHits": 0
     },
     {
@@ -1164,7 +1164,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "injusticemaster/evejs-mod-world-ark-91900",
-      "downloads": 252,
+      "downloads": 253,
       "cdnHits": 0
     },
     {
@@ -1212,7 +1212,7 @@
       ],
       "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1152,
+      "downloads": 1155,
       "cdnHits": 0
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "version": "1.0.0",
       "source": "kokoandqiong/evejs-mod-evejs-sov-workforce-fix",
-      "downloads": 107,
+      "downloads": 108,
       "cdnHits": 0
     },
     {
@@ -1304,7 +1304,7 @@
       ],
       "version": "1.3.11",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 187,
+      "downloads": 188,
       "cdnHits": 0
     },
     {
@@ -1353,7 +1353,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-agent-portraits",
-      "downloads": 95,
+      "downloads": 97,
       "cdnHits": 0
     },
     {
@@ -1458,7 +1458,7 @@
       ],
       "version": "1.2.1",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 410,
+      "downloads": 411,
       "cdnHits": 0
     },
     {
@@ -1509,7 +1509,7 @@
       ],
       "version": "1.0.4",
       "source": "starcraft110/evejs-mod-evejs-hyperion-ship",
-      "downloads": 234,
+      "downloads": 236,
       "cdnHits": 0
     },
     {
@@ -1602,7 +1602,7 @@
       ],
       "version": "1.6.4",
       "source": "JUZIMandarin/evejs-mod-evejs-sleeper-drifters",
-      "downloads": 677,
+      "downloads": 678,
       "cdnHits": 2
     },
     {
@@ -1942,7 +1942,7 @@
       ],
       "version": "5.2.1",
       "source": "JonnyTC/evejs-mod-evejs-colossus-capital-fit",
-      "downloads": 127,
+      "downloads": 128,
       "cdnHits": 0
     },
     {
@@ -2001,7 +2001,7 @@
       ],
       "version": "2.0.0",
       "source": "JonnyTC/evejs-mod-evejs-colossus-audio-fix",
-      "downloads": 78,
+      "downloads": 79,
       "cdnHits": 0
     },
     {
@@ -2237,7 +2237,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-overview-display-fix",
-      "downloads": 60,
+      "downloads": 62,
       "cdnHits": 0
     },
     {
@@ -2329,7 +2329,7 @@
       ],
       "version": "1.5.21",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
-      "downloads": 81,
+      "downloads": 84,
       "cdnHits": 0
     },
     {
@@ -2372,7 +2372,7 @@
       ],
       "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 156,
+      "downloads": 157,
       "cdnHits": 0
     },
     {
@@ -2904,7 +2904,7 @@
       ],
       "version": "1.0.2",
       "source": "jealous123456789/evejs-mod-better-loot",
-      "downloads": 42,
+      "downloads": 43,
       "cdnHits": 0
     },
     {
@@ -2960,7 +2960,7 @@
       ],
       "version": "1.0.1",
       "source": "jealous123456789/evejs-mod-industry-job-slots",
-      "downloads": 23,
+      "downloads": 24,
       "cdnHits": 0
     },
     {
@@ -3107,7 +3107,7 @@
       "tags": [],
       "version": "1.6.0",
       "source": "Jasper377/evejs-mod-evejs-acspecialbattleship",
-      "downloads": 494,
+      "downloads": 495,
       "cdnHits": 3
     },
     {
@@ -3202,7 +3202,7 @@
       ],
       "version": "1.0.0",
       "source": "xfeiyu4008/evejs-mod-evejs-perfect-mutation-261028",
-      "downloads": 70,
+      "downloads": 71,
       "cdnHits": 0
     },
     {
@@ -3362,7 +3362,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-autopilot-warp-zero",
-      "downloads": 28,
+      "downloads": 29,
       "cdnHits": 0
     },
     {
@@ -3461,7 +3461,7 @@
       ],
       "version": "0.2.0",
       "source": "jealous123456789/evejs-mod-pi-manager",
-      "downloads": 6,
+      "downloads": 7,
       "cdnHits": 0
     },
     {
@@ -3609,7 +3609,7 @@
       "tags": [],
       "version": "0.1.6",
       "source": "MateralCMX/evejs-mod-planetary-industry-enhancement",
-      "downloads": 251,
+      "downloads": 252,
       "cdnHits": 0
     },
     {
@@ -3652,7 +3652,7 @@
       ],
       "version": "1.0.0",
       "source": "Arasaka-vip/evejs-mod-evejs-pi-colony-limit",
-      "downloads": 93,
+      "downloads": 94,
       "cdnHits": 0
     },
     {
@@ -3786,7 +3786,7 @@
       ],
       "version": "1.0.4",
       "source": "kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
-      "downloads": 229,
+      "downloads": 230,
       "cdnHits": 0
     }
   ],
@@ -3819,7 +3819,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "uNSDnlpkOEgP13nmsioNIUTTf7t4Y7oemUPPpZVW8N/UiQX2Q8iFr280iTk+Lo1UWWrTpIKY/boNJ7KXw4SsCA==",
-    "signedAt": "2026-11-13T14:11:44.700Z"
+    "sig": "jeV/CVkdmCp6lqJiu2T3C0kIwJfQ2oHqWjHtw4B6q4ie3jfDrf50U3sO2eeUzpzUqBz7V24QqRdtwb3MGedWAA==",
+    "signedAt": "2026-11-13T14:45:54.677Z"
   }
 }

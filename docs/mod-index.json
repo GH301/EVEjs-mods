@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-12T22:59:04.843Z",
+  "publishedAt": "2026-11-13T01:34:40.029Z",
   "mods": [
     {
       "author": {
@@ -239,7 +239,7 @@
       "tags": [],
       "version": "0.18.2",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 734,
+      "downloads": 735,
       "cdnHits": 0
     },
     {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.6",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1486,
+      "downloads": 1489,
       "cdnHits": 0
     },
     {
@@ -348,8 +348,8 @@
       ],
       "version": "1.0.18",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1241,
-      "cdnHits": 2755
+      "downloads": 1242,
+      "cdnHits": 2791
     },
     {
       "author": {
@@ -655,8 +655,8 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2199,
-      "cdnHits": 2947
+      "downloads": 2201,
+      "cdnHits": 3070
     },
     {
       "author": {
@@ -1212,7 +1212,7 @@
       ],
       "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1143,
+      "downloads": 1145,
       "cdnHits": 0
     },
     {
@@ -1353,7 +1353,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-agent-portraits",
-      "downloads": 89,
+      "downloads": 90,
       "cdnHits": 0
     },
     {
@@ -1413,7 +1413,7 @@
         "name": "普罗旺斯煎饼果子"
       },
       "category": "玩法",
-      "changelog": "双基线适配：同时支持 261028.1 / 261108.1 服务端。\n\n261108.1 官方内容已较完整（职业代理人链、L1–L5 安全任务、史诗 gate、故事线计数），\n因此以原生数据为主，只叠加必要补丁：故事线发放、职业体验（无残骸 / 不回血 /\nEnforcer 4/10）、采矿配额、物流阵营路由，以及 3 个逐条核对更准的安全任务。\n\n261028.1 官方内容缺失较多，继续使用全量 Mod 修复。",
+      "changelog": "修复与「矿带刷怪修复」同时启用时，任务站点补丁可能不生效的问题。\n两个模组现在可以同时启用，不需要手动调整加载顺序。",
       "conflicts": [
         "mission-repair",
         "evejs-mission-data-pack"
@@ -1425,7 +1425,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.2.0/mission-content-repair-1.2.0.zip"
+          "url": "https://github.com/jealous123456789/evejs-mod-mission-content-repair/releases/download/v1.2.1/mission-content-repair-1.2.1.zip"
         }
       ],
       "evejsVersions": [
@@ -1441,14 +1441,14 @@
       ],
       "history": [],
       "id": "mission-content-repair",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-13",
       "readme": [
         "目前为暂时试行版，已实现职业代理人四族四职业按任务描述修复，执法者代理人任务基本还原90%的流程，npc及布景；L1-L5级安全/采矿/物流/科研代理人任务基本可玩，故事线16个任务后触发，史诗线可接可玩。仍存在问题：L1-L5级任务，故事线，史诗线任务内容存在不正确（无法按任务描述完成，这个需要大量的内容修复工作，后续缓慢进行）；部分任务难度，怪类型等不匹配；部分任务可能会卡住。希望大家试玩后及时反馈，然后根据反馈缓慢修复（任务内容修复量太大，试跑耗费大量时间。反馈方式为留言：说明几级什么类型的任务，碰到的问题，应该的玩法，怪物的类型（血袭者，古斯塔斯，自由无人机等，越详细越好）。数据来源：materal大佬的任务修复mod；一闪一闪亮晶大佬提供的0.12.9的任务修复文件；柯南大佬提供的任务数据CSV文件。感谢各位大佬的支援"
       ],
       "repo": "https://github.com/jealous123456789/evejs-mod-mission-content-repair",
       "requiresRestart": true,
-      "sha256": "3ad20979400a6d2a93748a217708922a5ef01e250f07f12f4308f728284cf34e",
-      "sizeBytes": 2744747,
+      "sha256": "5bca7f8f07bd71e651f422671b2f26104d8c7c27c99f407db36a6b75ba48d3fe",
+      "sizeBytes": 2744862,
       "tags": [
         "任务",
         "修复",
@@ -1456,7 +1456,7 @@
         "安全代理人",
         "史诗线"
       ],
-      "version": "1.2.0",
+      "version": "1.2.1",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
       "downloads": 351,
       "cdnHits": 0
@@ -1891,7 +1891,7 @@
       ],
       "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-industrial-module-fast-cycle",
-      "downloads": 5,
+      "downloads": 7,
       "cdnHits": 0
     },
     {
@@ -2329,7 +2329,7 @@
       ],
       "version": "1.5.6",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
-      "downloads": 49,
+      "downloads": 52,
       "cdnHits": 0
     },
     {
@@ -2372,7 +2372,7 @@
       ],
       "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 147,
+      "downloads": 148,
       "cdnHits": 0
     },
     {
@@ -2512,7 +2512,7 @@
       ],
       "version": "1.0.1",
       "source": "xxxuan42/evejs-mod-evejs-stargate-jump-anywhere",
-      "downloads": 3,
+      "downloads": 4,
       "cdnHits": 0
     },
     {
@@ -2957,7 +2957,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-industry-job-slots",
-      "downloads": 7,
+      "downloads": 9,
       "cdnHits": 0
     },
     {
@@ -3114,7 +3114,7 @@
         "name": "普罗旺斯煎饼果子"
       },
       "category": "玩法",
-      "changelog": "",
+      "changelog": "小行星带怪改为在本星系的小行星带中随机出现，不再每个矿带固定刷；清掉后该矿带约 20 分钟冷却。\n公共矿物异常只刷第一组，清掉后同一位面不再刷；换新异常后才会重新有第一组。\n战斗异常、任务、死亡空间、深渊、家园行动不受影响。\n不改变掉落与刷怪概率配置。",
       "conflicts": [],
       "delisted": false,
       "description": "矿带与矿物异常的怪被清掉后，从清怪时刻开始计算重刷间隔；矿石异常站点按正式服时间刷新；计时写入磁盘，服务端重启后保留。不改变掉落与概率配置。",
@@ -3130,27 +3130,11 @@
         "261108.x"
       ],
       "featured": false,
-      "highlights": [
-        "清掉一组怪后，按配置的重刷间隔（默认20分钟）计时。",
-        "服务端重启不会清空矿带怪的重刷计时。",
-        "矿物异常与矿带共用这套计时。",
-        "只影响矿带与公共矿物异常的懒加载刷怪。",
-        "不改变掉落表，不改变刷怪概率配置。",
-        "新矿点：小 1 小时、普通 4 小时 20 分、大 10 小时。",
-        "旧式矿石站点：小 1 小时、中 2 小时、大 3 小时、巨大 4 小时、超大 5 小时。",
-        "默克石：大 8 小时、巨大 12 小时。",
-        "边境稀有矿点：立即刷新。",
-        "没有明确大小的普通矿石异常：用 2 小时近似；正式服是半随机，没有固定值。",
-        "只有矿石采完后才进入站点刷新；没采完的站点不会刷新。",
-        "站点刷新倒计时在服务端运行时生效；服务端重启后站点按正式服停机规则重新生成。"
-      ],
+      "highlights": [],
       "history": [],
       "id": "belt-respawn-cooldown",
       "publishedAt": "2026-11-12",
-      "readme": [
-        "矿带和矿物异常的怪被清掉后，从清怪时刻开始计算重刷间隔；矿带怪计时写入磁盘，服务端重启后保留。",
-        "矿石异常站点本身也按正式服时间刷新："
-      ],
+      "readme": [],
       "repo": "https://github.com/jealous123456789/evejs-mod-belt-respawn-cooldown",
       "requiresRestart": true,
       "sha256": "3eaf78af7adab6ed388bcc5404d50c90912ebb208986f8dfd14eeb9f59188a0c",
@@ -3215,7 +3199,7 @@
       ],
       "version": "1.0.0",
       "source": "xfeiyu4008/evejs-mod-evejs-perfect-mutation-261028",
-      "downloads": 62,
+      "downloads": 63,
       "cdnHits": 0
     },
     {
@@ -3323,7 +3307,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-autopilot-warp-zero",
-      "downloads": 19,
+      "downloads": 24,
       "cdnHits": 0
     },
     {
@@ -3472,7 +3456,7 @@
       ],
       "version": "1.0.13",
       "source": "lxm970112-hub/evejs-mod-evejs-jian-dui-zhi-hui",
-      "downloads": 17,
+      "downloads": 20,
       "cdnHits": 0
     },
     {
@@ -3698,7 +3682,7 @@
       ],
       "version": "1.0.4",
       "source": "kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
-      "downloads": 222,
+      "downloads": 223,
       "cdnHits": 0
     }
   ],
@@ -3731,7 +3715,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "VZodz3s7zjt/s0GlZaYUqEkFi/nCEe75DSYGQv3Yn6RWRlJF2pkqwkNxYA+kAv2FHg9hRwMrXjaxnpHl9tAMBQ==",
-    "signedAt": "2026-11-12T22:59:04.849Z"
+    "sig": "//SA58bWrafi3YCVzHPpGpbB4TIaiUoWaCKVdQcDg8eBDzjzN3BfORXDTLQmXVyxrUpFICH4jKMNmZOoEkDICg==",
+    "signedAt": "2026-11-13T01:34:40.034Z"
   }
 }

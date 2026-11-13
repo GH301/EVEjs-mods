@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-13T05:20:56.102Z",
+  "publishedAt": "2026-11-13T07:47:56.027Z",
   "mods": [
     {
       "author": {
@@ -180,7 +180,7 @@
       "tags": [],
       "version": "1.1.0",
       "source": "rzwm/evejs-mod-evejs-beijing-time",
-      "downloads": 335,
+      "downloads": 337,
       "cdnHits": 3
     },
     {
@@ -239,7 +239,7 @@
       "tags": [],
       "version": "0.18.2",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 735,
+      "downloads": 737,
       "cdnHits": 0
     },
     {
@@ -1212,7 +1212,7 @@
       ],
       "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1146,
+      "downloads": 1147,
       "cdnHits": 0
     },
     {
@@ -1458,7 +1458,7 @@
       ],
       "version": "1.2.1",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 365,
+      "downloads": 370,
       "cdnHits": 0
     },
     {
@@ -1793,7 +1793,7 @@
       ],
       "version": "1.1.0",
       "source": "kokoandqiong/evejs-mod-evejs-slimitem-name-wstring",
-      "downloads": 140,
+      "downloads": 141,
       "cdnHits": 0
     },
     {
@@ -1891,7 +1891,7 @@
       ],
       "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-industrial-module-fast-cycle",
-      "downloads": 10,
+      "downloads": 11,
       "cdnHits": 0
     },
     {
@@ -2329,7 +2329,7 @@
       ],
       "version": "1.5.11",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
-      "downloads": 59,
+      "downloads": 63,
       "cdnHits": 0
     },
     {
@@ -2904,7 +2904,7 @@
       ],
       "version": "1.0.2",
       "source": "jealous123456789/evejs-mod-better-loot",
-      "downloads": 32,
+      "downloads": 33,
       "cdnHits": 0
     },
     {
@@ -3149,7 +3149,7 @@
       ],
       "version": "1.0.1",
       "source": "jealous123456789/evejs-mod-belt-respawn-cooldown",
-      "downloads": 23,
+      "downloads": 25,
       "cdnHits": 0
     },
     {
@@ -3203,6 +3203,58 @@
       "version": "1.0.0",
       "source": "xfeiyu4008/evejs-mod-evejs-perfect-mutation-261028",
       "downloads": 64,
+      "cdnHits": 0
+    },
+    {
+      "author": {
+        "id": "au-mvgf59rqpaue",
+        "keyId": "6d218baa968e",
+        "name": "普罗旺斯煎饼果子"
+      },
+      "category": "工具",
+      "changelog": "建议有条件都装上",
+      "conflicts": [],
+      "delisted": false,
+      "description": "服务端与客户端的聊天通道会在某些情况下会半死，比如安装某些特定mod实现功能等，这个mod用于修复此bug",
+      "displayName": "聊天通道卡死修复",
+      "downloadUrls": [
+        {
+          "mirror": "github",
+          "priority": 1,
+          "url": "https://github.com/jealous123456789/evejs-mod-chat-edge-lane-fix/releases/download/v1.0.0/chat-edge-lane-fix-1.0.0.zip"
+        }
+      ],
+      "evejsVersions": [
+        "261108.x"
+      ],
+      "featured": false,
+      "highlights": [
+        "聊天突然不回、命令没反应",
+        "货舱机库点堆叠没反应",
+        "卡住时最多等五秒",
+        "超时自动断开卡死连接",
+        "不改游戏数据、物品、挖矿",
+        "可随时停用"
+      ],
+      "history": [],
+      "id": "chat-edge-lane-fix",
+      "publishedAt": "2026-11-13",
+      "readme": [
+        "客户端聊天连接偶尔会半死，比如 Alt-Tab、打开货舱/机库/牵引货柜、重登或网络抖动。服务器还在给它发消息并一直等确认，等待名额被占满后，聊天、斜杠命令和库存操作会一起卡几分钟。",
+        "本模组给每条聊天消息最多等 5 秒，超时就断开卡住的连接，让后面的消息和指令继续。不改变聊天内容、游戏数据、物品和挖矿产出，可随时停用。"
+      ],
+      "repo": "https://github.com/jealous123456789/evejs-mod-chat-edge-lane-fix",
+      "requiresRestart": true,
+      "sha256": "1285d7e722b5df4f81f1d9640a6fcb20941c9f422e26768a424dd241b778cfad",
+      "sizeBytes": 14267,
+      "tags": [
+        "聊天",
+        "修复",
+        "服务器"
+      ],
+      "version": "1.0.0",
+      "source": "jealous123456789/evejs-mod-chat-edge-lane-fix",
+      "downloads": 0,
       "cdnHits": 0
     },
     {
@@ -3508,7 +3560,7 @@
       "tags": [],
       "version": "0.1.6",
       "source": "MateralCMX/evejs-mod-planetary-industry-enhancement",
-      "downloads": 246,
+      "downloads": 247,
       "cdnHits": 0
     },
     {
@@ -3718,7 +3770,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "eemOGala38nqMNBpATEwmtsy+UvrqT4tBXrwM6xOwZJJhot/obJiIkQUBl/KPl9hQHj1bETolHAcKEq1rlS7CA==",
-    "signedAt": "2026-11-13T05:20:56.107Z"
+    "sig": "dorkQFbk199XOckQf17551Ov+WLp95D3ecz4/MLOspvG5h/vsIW4XweobIpBsOjVuJLN/pGljOaBW6xw1i8vCA==",
+    "signedAt": "2026-11-13T07:47:56.032Z"
   }
 }

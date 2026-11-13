@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-13T16:46:47.105Z",
+  "publishedAt": "2026-11-13T16:59:35.586Z",
   "mods": [
     {
       "author": {
@@ -249,7 +249,7 @@
         "name": "波坤太叔"
       },
       "category": "工具",
-      "changelog": "修复一个小BUG",
+      "changelog": "修复版本对不上的问题",
       "conflicts": [],
       "delisted": false,
       "description": "仿国服自动锁定，自动集火",
@@ -258,7 +258,7 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/diguo520/evejs-mod-evejs-autolockfire/releases/download/v1.1.7/evejs-autolockfire-1.1.7.zip"
+          "url": "https://github.com/diguo520/evejs-mod-evejs-autolockfire/releases/download/v1.1.8/evejs-autolockfire-1.1.8.zip"
         }
       ],
       "evejsVersions": [
@@ -277,16 +277,16 @@
       ],
       "repo": "https://github.com/diguo520/evejs-mod-evejs-autolockfire",
       "requiresRestart": true,
-      "sha256": "b8ca79e866f38ccea3ef7eb6c770e75d043362ce16c5ac26ef8ad00032f85b79",
-      "sizeBytes": 114992,
+      "sha256": "092b73e44e904948395b8d06420efa0390ecc88f9aefd3696c1542c5dfd66ed9",
+      "sizeBytes": 115107,
       "tags": [
         "锁定",
         "集火",
         "自动"
       ],
-      "version": "1.1.7",
+      "version": "1.1.8",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1530,
+      "downloads": 1531,
       "cdnHits": 0
     },
     {
@@ -348,7 +348,7 @@
       ],
       "version": "1.0.20",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1278,
+      "downloads": 1279,
       "cdnHits": 2791
     },
     {
@@ -392,7 +392,7 @@
       "tags": [],
       "version": "1.0.3",
       "source": "guihaitianyi-cmd/evejs-mod-evejs-evejs-hacking-suite-1-0-3",
-      "downloads": 302,
+      "downloads": 303,
       "cdnHits": 0
     },
     {
@@ -1164,7 +1164,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "injusticemaster/evejs-mod-world-ark-91900",
-      "downloads": 253,
+      "downloads": 254,
       "cdnHits": 0
     },
     {
@@ -1304,7 +1304,7 @@
       ],
       "version": "1.3.13",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 192,
+      "downloads": 195,
       "cdnHits": 0
     },
     {
@@ -1744,7 +1744,7 @@
       ],
       "version": "1.0.0",
       "source": "JonnyTC/evejs-mod-evejs-dungeon-pocket-anchor-fix",
-      "downloads": 131,
+      "downloads": 132,
       "cdnHits": 0
     },
     {
@@ -1891,7 +1891,7 @@
       ],
       "version": "1.1.3",
       "source": "xxxuan42/evejs-mod-evejs-industrial-module-fast-cycle",
-      "downloads": 23,
+      "downloads": 24,
       "cdnHits": 0
     },
     {
@@ -2329,7 +2329,7 @@
       ],
       "version": "1.5.21",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
-      "downloads": 88,
+      "downloads": 89,
       "cdnHits": 0
     },
     {
@@ -3819,7 +3819,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "JT6TT+u0vD2NknYglYxJNk6fvPU9lPeGjtkCumVkFHlryxZZrxANUJXMsThl/ZIIbJIryJ3i0VcLfRvbEDikAg==",
-    "signedAt": "2026-11-13T16:46:47.111Z"
+    "sig": "OGrq6dmshAZXLj6KzmvEVMlW6QrcCxxeJ2PpD0ylFtG8kk56+cViT8dYM95lNe9eY6Ec70CQFB7UMZXLmqGvBg==",
+    "signedAt": "2026-11-13T16:59:35.592Z"
   }
 }

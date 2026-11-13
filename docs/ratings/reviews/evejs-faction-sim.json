@@ -1,8 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1794272677301,
+  "generatedAt": 1794546414439,
   "modId": "evejs-faction-sim",
   "reviews": [
+    {
+      "id": "rv-1794546412066-24908",
+      "keyId": "a1892473085e",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "0.5.2",
+      "date": "2026-11-13",
+      "body": "AI在不自己弄领地呢",
+      "edited": false
+    },
     {
       "id": "rv-1794272676048-13084",
       "keyId": "c6ee65a8b958",
@@ -53,6 +65,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "sfDl4YDcVysspfFoSD6TX8UtObsblOt88ElQUU4DfD1wrkoI1EhZmtn05G4yzlOtyDzDU0PcBajfP3+fJHuRDw=="
+    "sig": "KEc4roBLS7Uj7YN/47r3eorClb6Zr/hSw8e/q0vELybFvBiu6etJIX30E5jbJU4rzWQtz1TtZlNVtoe+Y12VAg=="
   }
 }

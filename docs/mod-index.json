@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-13T14:45:54.673Z",
+  "publishedAt": "2026-11-13T14:48:53.260Z",
   "mods": [
     {
       "author": {
@@ -249,7 +249,7 @@
         "name": "波坤太叔"
       },
       "category": "工具",
-      "changelog": "更新至261108.1版本",
+      "changelog": "修复一个小BUG",
       "conflicts": [],
       "delisted": false,
       "description": "仿国服自动锁定，自动集火",
@@ -3819,7 +3819,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "jeV/CVkdmCp6lqJiu2T3C0kIwJfQ2oHqWjHtw4B6q4ie3jfDrf50U3sO2eeUzpzUqBz7V24QqRdtwb3MGedWAA==",
-    "signedAt": "2026-11-13T14:45:54.677Z"
+    "sig": "bnolkJ4SAMKWCqSw54Pxph97+/DV72eyZVk6nsxiyTP5n2kj4KZXPSIAx88tNFPZ2G680Tj/5ctpZ5QQwbAqAg==",
+    "signedAt": "2026-11-13T14:48:53.265Z"
   }
 }

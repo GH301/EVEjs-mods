@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-13T16:59:35.586Z",
+  "publishedAt": "2026-11-13T17:12:07.445Z",
   "mods": [
     {
       "author": {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.8",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1531,
+      "downloads": 1533,
       "cdnHits": 0
     },
     {
@@ -348,7 +348,7 @@
       ],
       "version": "1.0.20",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1279,
+      "downloads": 1283,
       "cdnHits": 2791
     },
     {
@@ -530,7 +530,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 489,
+      "downloads": 490,
       "cdnHits": 0
     },
     {
@@ -2147,6 +2147,52 @@
       "version": "0.1.0",
       "source": "MateralCMX/evejs-mod-structure-timers",
       "downloads": 180,
+      "cdnHits": 0
+    },
+    {
+      "author": {
+        "id": "au-mvdfee9me05u",
+        "keyId": "0f5102b5a107",
+        "name": "XUAN"
+      },
+      "category": "AI",
+      "changelog": "",
+      "conflicts": [],
+      "delisted": false,
+      "description": "公开快递合同发布后，NPC 快递员「快递AI」自动接单：驾驶游牧者级 到起点站取件 → 出站等待 20 秒 → 用模组内置跳跃引擎直接跳到目的星系（不检查跳跃引擎、燃料与距离，无跳跃疲劳）→ 等待 10 秒 → 进入目的建筑交付并完成合同。AI 能进入任何建筑，空间站与建筑均可停靠；服务端重启后会按包裹当前位置继续承运。纯运行期模组，不修改服务端源码，停用并重启服务端即还原。",
+      "displayName": "快递 AI",
+      "downloadUrls": [
+        {
+          "mirror": "github",
+          "priority": 1,
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-courier-ai/releases/download/v1.0.2/evejs-courier-ai-1.0.2.zip"
+        }
+      ],
+      "evejsVersions": [
+        "261108.1"
+      ],
+      "featured": false,
+      "highlights": [],
+      "history": [],
+      "id": "evejs-courier-ai",
+      "publishedAt": "2026-11-13",
+      "readme": [
+        "公开快递合同一发布，服务端里的 NPC 快递员「快递AI」就会自己接单，驾驶游牧者级把包裹送到目的地。"
+      ],
+      "repo": "https://github.com/xxxuan42/evejs-mod-evejs-courier-ai",
+      "requiresRestart": true,
+      "sha256": "b62c5aa6b9ef1354fffbf4a391ba29609d0269518831686d544071fe6f4cd7bf",
+      "sizeBytes": 26016,
+      "tags": [
+        "快递",
+        "合同",
+        "AI",
+        "游牧者级",
+        "跳跃引擎"
+      ],
+      "version": "1.0.2",
+      "source": "xxxuan42/evejs-mod-evejs-courier-ai",
+      "downloads": 0,
       "cdnHits": 0
     },
     {
@@ -3819,7 +3865,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "OGrq6dmshAZXLj6KzmvEVMlW6QrcCxxeJ2PpD0ylFtG8kk56+cViT8dYM95lNe9eY6Ec70CQFB7UMZXLmqGvBg==",
-    "signedAt": "2026-11-13T16:59:35.592Z"
+    "sig": "9bDea+MK3vwKscJAjvLbltR069WwrmIceGhL7DXu4gWBaPGvOMG1OqTgw1f/1xyHWHWcsJ5FPt/hn/cymIn4DA==",
+    "signedAt": "2026-11-13T17:12:07.450Z"
   }
 }

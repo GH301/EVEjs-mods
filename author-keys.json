@@ -166,5 +166,11 @@
     "publicKey": "",
     "repo": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
     "firstSeen": "2026-11-09"
+  },
+  "au-mwgavqic5bay": {
+    "keyId": "1f069ade6d68",
+    "publicKey": "",
+    "repo": "ewinted/evejs-mod-evejs-mtu-multi-target",
+    "firstSeen": "2026-11-15"
   }
 }

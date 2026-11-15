@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1794666986423,
+  "generatedAt": 1794705697303,
   "mods": {
     "bug-fixes": {
       "stars": 1,
@@ -116,10 +116,10 @@
     },
     "evejs-faction-sim": {
       "stars": 5,
-      "comments": 4,
+      "comments": 5,
       "average": 5,
       "count": 5,
-      "withText": 4,
+      "withText": 5,
       "histogram": [
         0,
         0,
@@ -370,6 +370,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "l6cRk7vAgDf/YqespVhoV/Dszw4T+atx/uXuY8KL5ELnodK91pepd8M239pVUkuDzlAh4pd+LK5kwYwQS1deDg=="
+    "sig": "X0MuwKtjEY4P5u5MyVhahC2ePHeH8n+lkqo/Bq0Q7m/hUbIUnZs+yHoBexGuG9t0vlO7/GWNKmZcphxb07thAA=="
   }
 }

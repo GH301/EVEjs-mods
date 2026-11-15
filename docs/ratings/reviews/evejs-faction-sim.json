@@ -1,8 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": 1794546414439,
+  "generatedAt": 1794705697303,
   "modId": "evejs-faction-sim",
   "reviews": [
+    {
+      "id": "rv-1794705693364-7444",
+      "keyId": "0f2df1fe629c",
+      "author": "",
+      "corp": "",
+      "country": "CN",
+      "stars": 5,
+      "version": "0.5.2",
+      "date": "2026-11-15",
+      "body": "这个破模组发展起来会拖慢服务端启动时间 服务端更新他也不跟着更新 一堆bug  建议别用 里面的npc都跟死人一样 不会动 发展打架一切都在数据层 在你附近的又一动不动  纯纯往游戏里塞垃圾",
+      "edited": false
+    },
     {
       "id": "rv-1794546412066-24908",
       "keyId": "a1892473085e",
@@ -65,6 +77,6 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "evejs-ratings-2026-10-01",
-    "sig": "KEc4roBLS7Uj7YN/47r3eorClb6Zr/hSw8e/q0vELybFvBiu6etJIX30E5jbJU4rzWQtz1TtZlNVtoe+Y12VAg=="
+    "sig": "/vyYQovTDS/y2qizllYzCsnw11IaTNzf43B+LfY0fMrvymmr06lbk5BriHVvq5S5Hi1WVMl5us3H7PLcYlXaDA=="
   }
 }

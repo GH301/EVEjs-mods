@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-16T14:03:20.668Z",
+  "publishedAt": "2026-11-16T14:12:40.984Z",
   "mods": [
     {
       "author": {
@@ -575,7 +575,7 @@
       ],
       "version": "1.0.0",
       "source": "ewinted/evejs-mod-evejs-mtu-multi-target",
-      "downloads": 25,
+      "downloads": 26,
       "cdnHits": 0
     },
     {
@@ -1350,7 +1350,7 @@
       ],
       "version": "1.3.15",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 275,
+      "downloads": 276,
       "cdnHits": 0
     },
     {
@@ -1555,7 +1555,7 @@
       ],
       "version": "1.0.4",
       "source": "starcraft110/evejs-mod-evejs-hyperion-ship",
-      "downloads": 248,
+      "downloads": 249,
       "cdnHits": 0
     },
     {
@@ -1839,7 +1839,7 @@
       ],
       "version": "1.0.0",
       "source": "Mimataer/evejs-mod-evejs-da-fei-yu-zhu-quan-bu-shu",
-      "downloads": 14,
+      "downloads": 16,
       "cdnHits": 0
     },
     {
@@ -1939,7 +1939,7 @@
       ],
       "version": "1.1.1",
       "source": "huihuangdi/evejs-mod-evejs-attribute-editor",
-      "downloads": 141,
+      "downloads": 142,
       "cdnHits": 0
     },
     {
@@ -2243,7 +2243,7 @@
       ],
       "version": "1.0.8",
       "source": "xxxuan42/evejs-mod-evejs-courier-ai",
-      "downloads": 70,
+      "downloads": 71,
       "cdnHits": 0
     },
     {
@@ -2447,31 +2447,32 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/xxxuan42/evejs-mod-evejs-auto-mining-compression/releases/download/v1.1.1/evejs-auto-mining-compression-1.1.1.zip"
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-auto-mining-compression/releases/download/v1.1.3/evejs-auto-mining-compression-1.1.3.zip"
         }
       ],
       "evejsVersions": [
         "261028.1",
-        "261108.1"
+        "261108.1",
+        "261115.2"
       ],
       "featured": false,
       "highlights": [],
       "history": [],
       "id": "evejs-auto-mining-compression",
-      "publishedAt": "2026-11-10",
+      "publishedAt": "2026-11-16",
       "readme": [],
       "repo": "https://github.com/xxxuan42/evejs-mod-evejs-auto-mining-compression",
       "requiresRestart": true,
-      "sha256": "a94ef3bd0cd4db0e2162703ea7b09dfd0249e2c30e97fc84a7d79f5c7ace409b",
-      "sizeBytes": 15678,
+      "sha256": "b156d4581aa4b68181bf5b24fad550d4feac1fea28a4f0118e76f35091a8b6da",
+      "sizeBytes": 15688,
       "tags": [
         "无人机",
         "采矿",
         "压缩"
       ],
-      "version": "1.1.1",
+      "version": "1.1.3",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 205,
+      "downloads": 206,
       "cdnHits": 0
     },
     {
@@ -2612,7 +2613,7 @@
       ],
       "version": "1.0.3",
       "source": "xxxuan42/evejs-mod-evejs-stargate-jump-anywhere",
-      "downloads": 38,
+      "downloads": 39,
       "cdnHits": 0
     },
     {
@@ -3060,7 +3061,7 @@
       ],
       "version": "1.0.1",
       "source": "jealous123456789/evejs-mod-industry-job-slots",
-      "downloads": 48,
+      "downloads": 49,
       "cdnHits": 0
     },
     {
@@ -3168,7 +3169,7 @@
       ],
       "version": "1.1.5",
       "source": "xxxuan42/evejs-mod-evejs-industrial-module-fast-cycle",
-      "downloads": 71,
+      "downloads": 73,
       "cdnHits": 0
     },
     {
@@ -3510,7 +3511,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-autopilot-warp-zero",
-      "downloads": 74,
+      "downloads": 75,
       "cdnHits": 0
     },
     {
@@ -3772,7 +3773,7 @@
       ],
       "version": "1.1.0",
       "source": "lxm970112-hub/evejs-mod-evejs-wormhole-anomaly-repair-261028",
-      "downloads": 3,
+      "downloads": 5,
       "cdnHits": 0
     },
     {
@@ -4049,7 +4050,7 @@
       ],
       "version": "1.0.5",
       "source": "lxm970112-hub/evejs-mod-evejs-tie-qi-hu-hang",
-      "downloads": 84,
+      "downloads": 85,
       "cdnHits": 0
     }
   ],
@@ -4082,7 +4083,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "U0/YXZpJi5xFS+TJHpgiwPGZsls1ikfdyhXO4Lpn5ZZRU4dL1mSh7qeNbdS458QP8lYrhBbayQRYpR4R34NQAg==",
-    "signedAt": "2026-11-16T14:03:20.673Z"
+    "sig": "D9qOM2V9wEMqE2UXM2M0mhZhnOaMO7dmTfoGiOO9zeJiU5qWVSMkteKJHmD/KL7+gqdLSwQoZRQVq/a0iXA4Cg==",
+    "signedAt": "2026-11-16T14:12:40.989Z"
   }
 }

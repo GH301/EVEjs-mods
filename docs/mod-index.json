@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-16T13:39:29.804Z",
+  "publishedAt": "2026-11-16T13:42:06.165Z",
   "mods": [
     {
       "author": {
@@ -2257,24 +2257,25 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/xxxuan42/evejs-mod-evejs-courier-ai/releases/download/v1.0.7/evejs-courier-ai-1.0.7.zip"
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-courier-ai/releases/download/v1.0.8/evejs-courier-ai-1.0.8.zip"
         }
       ],
       "evejsVersions": [
-        "261108.1"
+        "261108.1",
+        "261115.2"
       ],
       "featured": false,
       "highlights": [],
       "history": [],
       "id": "evejs-courier-ai",
-      "publishedAt": "2026-11-14",
+      "publishedAt": "2026-11-16",
       "readme": [
         "公开快递合同一发布，服务端里的 NPC 快递员「快递AI」就会自己接单，驾驶游牧者级把包裹送到目的地。"
       ],
       "repo": "https://github.com/xxxuan42/evejs-mod-evejs-courier-ai",
       "requiresRestart": true,
-      "sha256": "762b128cabf65a429ea25b3626b5b8c094f609b39d2e57ec2d05b4d3c4977573",
-      "sizeBytes": 31189,
+      "sha256": "56eaa4e2d15c320b73b9b6ebe33aca273aa0316b3c66742ecde135273790f46e",
+      "sizeBytes": 31194,
       "tags": [
         "快递",
         "合同",
@@ -2284,7 +2285,7 @@
         "邮件通知",
         "席拉"
       ],
-      "version": "1.0.7",
+      "version": "1.0.8",
       "source": "xxxuan42/evejs-mod-evejs-courier-ai",
       "downloads": 69,
       "cdnHits": 0
@@ -3915,7 +3916,7 @@
       "changelog": "",
       "conflicts": [],
       "delisted": false,
-      "description": "跳跃引擎：一键把飞船跳到当前终点。用法：①在星图/信息面板把目标设为终点（星系、空间站、建筑、星门、天体、小行星带、深空书签、虫洞空间星系均可）；②点击 HUD 右侧的跳跃按钮（悬停可看使用说明）。落点规则：星系终点→恒星表面上方 1000km 随机点；空间站/建筑/星门/天体/小行星带/深空书签→目标表面外 14m 随机点。未设终点时完整还原微型跳跃引擎（MJD）：充能 5 秒（播充能动画/音效）后跳到正前方 500km；若已锁定目标，或右键对目标选择接近/朝向，且目标表面距离 2–2000km，则落到目标表面外 1km（空间站/建筑/舰船均可）；被跃迁扰频器干扰时无法启动。跨星系播放约 3–4 秒旗舰跳跃动画，同星系内为瞬时位移。任何飞船可用，不检查跳跃引擎、不消耗燃料、不检查距离。按钮与登录载荷由本模组自带；仅服务端内存补丁，不改客户端文件、数据库与服务端源码。",
+      "description": "跳跃引擎：一键把飞船跳到当前终点。用法：①在星图/信息面板把目标设为终点（星系、空间站、建筑、星门、天体、小行星带、深空书签、虫洞空间星系均可）；②点击 HUD 右侧的跳跃按钮（悬停可看使用说明）。落点规则：星系终点→恒星表面上方 1000km 随机点；空间站/建筑/星门/天体/小行星带/深空书签→目标表面外 14m 随机点。同星系终点跳跃会先播放 5 秒充能（充能动画/音效 + 落点闪光）再落到终点，不再瞬移。未设终点时完整还原微型跳跃引擎（MJD）：充能 5 秒后跳到正前方 500km；若已锁定目标，或右键对目标选择接近/朝向，且目标表面距离 2–2000km，则落到目标表面外 1km（空间站/建筑/舰船均可）；被跃迁扰频器干扰时无法启动。按钮按下后外围进度环走一圈显示充能/冷却（5 秒），期间点击会提示剩余时间；跳跃成功、充能中、冷却中与失败原因均通过屏幕顶部游戏内提示反馈。跨星系播放约 3–4 秒旗舰跳跃动画。任何飞船可用，不检查跳跃引擎、不消耗燃料、不检查距离。按钮与登录载荷由本模组自带；仅服务端内存补丁，不改客户端文件、数据库与服务端源码。",
       "displayName": "跳跃引擎",
       "downloadUrls": [
         {
@@ -3926,7 +3927,8 @@
       ],
       "evejsVersions": [
         "261028.1",
-        "261108.1"
+        "261108.1",
+        "261115.2"
       ],
       "featured": false,
       "highlights": [],
@@ -4076,7 +4078,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "ByJvQE/TnPIJYBJY9YYxWyMtbRHH7L5d0H+rqWaJ+iCLy902f/CLD1PSIh7PlkZyX8rn4OdlnTcrNIV+MfK4AQ==",
-    "signedAt": "2026-11-16T13:39:29.808Z"
+    "sig": "LaXLk8PyR/GH+p9XcfNEk+Rv6Rvgxi2MZ+/xqZxmdzM47Z9wz1bkg0+ZqC5lXiivrYtglEVSQyrlSunQYxBQDg==",
+    "signedAt": "2026-11-16T13:42:06.171Z"
   }
 }

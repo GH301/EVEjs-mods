@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-16T14:12:40.984Z",
+  "publishedAt": "2026-11-16T14:15:54.058Z",
   "mods": [
     {
       "author": {
@@ -700,7 +700,6 @@
       ],
       "banner": "shots/Banner/banner.jpg",
       "source": "xuenaimiao/evejs-mod-evejs-faction-sim",
-      "downloads": 2267,
       "cdnHits": 3351
     },
     {
@@ -4083,7 +4082,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "D9qOM2V9wEMqE2UXM2M0mhZhnOaMO7dmTfoGiOO9zeJiU5qWVSMkteKJHmD/KL7+gqdLSwQoZRQVq/a0iXA4Cg==",
-    "signedAt": "2026-11-16T14:12:40.989Z"
+    "sig": "nSG2+wIOcMj9/vAqu2zT2529jF8vy6qYmPEOb9sl/RjlTNnCxHg0JeURsw2Dd8khR0QAP9N7yvpBZa5xV0jtCQ==",
+    "signedAt": "2026-11-16T14:15:54.063Z"
   }
 }

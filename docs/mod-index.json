@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-16T14:21:56.435Z",
+  "publishedAt": "2026-11-16T14:35:52.532Z",
   "mods": [
     {
       "author": {
@@ -239,7 +239,7 @@
       "tags": [],
       "version": "0.18.2",
       "source": "MateralCMX/evejs-mod-bug-fixes",
-      "downloads": 783,
+      "downloads": 784,
       "cdnHits": 0
     },
     {
@@ -286,7 +286,7 @@
       ],
       "version": "1.1.8",
       "source": "diguo520/evejs-mod-evejs-autolockfire",
-      "downloads": 1674,
+      "downloads": 1676,
       "cdnHits": 0
     },
     {
@@ -348,7 +348,7 @@
       ],
       "version": "1.0.20",
       "source": "diguo520/evejs-mod-evejs-automining",
-      "downloads": 1400,
+      "downloads": 1402,
       "cdnHits": 2982
     },
     {
@@ -485,7 +485,7 @@
       "tags": [],
       "version": "0.2.3",
       "source": "MateralCMX/evejs-mod-ship-blueprints",
-      "downloads": 281,
+      "downloads": 283,
       "cdnHits": 8
     },
     {
@@ -530,7 +530,7 @@
       "tags": [],
       "version": "0.1.2",
       "source": "MateralCMX/evejs-mod-gm-menu-localization",
-      "downloads": 522,
+      "downloads": 523,
       "cdnHits": 0
     },
     {
@@ -575,7 +575,7 @@
       ],
       "version": "1.0.0",
       "source": "ewinted/evejs-mod-evejs-mtu-multi-target",
-      "downloads": 27,
+      "downloads": 29,
       "cdnHits": 0
     },
     {
@@ -585,7 +585,7 @@
         "name": "GH301"
       },
       "category": "玩法",
-      "changelog": "### RTS 模式（新）\n\n- 面板新增「RTS模式」标签页：左边星图，右边船员卡 / 舰队卡\n- 星图：恒星 / 行星 / 卫星 / 矿带 / 空间站 / 玩家建筑 / 星门 / 异常点 / 信号 / 玩家 / RTS 船员；滚轮缩放 1–8×、拖动平移、双击复位；重叠图标聚合成数字圆点，悬浮出列表；异常点名称可常显；矿带和异常点悬浮显示这里有什么矿\n- 右键下令：跃迁 0/10/50/100 km、接近 / 环绕 / 保持 10 km、采矿、待命；超过 150 km 走跃迁，150 km 内自动改接近；重启服务端后命令继续\n- 舰队：组建 / 换队长 / 解散 / 加入 / 退出；舰队卡可整队控制攻击、特殊装备、无人机、舰载机、全队待命；「整备」让队员向队长集结，同星系直接靠拢、跨星系走星门\n- 多支舰队并存，各自显示攻击开合、附近敌对、待命状态\n- 跨星系：前往玩家位置（一路走星门，不瞬移）、前往星系（搜名字或 ID）、右键星门过门\n- 执行任务：清理本星系异常，按异常类型勾选，清完一个自己去下一个\n- 状态一眼看：红＝附近有敌对 / 蓝＝有命令在跑 / 黄＝没任务或异常点已清空；被打会闪；详情里有护盾 / 装甲 / 结构 / 电容 / 槽位 / 无人机 / 舰载机\n- 你停靠或下线后，RTS 船员照常执行命令\n\n### 采矿直送与采矿任务（新）\n\n- 任务四类：采集矿带、采集采矿异常（矿石 / 气体）、采集冰矿异常；勾多个点逐个采，采空换下一个\n- 整队采矿：队长周围没有可采矿了，整队一起去下一个点\n- 直送：货舱到阈值就把矿直接进共用存放站的玩家仓库——不建合同、不飞回站、不需要机库船；压不了就直接送原矿\n- 压缩：矿舱有变化就压一次；工业核心周围有矿自动开、没有自动关；指挥舰负责开核心 / 压缩机 / 指挥脉冲，采矿交给无人机\n- 选矿：射程内的矿都被同伴占了，就先一起挖最近那块；一块都没有才去更远的矿\n- 「收矿」按钮：船员卡 / 舰队卡 / 舰队「查看详细」里都能手动把矿送去存放站，不看 80% 阈值、不停采矿\n- 救援队：选中的船员平时待机，哪支矿队被攻击就跃迁过去开火支援，附近没有敌对就回待机\n- 解散 / 全部解散：先停采矿、把矿送到存放站，再解散；送矿失败会问你「仍然解散（矿留在船上）」\n\n### 打捞（新）\n\n- 船员 300 km 内、有归属权的残骸，掉落物直接进目标站 / 建筑的玩家仓库（不经过船员货舱）；开关默认开，存放站可改，能搜玩家建筑\n\n### 界面\n\n- 中英双语：设置 → 界面语言（中文 / English），也认地址里的 `?lang=en`；帮助、RTS 说明、登录提示都是完整英文，浏览器的确认框也跟着翻\n- 「设置 / Settings」「界面语言 / Language」两个入口永远中英并列，切哪种语言都找得到\n- 卡片按钮补齐（收矿、查看详细、退出舰队…）；整队控制可折叠，折叠状态按舰队记住",
+      "changelog": "- RTS 船员自己跃迁前先收回无人机和舰载机：右键跃迁、整备、去星门、前往玩家位置 / 星系、过门都先收；收不回来不挡跃迁\n- 兼容 261108.1 和 261115.2\n- 261115.2 上 `/crewmine` / `!crewmine` 恢复（新版聊天命令入口适配）",
       "conflicts": [],
       "delisted": false,
       "description": "NFCrew · 船员编队：真角色、真舰船，编成舰队当 RTS 部队用。\n\n怎么开始：/crewmine ui（浏览器 127.0.0.1:8741，每账号独立令牌；非 GM 用 !crewmine <参数>）\n\n能做的：采矿（采满直接进存放站）、编队打仗、遥修、打捞、清异常。",
@@ -594,27 +594,29 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/GH301/evejs-mod-evejs-nf-crew/releases/download/v1.3.0/evejs-nf-crew-1.3.0.zip"
+          "url": "https://github.com/GH301/evejs-mod-evejs-nf-crew/releases/download/v1.3.1/evejs-nf-crew-1.3.1.zip"
         }
       ],
       "evejsVersions": [
         "0.12.9",
         "261018.1",
-        "261028.1"
+        "261028.1",
+        "261108.1",
+        "261115.2"
       ],
       "featured": false,
       "highlights": [],
       "history": [],
       "id": "evejs-nf-crew",
-      "publishedAt": "2026-11-13",
+      "publishedAt": "2026-11-16",
       "readme": [
         "> **这是什么**：召唤一批**真实角色 + 真实舰船**的\"船员\"，跟着你采矿、打仗、遥修。\n> 他们有自己的角色记录、自己的船、自己的货舱，进你的舰队、跟你跃迁，挖到的矿压缩后直接进共用存放站的**玩家仓库**（不需要机库船）。",
         "---"
       ],
       "repo": "https://github.com/GH301/evejs-mod-evejs-nf-crew",
       "requiresRestart": true,
-      "sha256": "e020ded3e91cbc58799071ac243ca30432000d6903bc41c6229b5a326e08542d",
-      "sizeBytes": 715793,
+      "sha256": "0cf447da738fc4413bb797c17107a42e93df492a87e93d56eef893d63feb889b",
+      "sizeBytes": 716501,
       "tags": [
         "采矿",
         "战斗",
@@ -624,7 +626,7 @@
         "RTS",
         "指挥"
       ],
-      "version": "1.3.0",
+      "version": "1.3.1",
       "source": "GH301/evejs-mod-evejs-nf-crew",
       "downloads": 501,
       "cdnHits": 0
@@ -1114,7 +1116,7 @@
       "tags": [],
       "version": "0.3.1",
       "source": "huihuangdi/evejs-mod-npc-loot-rules-261028",
-      "downloads": 165,
+      "downloads": 166,
       "cdnHits": 0
     },
     {
@@ -1257,7 +1259,7 @@
       ],
       "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1240,
+      "downloads": 1241,
       "cdnHits": 0
     },
     {
@@ -1302,7 +1304,7 @@
       ],
       "version": "1.0.0",
       "source": "kokoandqiong/evejs-mod-evejs-sov-workforce-fix",
-      "downloads": 118,
+      "downloads": 119,
       "cdnHits": 0
     },
     {
@@ -1350,7 +1352,7 @@
       ],
       "version": "1.3.15",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 277,
+      "downloads": 279,
       "cdnHits": 0
     },
     {
@@ -1504,7 +1506,7 @@
       ],
       "version": "1.2.1",
       "source": "jealous123456789/evejs-mod-mission-content-repair",
-      "downloads": 503,
+      "downloads": 504,
       "cdnHits": 0
     },
     {
@@ -1694,7 +1696,7 @@
       ],
       "version": "1.0.3",
       "source": "xxxuan42/evejs-mod-evejs-moonscan-all",
-      "downloads": 100,
+      "downloads": 101,
       "cdnHits": 0
     },
     {
@@ -1839,7 +1841,7 @@
       ],
       "version": "1.0.0",
       "source": "Mimataer/evejs-mod-evejs-da-fei-yu-zhu-quan-bu-shu",
-      "downloads": 16,
+      "downloads": 17,
       "cdnHits": 0
     },
     {
@@ -1939,7 +1941,7 @@
       ],
       "version": "1.1.1",
       "source": "huihuangdi/evejs-mod-evejs-attribute-editor",
-      "downloads": 142,
+      "downloads": 143,
       "cdnHits": 0
     },
     {
@@ -2243,7 +2245,7 @@
       ],
       "version": "1.0.10",
       "source": "xxxuan42/evejs-mod-evejs-courier-ai",
-      "downloads": 72,
+      "downloads": 76,
       "cdnHits": 0
     },
     {
@@ -2334,7 +2336,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-overview-display-fix",
-      "downloads": 154,
+      "downloads": 155,
       "cdnHits": 0
     },
     {
@@ -2472,7 +2474,7 @@
       ],
       "version": "1.1.3",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 206,
+      "downloads": 211,
       "cdnHits": 0
     },
     {
@@ -3005,7 +3007,7 @@
       ],
       "version": "1.0.2",
       "source": "jealous123456789/evejs-mod-better-loot",
-      "downloads": 93,
+      "downloads": 94,
       "cdnHits": 0
     },
     {
@@ -3061,7 +3063,7 @@
       ],
       "version": "1.0.1",
       "source": "jealous123456789/evejs-mod-industry-job-slots",
-      "downloads": 49,
+      "downloads": 50,
       "cdnHits": 0
     },
     {
@@ -3169,7 +3171,7 @@
       ],
       "version": "1.1.5",
       "source": "xxxuan42/evejs-mod-evejs-industrial-module-fast-cycle",
-      "downloads": 74,
+      "downloads": 77,
       "cdnHits": 0
     },
     {
@@ -3216,7 +3218,7 @@
       "tags": [],
       "version": "0.1.3",
       "source": "MateralCMX/evejs-mod-mobile-tractor-enhancement",
-      "downloads": 404,
+      "downloads": 405,
       "cdnHits": 0
     },
     {
@@ -3403,7 +3405,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-chat-edge-lane-fix",
-      "downloads": 46,
+      "downloads": 47,
       "cdnHits": 0
     },
     {
@@ -3462,7 +3464,7 @@
       ],
       "version": "1.0.3",
       "source": "jealous123456789/evejs-mod-evejs-logo-manager",
-      "downloads": 93,
+      "downloads": 94,
       "cdnHits": 0
     },
     {
@@ -3511,7 +3513,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-autopilot-warp-zero",
-      "downloads": 75,
+      "downloads": 76,
       "cdnHits": 0
     },
     {
@@ -3620,7 +3622,7 @@
       ],
       "version": "1.0.0",
       "source": "jealous123456789/evejs-mod-pi-manager",
-      "downloads": 42,
+      "downloads": 43,
       "cdnHits": 0
     },
     {
@@ -3773,7 +3775,7 @@
       ],
       "version": "1.1.0",
       "source": "lxm970112-hub/evejs-mod-evejs-wormhole-anomaly-repair-261028",
-      "downloads": 5,
+      "downloads": 6,
       "cdnHits": 0
     },
     {
@@ -3955,7 +3957,7 @@
       ],
       "version": "1.10.3",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 282,
+      "downloads": 284,
       "cdnHits": 0
     },
     {
@@ -4000,7 +4002,7 @@
       ],
       "version": "1.0.4",
       "source": "kokoandqiong/evejs-mod-evejs-tie-qi-zhong-wu-shang-hai-xiu-fu",
-      "downloads": 252,
+      "downloads": 253,
       "cdnHits": 0
     },
     {
@@ -4050,7 +4052,7 @@
       ],
       "version": "1.0.5",
       "source": "lxm970112-hub/evejs-mod-evejs-tie-qi-hu-hang",
-      "downloads": 85,
+      "downloads": 87,
       "cdnHits": 0
     }
   ],
@@ -4083,7 +4085,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "KhPqQ6Hda8iwXP15CFwi0KY2LOD1QyCBv7sD9v3SOSYF2SjSyjTk/66osbbxTUCcAdY73bwmEQfN3wu3sXZDBQ==",
-    "signedAt": "2026-11-16T14:21:56.441Z"
+    "sig": "X7OIXXo44eDKkVHeTtO64L4lEz5uRrtagrfTww+AnNrYpIpovNJuVH45v+bBMTpeFXEtiERUAC1CjDfBvcs9AA==",
+    "signedAt": "2026-11-16T14:35:52.538Z"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-16T13:53:30.478Z",
+  "publishedAt": "2026-11-16T14:03:20.668Z",
   "mods": [
     {
       "author": {
@@ -180,7 +180,7 @@
       "tags": [],
       "version": "1.1.0",
       "source": "rzwm/evejs-mod-evejs-beijing-time",
-      "downloads": 358,
+      "downloads": 359,
       "cdnHits": 3
     },
     {
@@ -575,7 +575,7 @@
       ],
       "version": "1.0.0",
       "source": "ewinted/evejs-mod-evejs-mtu-multi-target",
-      "downloads": 24,
+      "downloads": 25,
       "cdnHits": 0
     },
     {
@@ -1257,7 +1257,7 @@
       ],
       "version": "1.0.10",
       "source": "diguo520/evejs-mod-evejs-cntext-fix",
-      "downloads": 1239,
+      "downloads": 1240,
       "cdnHits": 0
     },
     {
@@ -1350,7 +1350,7 @@
       ],
       "version": "1.3.15",
       "source": "xxxuan42/evejs-mod-evejs-skyhook-reagent-boost",
-      "downloads": 274,
+      "downloads": 275,
       "cdnHits": 0
     },
     {
@@ -1667,30 +1667,32 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/xxxuan42/evejs-mod-evejs-moonscan-all/releases/download/v1.0.0/evejs-moonscan-all-1.0.0.zip"
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-moonscan-all/releases/download/v1.0.3/evejs-moonscan-all-1.0.3.zip"
         }
       ],
       "evejsVersions": [
-        "261028.1"
+        "261028.1",
+        "261108.1",
+        "261115.2"
       ],
       "featured": false,
       "highlights": [],
       "history": [],
       "id": "evejs-moonscan-all",
-      "publishedAt": "2026-11-04",
+      "publishedAt": "2026-11-16",
       "readme": [
-        "- 探针本身的行为不变：仍按 `explosionDelay`（属性 281）等待、按 `maxVelocity`（属性 37）飞行。\n- 组成包未安装 / 指定星系不在包内（例如 Pochven）时，保持服务端原本的失败关闭行为：只回传探针实际命中的那颗卫星。\n- 兼容 EveJS `261028.1`；需要启动器提供注入总线（`globalThis.__evejsMods`）。"
+        "- 探针本身的行为不变：仍按 `explosionDelay`（属性 281）等待、按 `maxVelocity`（属性 37）飞行。\n- 组成包未安装 / 指定星系不在包内（例如 Pochven）时，保持服务端原本的失败关闭行为：只回传探针实际命中的那颗卫星。\n- 兼容 EveJS `261028.1` / `261108.1` / `261115.2`；需要启动器提供注入总线（`globalThis.__evejsMods`）。"
       ],
       "repo": "https://github.com/xxxuan42/evejs-mod-evejs-moonscan-all",
       "requiresRestart": true,
-      "sha256": "1f12f5449f46171698c3f7635748205a6f1f603b479f72262db3bedbf4cb6234",
-      "sizeBytes": 13828,
+      "sha256": "a600ac8ae1553d4912edc88dff8feb033fef32108240fe37de8f54edf8964a21",
+      "sizeBytes": 14078,
       "tags": [
         "卫星",
         "探测",
         "扫描"
       ],
-      "version": "1.0.0",
+      "version": "1.0.3",
       "source": "xxxuan42/evejs-mod-evejs-moonscan-all",
       "downloads": 98,
       "cdnHits": 0
@@ -2241,7 +2243,7 @@
       ],
       "version": "1.0.8",
       "source": "xxxuan42/evejs-mod-evejs-courier-ai",
-      "downloads": 69,
+      "downloads": 70,
       "cdnHits": 0
     },
     {
@@ -2426,7 +2428,7 @@
       ],
       "version": "1.5.22",
       "source": "lxm970112-hub/evejs-mod-evejs-wa-kuang",
-      "downloads": 142,
+      "downloads": 143,
       "cdnHits": 2
     },
     {
@@ -3118,7 +3120,7 @@
       ],
       "version": "3.2.0",
       "source": "Jasper377/evejs-mod-evejs-racks16",
-      "downloads": 480,
+      "downloads": 481,
       "cdnHits": 3
     },
     {
@@ -3166,7 +3168,7 @@
       ],
       "version": "1.1.5",
       "source": "xxxuan42/evejs-mod-evejs-industrial-module-fast-cycle",
-      "downloads": 70,
+      "downloads": 71,
       "cdnHits": 0
     },
     {
@@ -3558,7 +3560,7 @@
       "tags": [],
       "version": "1.0.0",
       "source": "rzwm/evejs-mod-evejs-autopilot-jump-stargate-0km",
-      "downloads": 322,
+      "downloads": 323,
       "cdnHits": 3
     },
     {
@@ -3770,7 +3772,7 @@
       ],
       "version": "1.1.0",
       "source": "lxm970112-hub/evejs-mod-evejs-wormhole-anomaly-repair-261028",
-      "downloads": 2,
+      "downloads": 3,
       "cdnHits": 0
     },
     {
@@ -3952,7 +3954,7 @@
       ],
       "version": "1.10.3",
       "source": "xxxuan42/evejs-mod-evejs-jumpdrive-to-star",
-      "downloads": 279,
+      "downloads": 281,
       "cdnHits": 0
     },
     {
@@ -4080,7 +4082,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "BEVlXhL77zY9XrHrKxsTAiNSUq31p3bWL9hLTdxbrMwyREkZ3gItNVFt3GQwKF/uh2Ja5o1kfyOI3aAg5DmaAg==",
-    "signedAt": "2026-11-16T13:53:30.481Z"
+    "sig": "U0/YXZpJi5xFS+TJHpgiwPGZsls1ikfdyhXO4Lpn5ZZRU4dL1mSh7qeNbdS458QP8lYrhBbayQRYpR4R34NQAg==",
+    "signedAt": "2026-11-16T14:03:20.673Z"
   }
 }

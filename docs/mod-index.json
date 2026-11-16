@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-16T13:27:28.057Z",
+  "publishedAt": "2026-11-16T13:37:42.943Z",
   "mods": [
     {
       "author": {
@@ -1836,7 +1836,7 @@
       ],
       "version": "1.0.0",
       "source": "Mimataer/evejs-mod-evejs-da-fei-yu-zhu-quan-bu-shu",
-      "downloads": 12,
+      "downloads": 14,
       "cdnHits": 0
     },
     {
@@ -2514,7 +2514,7 @@
       ],
       "version": "1.1.1",
       "source": "xxxuan42/evejs-mod-evejs-auto-mining-compression",
-      "downloads": 204,
+      "downloads": 205,
       "cdnHits": 0
     },
     {
@@ -2625,34 +2625,35 @@
         {
           "mirror": "github",
           "priority": 1,
-          "url": "https://github.com/xxxuan42/evejs-mod-evejs-stargate-jump-anywhere/releases/download/v1.0.1/evejs-stargate-jump-anywhere-1.0.1.zip"
+          "url": "https://github.com/xxxuan42/evejs-mod-evejs-stargate-jump-anywhere/releases/download/v1.0.3/evejs-stargate-jump-anywhere-1.0.3.zip"
         }
       ],
       "evejsVersions": [
         "0.12.9",
         "261018.x",
         "261028.1",
-        "261108.1"
+        "261108.1",
+        "261115.2"
       ],
       "featured": false,
       "highlights": [],
       "history": [],
       "id": "evejs-stargate-jump-anywhere",
-      "publishedAt": "2026-11-12",
+      "publishedAt": "2026-11-16",
       "readme": [
         "右键星门点「跳跃」直接过门，不再需要先把船贴近到星门 2500m 内。"
       ],
       "repo": "https://github.com/xxxuan42/evejs-mod-evejs-stargate-jump-anywhere",
       "requiresRestart": true,
-      "sha256": "1e8e894be278ff41592bfdefe45a3b874181688d13a7206d5c1b73460065ae64",
-      "sizeBytes": 34217,
+      "sha256": "df752458e40e1573c9a8ff5e0eb6094508807201214f920ad5939d3898ae9336",
+      "sizeBytes": 34439,
       "tags": [
         "星门",
         "跳跃",
         "距离",
         "右键菜单"
       ],
-      "version": "1.0.1",
+      "version": "1.0.3",
       "source": "xxxuan42/evejs-mod-evejs-stargate-jump-anywhere",
       "downloads": 36,
       "cdnHits": 0
@@ -3162,7 +3163,7 @@
       ],
       "version": "3.2.0",
       "source": "Jasper377/evejs-mod-evejs-racks16",
-      "downloads": 479,
+      "downloads": 480,
       "cdnHits": 3
     },
     {
@@ -4075,7 +4076,7 @@
   "signature": {
     "alg": "ed25519",
     "keyId": "944f9c6ed4b6",
-    "sig": "wstury8LwXim2osvlVfh1DnOny5OFQiREj5smhaBKQgQ0qx2WeeqWnJfOqxdbbsrI32ZKRvXyABoQbg7f7ITBQ==",
-    "signedAt": "2026-11-16T13:27:28.062Z"
+    "sig": "kH3LBG39dc6G6ZcktR0p4F7uRFjW8CD8hhH6L445lefcrbZAAJZ87okRlNO9OVuz8BkN3UCPrj234iew75GAAg==",
+    "signedAt": "2026-11-16T13:37:42.948Z"
   }
 }
